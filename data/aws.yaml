@@ -1,5 +1,5 @@
 payload:
-  - DOMAIN-SUFFIX,aws
+  - DOMAIN-KEYWORD,aws
   - DOMAIN-SUFFIX,acmvalidations.com
   - DOMAIN-SUFFIX,acmvalidationsaws.com
   - DOMAIN-SUFFIX,aesworkshops.com

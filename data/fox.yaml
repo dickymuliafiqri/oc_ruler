@@ -1,5 +1,5 @@
 payload:
-  - DOMAIN-SUFFIX,fox
+  - DOMAIN-KEYWORD,fox
   - DOMAIN-SUFFIX,fox-corporation.com
   - DOMAIN-SUFFIX,fox-news.com
   - DOMAIN-SUFFIX,fox.com

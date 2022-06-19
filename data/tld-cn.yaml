@@ -1,6 +1,6 @@
 payload:
-  - DOMAIN-SUFFIX,cn
-  - DOMAIN-SUFFIX,citic
-  - DOMAIN-SUFFIX,baidu
-  - DOMAIN-SUFFIX,unicom
-  - DOMAIN-SUFFIX,sohu
+  - DOMAIN-KEYWORD,cn
+  - DOMAIN-KEYWORD,citic
+  - DOMAIN-KEYWORD,baidu
+  - DOMAIN-KEYWORD,unicom
+  - DOMAIN-KEYWORD,sohu

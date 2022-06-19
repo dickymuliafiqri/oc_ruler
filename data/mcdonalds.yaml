@@ -1,6 +1,6 @@
 payload:
-  - DOMAIN-SUFFIX,mcd
-  - DOMAIN-SUFFIX,mcdonalds
+  - DOMAIN-KEYWORD,mcd
+  - DOMAIN-KEYWORD,mcdonalds
   - DOMAIN-SUFFIX,4008-517-517.cn
   - DOMAIN-SUFFIX,aboutmcdonalds.com
   - DOMAIN-SUFFIX,happymeal.co.nz

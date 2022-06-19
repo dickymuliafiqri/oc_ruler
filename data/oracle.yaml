@@ -1,5 +1,5 @@
 payload:
-  - DOMAIN-SUFFIX,oracle
+  - DOMAIN-KEYWORD,oracle
   - DOMAIN-SUFFIX,oracle.com
   - DOMAIN-SUFFIX,oraclecloud.com
   - DOMAIN-SUFFIX,oraclefoundation.org

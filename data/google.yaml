@@ -1,17 +1,17 @@
 payload:
-  - DOMAIN-SUFFIX,and
-  - DOMAIN-SUFFIX,chrome
-  - DOMAIN-SUFFIX,dclk
-  - DOMAIN-SUFFIX,gbiz
-  - DOMAIN-SUFFIX,gle
-  - DOMAIN-SUFFIX,gmail
-  - DOMAIN-SUFFIX,goo
-  - DOMAIN-SUFFIX,goog
-  - DOMAIN-SUFFIX,google
-  - DOMAIN-SUFFIX,guge
-  - DOMAIN-SUFFIX,hangout
-  - DOMAIN-SUFFIX,nexus
-  - DOMAIN-SUFFIX,xn--qcka1pmc
+  - DOMAIN-KEYWORD,and
+  - DOMAIN-KEYWORD,chrome
+  - DOMAIN-KEYWORD,dclk
+  - DOMAIN-KEYWORD,gbiz
+  - DOMAIN-KEYWORD,gle
+  - DOMAIN-KEYWORD,gmail
+  - DOMAIN-KEYWORD,goo
+  - DOMAIN-KEYWORD,goog
+  - DOMAIN-KEYWORD,google
+  - DOMAIN-KEYWORD,guge
+  - DOMAIN-KEYWORD,hangout
+  - DOMAIN-KEYWORD,nexus
+  - DOMAIN-KEYWORD,xn--qcka1pmc
   - DOMAIN-SUFFIX,google.ad
   - DOMAIN-SUFFIX,google.ae
   - DOMAIN-SUFFIX,google.al

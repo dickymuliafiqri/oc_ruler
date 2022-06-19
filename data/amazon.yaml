@@ -1,9 +1,9 @@
 payload:
-  - DOMAIN-SUFFIX,amazon
-  - DOMAIN-SUFFIX,xn--cckwcxetd
-  - DOMAIN-SUFFIX,xn--jlq480n2rg
-  - DOMAIN-SUFFIX,yamaxun
-  - DOMAIN-SUFFIX,zappos
+  - DOMAIN-KEYWORD,amazon
+  - DOMAIN-KEYWORD,xn--cckwcxetd
+  - DOMAIN-KEYWORD,xn--jlq480n2rg
+  - DOMAIN-KEYWORD,yamaxun
+  - DOMAIN-KEYWORD,zappos
   - DOMAIN-SUFFIX,a2z.com
   - DOMAIN-SUFFIX,aboutamazon.cn
   - DOMAIN-SUFFIX,aboutamazon.co.uk

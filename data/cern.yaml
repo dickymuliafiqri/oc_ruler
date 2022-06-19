@@ -1,5 +1,5 @@
 payload:
-  - DOMAIN-SUFFIX,cern
+  - DOMAIN-KEYWORD,cern
   - DOMAIN-SUFFIX,ams02.space
   - DOMAIN-SUFFIX,cern.ch
   - DOMAIN-SUFFIX,cixp.net

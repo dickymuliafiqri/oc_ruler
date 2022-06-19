@@ -1,11 +1,11 @@
 payload:
-  - DOMAIN-SUFFIX,microsoft
-  - DOMAIN-SUFFIX,azure
-  - DOMAIN-SUFFIX,hotmail
-  - DOMAIN-SUFFIX,office
-  - DOMAIN-SUFFIX,skype
-  - DOMAIN-SUFFIX,windows
-  - DOMAIN-SUFFIX,xbox
+  - DOMAIN-KEYWORD,microsoft
+  - DOMAIN-KEYWORD,azure
+  - DOMAIN-KEYWORD,hotmail
+  - DOMAIN-KEYWORD,office
+  - DOMAIN-KEYWORD,skype
+  - DOMAIN-KEYWORD,windows
+  - DOMAIN-KEYWORD,xbox
   - DOMAIN-SUFFIX,microsoft.az
   - DOMAIN-SUFFIX,microsoft.be
   - DOMAIN-SUFFIX,microsoft.by

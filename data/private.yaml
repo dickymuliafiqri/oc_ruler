@@ -1,11 +1,11 @@
 payload:
-  - DOMAIN-SUFFIX,lan
-  - DOMAIN-SUFFIX,localdomain
-  - DOMAIN-SUFFIX,example
-  - DOMAIN-SUFFIX,invalid
-  - DOMAIN-SUFFIX,localhost
-  - DOMAIN-SUFFIX,test
-  - DOMAIN-SUFFIX,local
+  - DOMAIN-KEYWORD,lan
+  - DOMAIN-KEYWORD,localdomain
+  - DOMAIN-KEYWORD,example
+  - DOMAIN-KEYWORD,invalid
+  - DOMAIN-KEYWORD,localhost
+  - DOMAIN-KEYWORD,test
+  - DOMAIN-KEYWORD,local
   - DOMAIN-SUFFIX,home.arpa
   - DOMAIN-SUFFIX,full:router.asus.com
   - DOMAIN-SUFFIX,localhost.sec.qq.com

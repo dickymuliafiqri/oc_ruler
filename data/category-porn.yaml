@@ -1,6 +1,6 @@
 payload:
-  - DOMAIN-SUFFIX,adult
-  - DOMAIN-SUFFIX,porn
+  - DOMAIN-KEYWORD,adult
+  - DOMAIN-KEYWORD,porn
   - DOMAIN-SUFFIX,02weqj32.com
   - DOMAIN-SUFFIX,0cgdklr5sfwj.com
   - DOMAIN-SUFFIX,0plkijj.vip

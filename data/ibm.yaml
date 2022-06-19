@@ -1,7 +1,7 @@
 payload:
-  - DOMAIN-SUFFIX,ibm
-  - DOMAIN-SUFFIX,weatherchannel
-  - DOMAIN-SUFFIX,weather
+  - DOMAIN-KEYWORD,ibm
+  - DOMAIN-KEYWORD,weatherchannel
+  - DOMAIN-KEYWORD,weather
   - DOMAIN-SUFFIX,appdomain.cloud
   - DOMAIN-SUFFIX,bluemix.com
   - DOMAIN-SUFFIX,bluemix.net
