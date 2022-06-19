@@ -39,7 +39,19 @@ class OC_RULER {
             }
 
             if (!existsSync(oc_ruler_dir)) mkdirSync(oc_ruler_dir);
-            writeFileSync(`${oc_ruler_dir}/${domains}.yaml`, rules.join("\n  - DOMAIN-SUFFIX,"));
+
+            for (const i in rules) {
+                if (parseInt(i) == 0) continue;
+
+                if (rules[i].match(/\./)) {
+                    rules.push(`\n  - DOMAIN-SUFFIX,${rules[i]}`)
+                } else {
+                    rules.push(`\n  - DOMAIN-KEYWORD,${rules[i]}`)
+                }
+
+                delete rules[i];
+            }
+            writeFileSync(`${oc_ruler_dir}/${domains}.yaml`, rules.join(""));
         })
         console.log("Done!")
     }
