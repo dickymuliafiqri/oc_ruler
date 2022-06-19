@@ -20,8 +20,9 @@ jobs:
         node-version: 16.x
         cache: 'npm'
     - name: Generate rule
-      run: npm install
-      run: npm start
+      run: |
+        npm install
+        npm start
     - name: Add & Commit
       uses: EndBug/add-and-commit@v7.2.1
       with:
