@@ -26,4 +26,4 @@ payload:
   - DOMAIN-SUFFIX,nurofen.sk
   - DOMAIN-SUFFIX,nurofen.ru
   - DOMAIN-SUFFIX,nurofengel.com
-  - DOMAIN-SUFFIX,full:nurofensk-prod-env.eu-west-1.elasticbeanstalk.com
+  - DOMAIN,nurofensk-prod-env.eu-west-1.elasticbeanstalk.com

@@ -1,2 +1,2 @@
 payload:
-  - DOMAIN-SUFFIX,full:test.example.com
+  - DOMAIN,test.example.com

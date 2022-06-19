@@ -184,5 +184,5 @@ payload:
   - DOMAIN-SUFFIX,travelexmoneycard.com
   - DOMAIN-SUFFIX,bidvestbank.co.za
   - DOMAIN-SUFFIX,worldcurrencycard.co.za
-  - DOMAIN-SUFFIX,full:nab.demdex.net
-  - DOMAIN-SUFFIX,full:nationalaustraliaban.tt.omtrdc.net
+  - DOMAIN,nab.demdex.net
+  - DOMAIN,nationalaustraliaban.tt.omtrdc.net

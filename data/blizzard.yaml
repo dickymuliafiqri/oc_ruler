@@ -8,33 +8,33 @@ payload:
   - DOMAIN-SUFFIX,battle.net
   - DOMAIN-SUFFIX,battlenet.com.cn
   - DOMAIN-SUFFIX,bnet.163.com
-  - DOMAIN-SUFFIX,full:blizzard.nefficient.co.kr
-  - DOMAIN-SUFFIX,full:blzddist1-a.akamaihd.net
-  - DOMAIN-SUFFIX,full:blzddistkr1-a.akamaihd.net
-  - DOMAIN-SUFFIX,full:bnetcmsus-a.akamaihd.net
-  - DOMAIN-SUFFIX,full:bnetproduct-a.akamaihd.net
-  - DOMAIN-SUFFIX,full:bnetshopus.akamaized.net
   - DOMAIN-SUFFIX,diablo3.com
   - DOMAIN-SUFFIX,diabloimmortal.com
-  - DOMAIN-SUFFIX,full:di.res.netease.com
-  - DOMAIN-SUFFIX,full:diablo3.nosdn.127.net
   - DOMAIN-SUFFIX,firesidegatherings.com
   - DOMAIN-SUFFIX,playhearthstone.com
-  - DOMAIN-SUFFIX,full:hearthstone.nosdn.127.net
   - DOMAIN-SUFFIX,heroesofthestorm.com
-  - DOMAIN-SUFFIX,full:hearthstone.nosdn.127.net
-  - DOMAIN-SUFFIX,full:heroes.nos.netease.com
   - DOMAIN-SUFFIX,playoverwatch.com
-  - DOMAIN-SUFFIX,full:overwatch.nosdn.127.net
   - DOMAIN-SUFFIX,starcraft.com
   - DOMAIN-SUFFIX,starcraft2.com
-  - DOMAIN-SUFFIX,full:sc2.nosdn.127.net
   - DOMAIN-SUFFIX,playwarcraft3.com
   - DOMAIN-SUFFIX,worldofwarcraft.com
   - DOMAIN-SUFFIX,wowchina.com
-  - DOMAIN-SUFFIX,full:wow.nosdn.127.net
-  - DOMAIN-SUFFIX,full:blizzcon-a.akamaihd.net
-  - DOMAIN-SUFFIX,full:blz.nosdn.127.net
-  - DOMAIN-SUFFIX,full:blzmedia-a.akamaihd.net
-  - DOMAIN-SUFFIX,full:blznav.akamaized.net
-  - DOMAIN-SUFFIX,full:cn.actual.battle.net
+  - DOMAIN,blizzard.nefficient.co.kr
+  - DOMAIN,blzddist1-a.akamaihd.net
+  - DOMAIN,blzddistkr1-a.akamaihd.net
+  - DOMAIN,bnetcmsus-a.akamaihd.net
+  - DOMAIN,bnetproduct-a.akamaihd.net
+  - DOMAIN,bnetshopus.akamaized.net
+  - DOMAIN,di.res.netease.com
+  - DOMAIN,diablo3.nosdn.127.net
+  - DOMAIN,hearthstone.nosdn.127.net
+  - DOMAIN,hearthstone.nosdn.127.net
+  - DOMAIN,heroes.nos.netease.com
+  - DOMAIN,overwatch.nosdn.127.net
+  - DOMAIN,sc2.nosdn.127.net
+  - DOMAIN,wow.nosdn.127.net
+  - DOMAIN,blizzcon-a.akamaihd.net
+  - DOMAIN,blz.nosdn.127.net
+  - DOMAIN,blzmedia-a.akamaihd.net
+  - DOMAIN,blznav.akamaized.net
+  - DOMAIN,cn.actual.battle.net

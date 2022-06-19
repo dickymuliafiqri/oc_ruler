@@ -245,5 +245,18 @@ payload:
   - DOMAIN-SUFFIX,vpro.com
   - DOMAIN-SUFFIX,vpro.net
   - DOMAIN-SUFFIX,xeon.com
+  - DOMAIN-SUFFIX,xn--ztsq84g.cn
   - DOMAIN-SUFFIX,xscale.com
   - DOMAIN-SUFFIX,barefootnetworks.com
+  - DOMAIN-SUFFIX,01.org
+  - DOMAIN-SUFFIX,hyperscan.io
+  - DOMAIN-SUFFIX,intellinuxgraphics.com
+  - DOMAIN-SUFFIX,intellinuxgraphics.net
+  - DOMAIN-SUFFIX,oneapi.com
+  - DOMAIN-SUFFIX,openvinotoolkit.org
+  - DOMAIN-SUFFIX,snap-telemetry.io
+  - DOMAIN-SUFFIX,acpica.com
+  - DOMAIN-SUFFIX,clearlinux.cn
+  - DOMAIN-SUFFIX,clearlinux.org
+  - DOMAIN-SUFFIX,ospray.net
+  - DOMAIN-SUFFIX,ospray.org

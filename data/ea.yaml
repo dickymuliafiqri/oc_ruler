@@ -159,5 +159,14 @@ payload:
   - DOMAIN-SUFFIX,uo.com
   - DOMAIN-SUFFIX,uoherald.com
   - DOMAIN-SUFFIX,xdsummit.com
-  - DOMAIN-SUFFIX,full:ea.tt.omtrdc.net
-  - DOMAIN-SUFFIX,full:eaassets-a.akamaihd.net
+  - DOMAIN-SUFFIX,dawngate.com
+  - DOMAIN-SUFFIX,eastore.com
+  - DOMAIN-SUFFIX,lordofultima.com
+  - DOMAIN-SUFFIX,origin.com
+  - DOMAIN-SUFFIX,origin.tv
+  - DOMAIN,cloudsync-prod.s3.amazonaws.com
+  - DOMAIN,origin-a.akamaihd.net
+  - DOMAIN,rtm.tnt-ea.com
+  - DOMAIN,ssl-lvlt.cdn.ea.com
+  - DOMAIN,ea.tt.omtrdc.net
+  - DOMAIN,eaassets-a.akamaihd.net

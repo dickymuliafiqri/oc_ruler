@@ -302,6 +302,20 @@ payload:
   - DOMAIN-SUFFIX,wwwebay.net
   - DOMAIN-SUFFIX,wwwwebay.com
   - DOMAIN-SUFFIX,xindelu.com
+  - DOMAIN-SUFFIX,xn--3et96bj49ahpq.com
+  - DOMAIN-SUFFIX,xn--4vq475g.com
+  - DOMAIN-SUFFIX,xn--4vq477m.com
+  - DOMAIN-SUFFIX,xn--7hv594h.com
+  - DOMAIN-SUFFIX,xn--7hvy28f.cn
+  - DOMAIN-SUFFIX,xn--hb4aw0g.com
+  - DOMAIN-SUFFIX,xn--q41am8x.com
+  - DOMAIN-SUFFIX,xn--qoq462m.com
+  - DOMAIN-SUFFIX,xn--tkry91n.com
+  - DOMAIN-SUFFIX,xn--ubt498knmf.com
+  - DOMAIN-SUFFIX,xn--xsq421m.com
+  - DOMAIN-SUFFIX,xn--xsq605n.com
+  - DOMAIN-SUFFIX,xn--xsq959n.com
+  - DOMAIN-SUFFIX,xn--yf1at58a.com
   - DOMAIN-SUFFIX,xxbay.com
   - DOMAIN-SUFFIX,yibei.org
   - DOMAIN-SUFFIX,gittigidiyor.net
@@ -348,4 +362,4 @@ payload:
   - DOMAIN-SUFFIX,renchead.com
   - DOMAIN-SUFFIX,whisolutions.com
   - DOMAIN-SUFFIX,wrenchead.com
-  - DOMAIN-SUFFIX,full:ebay-25-assets.s3-us-west-1.amazonaws.com
+  - DOMAIN,ebay-25-assets.s3-us-west-1.amazonaws.com

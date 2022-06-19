@@ -12,6 +12,6 @@ payload:
   - DOMAIN-SUFFIX,globalsign.fr
   - DOMAIN-SUFFIX,globalsign.net
   - DOMAIN-SUFFIX,globalsign.nl
-  - DOMAIN-SUFFIX,full:secure.globalsign.com
-  - DOMAIN-SUFFIX,full:ocsp.globalsign.com
-  - DOMAIN-SUFFIX,full:ocsp2.globalsign.com
+  - DOMAIN,secure.globalsign.com
+  - DOMAIN,ocsp.globalsign.com
+  - DOMAIN,ocsp2.globalsign.com

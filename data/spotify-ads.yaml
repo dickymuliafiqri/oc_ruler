@@ -1,4 +1,4 @@
 payload:
-  - DOMAIN-SUFFIX,full:adeventtracker.spotify.com
-  - DOMAIN-SUFFIX,full:adstudio-assets.scdn.co
-  - DOMAIN-SUFFIX,full:bloodhound.spotify.com
+  - DOMAIN,adeventtracker.spotify.com
+  - DOMAIN,adstudio-assets.scdn.co
+  - DOMAIN,bloodhound.spotify.com

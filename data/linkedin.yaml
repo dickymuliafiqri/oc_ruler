@@ -8,6 +8,6 @@ payload:
   - DOMAIN-SUFFIX,lnkd.in
   - DOMAIN-SUFFIX,licdn.cn
   - DOMAIN-SUFFIX,linkedin.cn
-  - DOMAIN-SUFFIX,full:e122475.dscg.akamaiedge.net
-  - DOMAIN-SUFFIX,full:licdn.cn.cdn20.com
-  - DOMAIN-SUFFIX,full:linkedin.sc.omtrdc.net
+  - DOMAIN,e122475.dscg.akamaiedge.net
+  - DOMAIN,licdn.cn.cdn20.com
+  - DOMAIN,linkedin.sc.omtrdc.net

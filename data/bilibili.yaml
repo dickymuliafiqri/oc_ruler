@@ -19,4 +19,4 @@ payload:
   - DOMAIN-SUFFIX,im9.com
   - DOMAIN-SUFFIX,mincdn.com
   - DOMAIN-SUFFIX,biligo.com
-  - DOMAIN-SUFFIX,full:upos-hz-mirrorakam.akamaized.net
+  - DOMAIN,upos-hz-mirrorakam.akamaized.net

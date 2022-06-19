@@ -3,6 +3,6 @@ payload:
   - DOMAIN-SUFFIX,aoruszone.cn
   - DOMAIN-SUFFIX,gigabyte.cn
   - DOMAIN-SUFFIX,gigabyte.com
-  - DOMAIN-SUFFIX,full:gigabyte2.azureedge.net
-  - DOMAIN-SUFFIX,full:sa78gs.wpc.edgecastcdn.net
-  - DOMAIN-SUFFIX,full:sni1dcb6gl.wpc.edgecastcdn.net
+  - DOMAIN,gigabyte2.azureedge.net
+  - DOMAIN,sa78gs.wpc.edgecastcdn.net
+  - DOMAIN,sni1dcb6gl.wpc.edgecastcdn.net

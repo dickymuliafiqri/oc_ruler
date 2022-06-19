@@ -50,4 +50,4 @@ payload:
   - DOMAIN-SUFFIX,itunesu.net
   - DOMAIN-SUFFIX,iutunes.com
   - DOMAIN-SUFFIX,wwwitunes.com
-  - DOMAIN-SUFFIX,full:itunes-apple.com.akadns.net
+  - DOMAIN,itunes-apple.com.akadns.net

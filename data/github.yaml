@@ -18,4 +18,7 @@ payload:
   - DOMAIN-SUFFIX,myoctocat.com
   - DOMAIN-SUFFIX,opensource.guide
   - DOMAIN-SUFFIX,thegithubshop.com
-  - DOMAIN-SUFFIX,full:github-cloud.s3.amazonaws.com
+  - DOMAIN-SUFFIX,npm.community
+  - DOMAIN-SUFFIX,npmjs.com
+  - DOMAIN-SUFFIX,npmjs.org
+  - DOMAIN,github-cloud.s3.amazonaws.com

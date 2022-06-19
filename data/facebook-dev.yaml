@@ -42,4 +42,4 @@ payload:
   - DOMAIN-SUFFIX,rocksdb.net
   - DOMAIN-SUFFIX,rocksdb.org
   - DOMAIN-SUFFIX,yogalayout.com
-  - DOMAIN-SUFFIX,full:developers.facebook.com
+  - DOMAIN,developers.facebook.com

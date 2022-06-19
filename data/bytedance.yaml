@@ -71,3 +71,25 @@ payload:
   - DOMAIN-SUFFIX,changdunovel.com
   - DOMAIN-SUFFIX,faceu.com
   - DOMAIN-SUFFIX,ulikecam.com
+  - DOMAIN-SUFFIX,juejin.cn
+  - DOMAIN-SUFFIX,juejin.im
+  - DOMAIN-SUFFIX,xitu.io
+  - DOMAIN,p1-juejin.byteimg.com
+  - DOMAIN,p2-juejin.byteimg.com
+  - DOMAIN,p3-juejin.byteimg.com
+  - DOMAIN,p4-juejin.byteimg.com
+  - DOMAIN,p5-juejin.byteimg.com
+  - DOMAIN,p6-juejin.byteimg.com
+  - DOMAIN,p7-juejin.byteimg.com
+  - DOMAIN,p8-juejin.byteimg.com
+  - DOMAIN,p9-juejin.byteimg.com
+  - DOMAIN-SUFFIX,larksuite.com
+  - DOMAIN-SUFFIX,larksuitecdn.com
+  - DOMAIN-SUFFIX,byteoversea.com
+  - DOMAIN-SUFFIX,muscdn.com
+  - DOMAIN-SUFFIX,musical.ly
+  - DOMAIN-SUFFIX,tik-tokapi.com
+  - DOMAIN-SUFFIX,tiktok.com
+  - DOMAIN-SUFFIX,tiktokcdn.com
+  - DOMAIN-SUFFIX,tiktokv.com
+  - DOMAIN,p16-tiktokcdn-com.akamaized.net

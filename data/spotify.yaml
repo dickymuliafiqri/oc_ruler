@@ -12,5 +12,5 @@ payload:
   - DOMAIN-SUFFIX,spotifycodes.com
   - DOMAIN-SUFFIX,spotifyforbrands.com
   - DOMAIN-SUFFIX,spotifyjobs.com
-  - DOMAIN-SUFFIX,full:audio-ak-spotify-com.akamaized.net
-  - DOMAIN-SUFFIX,full:heads4-ak-spotify-com.akamaized.net
+  - DOMAIN,audio-ak-spotify-com.akamaized.net
+  - DOMAIN,heads4-ak-spotify-com.akamaized.net

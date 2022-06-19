@@ -120,3 +120,5 @@ payload:
   - DOMAIN-SUFFIX,pdf.new
   - DOMAIN-SUFFIX,sign.new
   - DOMAIN-SUFFIX,scene7.com
+  - DOMAIN-SUFFIX,typekit.com
+  - DOMAIN-SUFFIX,typekit.net

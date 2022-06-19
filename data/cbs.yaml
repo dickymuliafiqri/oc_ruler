@@ -26,7 +26,7 @@ payload:
   - DOMAIN-SUFFIX,mtvnservices.com
   - DOMAIN-SUFFIX,paramountplus.com
   - DOMAIN-SUFFIX,pplusstatic.com 
-  - DOMAIN-SUFFIX,full:cbsi.live.ott.irdeto.com
-  - DOMAIN-SUFFIX,full:cbsplaylistserver.aws.syncbak.com
-  - DOMAIN-SUFFIX,full:cbsservice.aws.syncbak.com
-  - DOMAIN-SUFFIX,full:link.theplatform.com
+  - DOMAIN,cbsi.live.ott.irdeto.com
+  - DOMAIN,cbsplaylistserver.aws.syncbak.com
+  - DOMAIN,cbsservice.aws.syncbak.com
+  - DOMAIN,link.theplatform.com

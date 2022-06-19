@@ -48,8 +48,8 @@ payload:
   - DOMAIN-SUFFIX,pvp.net
   - DOMAIN-SUFFIX,pvp.tv
   - DOMAIN-SUFFIX,ulol.com
-  - DOMAIN-SUFFIX,full:lolstatic-a.akamaihd.net
   - DOMAIN-SUFFIX,playvalorant.com
   - DOMAIN-SUFFIX,riotforgegames.com
   - DOMAIN-SUFFIX,ruinedking.com
   - DOMAIN-SUFFIX,convrgencegame.com
+  - DOMAIN,lolstatic-a.akamaihd.net

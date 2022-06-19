@@ -38,3 +38,19 @@ payload:
   - DOMAIN-SUFFIX,wikileaks.org
   - DOMAIN-SUFFIX,wireguard.com
   - DOMAIN-SUFFIX,zeronet.io
+  - DOMAIN-SUFFIX,citizenlab.ca
+  - DOMAIN-SUFFIX,citizenlab.org
+  - DOMAIN-SUFFIX,applecensorship.com
+  - DOMAIN-SUFFIX,freebrowser.org
+  - DOMAIN-SUFFIX,freewechat.com
+  - DOMAIN-SUFFIX,freeweibo.com
+  - DOMAIN-SUFFIX,greatfire.org
+  - DOMAIN-SUFFIX,haveibeenpwned.com
+  - DOMAIN-SUFFIX,pwnedpasswords.com
+  - DOMAIN-SUFFIX,getlantern.org
+  - DOMAIN-SUFFIX,lantern.io
+  - DOMAIN-SUFFIX,softether.org
+  - DOMAIN-SUFFIX,softether-download.com
+  - DOMAIN-SUFFIX,v2ray.com
+  - DOMAIN-SUFFIX,v2ray.cool
+  - DOMAIN-SUFFIX,v2fly.org

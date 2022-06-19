@@ -38,4 +38,4 @@ payload:
   - DOMAIN-SUFFIX,wipower.com
   - DOMAIN-SUFFIX,wirelessreach.com
   - DOMAIN-SUFFIX,brewmp.com
-  - DOMAIN-SUFFIX,full:qualcomm.sc.omtrdc.net
+  - DOMAIN,qualcomm.sc.omtrdc.net

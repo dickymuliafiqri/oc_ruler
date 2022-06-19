@@ -102,4 +102,4 @@ payload:
   - DOMAIN-SUFFIX,whatisairwatch.com
   - DOMAIN-SUFFIX,whatisworkspaceone.com
   - DOMAIN-SUFFIX,workspaceone.com
-  - DOMAIN-SUFFIX,full:vmware.tt.omtrdc.net
+  - DOMAIN,vmware.tt.omtrdc.net

@@ -7,8 +7,8 @@ payload:
   - DOMAIN-KEYWORD,test
   - DOMAIN-KEYWORD,local
   - DOMAIN-SUFFIX,home.arpa
-  - DOMAIN-SUFFIX,full:router.asus.com
   - DOMAIN-SUFFIX,localhost.sec.qq.com
   - DOMAIN-SUFFIX,localhost.ptlogin2.qq.com
   - DOMAIN-SUFFIX,msftconnecttest.com
   - DOMAIN-SUFFIX,msftncsi.com
+  - DOMAIN,router.asus.com

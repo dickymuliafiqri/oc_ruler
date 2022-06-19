@@ -203,6 +203,7 @@ payload:
   - DOMAIN-SUFFIX,theshoppingexpresslane.net
   - DOMAIN-SUFFIX,www-paypal.info
   - DOMAIN-SUFFIX,www-paypal.us
+  - DOMAIN-SUFFIX,xn--bnq297cix3a.cn
   - DOMAIN-SUFFIX,braintreegateway.com
   - DOMAIN-SUFFIX,braintreegateway.tv
   - DOMAIN-SUFFIX,braintreepayments.com
@@ -242,4 +243,4 @@ payload:
   - DOMAIN-SUFFIX,xoom.net.cn
   - DOMAIN-SUFFIX,xoom.us
   - DOMAIN-SUFFIX,xoomcom.com
-  - DOMAIN-SUFFIX,full:venmo.s3.amazonaws.com
+  - DOMAIN,venmo.s3.amazonaws.com

@@ -46,5 +46,5 @@ payload:
   - DOMAIN-SUFFIX,tryfunctions.com
   - DOMAIN-SUFFIX,windowsazure.cn
   - DOMAIN-SUFFIX,windowsazure.com
-  - DOMAIN-SUFFIX,full:azure.microsoft.com
-  - DOMAIN-SUFFIX,full:azuremarketplace.microsoft.com
+  - DOMAIN,azure.microsoft.com
+  - DOMAIN,azuremarketplace.microsoft.com

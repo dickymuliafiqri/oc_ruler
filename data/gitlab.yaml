@@ -3,4 +3,4 @@ payload:
   - DOMAIN-SUFFIX,gitlab.io
   - DOMAIN-SUFFIX,gitlab.net
   - DOMAIN-SUFFIX,gitlab-static.net
-  - DOMAIN-SUFFIX,full:gitlab-assets.oss-cn-hongkong.aliyuncs.com
+  - DOMAIN,gitlab-assets.oss-cn-hongkong.aliyuncs.com

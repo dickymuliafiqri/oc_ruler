@@ -27,3 +27,6 @@ payload:
   - DOMAIN-SUFFIX,thomsonreutersmexico.com
   - DOMAIN-SUFFIX,tmsnrt.rs
   - DOMAIN-SUFFIX,tr.com
+  - DOMAIN-SUFFIX,reuters.com
+  - DOMAIN-SUFFIX,reuters.tv
+  - DOMAIN-SUFFIX,reutersmedia.net

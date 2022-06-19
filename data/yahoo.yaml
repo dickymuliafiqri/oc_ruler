@@ -163,3 +163,11 @@ payload:
   - DOMAIN-SUFFIX,yimg.com
   - DOMAIN-SUFFIX,yimg.jp
   - DOMAIN-SUFFIX,ymail.com
+  - DOMAIN-KEYWORD,flickr
+  - DOMAIN-SUFFIX,flic.kr
+  - DOMAIN-SUFFIX,flickr.com
+  - DOMAIN-SUFFIX,flickr.net
+  - DOMAIN-SUFFIX,staticflickr.com
+  - DOMAIN-SUFFIX,ads.yahoo.com
+  - DOMAIN-SUFFIX,gemini.yahoo.com
+  - DOMAIN-SUFFIX,ysm.yahoo.com

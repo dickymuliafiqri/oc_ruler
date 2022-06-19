@@ -16,4 +16,4 @@ payload:
   - DOMAIN-SUFFIX,faronicslabs.com
   - DOMAIN-SUFFIX,faronicswise.co.uk
   - DOMAIN-SUFFIX,faronicswise.com
-  - DOMAIN-SUFFIX,full:faronics.kayako.com
+  - DOMAIN,faronics.kayako.com

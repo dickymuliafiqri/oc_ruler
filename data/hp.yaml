@@ -154,4 +154,6 @@ payload:
   - DOMAIN-SUFFIX,touchsmartpc.org
   - DOMAIN-SUFFIX,workstations.tv
   - DOMAIN-SUFFIX,www8-hp.com
-  - DOMAIN-SUFFIX,full:hpstore.corpmerchandise.com
+  - DOMAIN-SUFFIX,xn--6eup7j.com
+  - DOMAIN-SUFFIX,xn--6eup7j.net
+  - DOMAIN,hpstore.corpmerchandise.com

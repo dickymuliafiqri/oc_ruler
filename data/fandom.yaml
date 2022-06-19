@@ -8,4 +8,4 @@ payload:
   - DOMAIN-SUFFIX,gamepedia.com
   - DOMAIN-SUFFIX,muthead.com
   - DOMAIN-SUFFIX,wikia.nocookie.net
-  - DOMAIN-SUFFIX,full:fandom.zendesk.com
+  - DOMAIN,fandom.zendesk.com
