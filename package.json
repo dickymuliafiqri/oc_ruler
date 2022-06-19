@@ -1,0 +1,24 @@
+{
+  "name": "oc_ruler",
+  "version": "1.0.0",
+  "description": "OpenClash rules",
+  "main": "app/index.js",
+  "scripts": {
+    "start": "bash start.sh && npx tsc && node app/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dickymuliafiqri/oc_ruler.git"
+  },
+  "author": "dickymuliafiqri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dickymuliafiqri/oc_ruler/issues"
+  },
+  "homepage": "https://github.com/dickymuliafiqri/oc_ruler#readme",
+  "dependencies": {
+    "@types/node": "^18.0.0",
+    "typescript": "^4.7.4"
+  }
+}
