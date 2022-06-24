@@ -893,6 +893,7 @@ payload:
   - DOMAIN-SUFFIX,nflxsearch.net
   - DOMAIN-SUFFIX,nflxso.net
   - DOMAIN-SUFFIX,nflxvideo.net
+  - DOMAIN,netflix.com.edgesuite.net
   - DOMAIN-SUFFIX,netflixdnstest1.com
   - DOMAIN-SUFFIX,netflixdnstest2.com
   - DOMAIN-SUFFIX,netflixdnstest3.com
