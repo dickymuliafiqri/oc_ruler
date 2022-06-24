@@ -893,7 +893,6 @@ payload:
   - DOMAIN-SUFFIX,nflxsearch.net
   - DOMAIN-SUFFIX,nflxso.net
   - DOMAIN-SUFFIX,nflxvideo.net
-  - DOMAIN,netflix.com.edgesuite.net
   - DOMAIN-SUFFIX,netflixdnstest1.com
   - DOMAIN-SUFFIX,netflixdnstest2.com
   - DOMAIN-SUFFIX,netflixdnstest3.com
@@ -904,6 +903,7 @@ payload:
   - DOMAIN-SUFFIX,netflixdnstest8.com
   - DOMAIN-SUFFIX,netflixdnstest9.com
   - DOMAIN-SUFFIX,netflixdnstest10.com
+  - DOMAIN,netflix.com.edgesuite.net
   - DOMAIN-KEYWORD,nico
   - DOMAIN-SUFFIX,nicodic.jp
   - DOMAIN-SUFFIX,nicomanga.jp
