@@ -15944,6 +15944,8 @@ payload:
   - DOMAIN-SUFFIX,futhead.com
   - DOMAIN-SUFFIX,gamepedia.com
   - DOMAIN-SUFFIX,muthead.com
+  - DOMAIN-SUFFIX,cortexrpg.com
+  - DOMAIN-SUFFIX,fanatical.com
   - DOMAIN-SUFFIX,wikia.nocookie.net
   - DOMAIN,fandom.zendesk.com
   - DOMAIN-SUFFIX,miraheze.org
