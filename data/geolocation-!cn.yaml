@@ -256,6 +256,74 @@ payload:
   - DOMAIN-KEYWORD,polo
   - DOMAIN-KEYWORD,redstone
   - DOMAIN-KEYWORD,swatch
+  - DOMAIN-KEYWORD,africa
+  - DOMAIN-KEYWORD,capetown
+  - DOMAIN-KEYWORD,durban
+  - DOMAIN-KEYWORD,joburg
+  - DOMAIN-KEYWORD,abudhabi
+  - DOMAIN-KEYWORD,arab
+  - DOMAIN-KEYWORD,asia
+  - DOMAIN-KEYWORD,doha
+  - DOMAIN-KEYWORD,dubai
+  - DOMAIN-KEYWORD,krd
+  - DOMAIN-KEYWORD,kyoto
+  - DOMAIN-KEYWORD,nagoya
+  - DOMAIN-KEYWORD,okinawa
+  - DOMAIN-KEYWORD,osaka
+  - DOMAIN-KEYWORD,ryukyu
+  - DOMAIN-KEYWORD,taipei
+  - DOMAIN-KEYWORD,tatar
+  - DOMAIN-KEYWORD,tokyo
+  - DOMAIN-KEYWORD,yokohama
+  - DOMAIN-KEYWORD,alsace
+  - DOMAIN-KEYWORD,amsterdam
+  - DOMAIN-KEYWORD,bar
+  - DOMAIN-KEYWORD,barcelona
+  - DOMAIN-KEYWORD,bayern
+  - DOMAIN-KEYWORD,bcn
+  - DOMAIN-KEYWORD,berlin
+  - DOMAIN-KEYWORD,brussels
+  - DOMAIN-KEYWORD,budapest
+  - DOMAIN-KEYWORD,bzh
+  - DOMAIN-KEYWORD,cat
+  - DOMAIN-KEYWORD,conlogne
+  - DOMAIN-KEYWORD,corsica
+  - DOMAIN-KEYWORD,cymru
+  - DOMAIN-KEYWORD,eus
+  - DOMAIN-KEYWORD,frl
+  - DOMAIN-KEYWORD,gal
+  - DOMAIN-KEYWORD,gent
+  - DOMAIN-KEYWORD,hamburg
+  - DOMAIN-KEYWORD,helsinki
+  - DOMAIN-KEYWORD,irish
+  - DOMAIN-KEYWORD,ist
+  - DOMAIN-KEYWORD,istanbul
+  - DOMAIN-KEYWORD,koeln
+  - DOMAIN-KEYWORD,london
+  - DOMAIN-KEYWORD,madrid
+  - DOMAIN-KEYWORD,moscow
+  - DOMAIN-KEYWORD,nrw
+  - DOMAIN-KEYWORD,paris
+  - DOMAIN-KEYWORD,ruhr
+  - DOMAIN-KEYWORD,saarland
+  - DOMAIN-KEYWORD,scot
+  - DOMAIN-KEYWORD,stockholm
+  - DOMAIN-KEYWORD,swiss
+  - DOMAIN-KEYWORD,tirol
+  - DOMAIN-KEYWORD,vlaanderen
+  - DOMAIN-KEYWORD,wales
+  - DOMAIN-KEYWORD,wien
+  - DOMAIN-KEYWORD,zuerich
+  - DOMAIN-KEYWORD,boston
+  - DOMAIN-KEYWORD,miami
+  - DOMAIN-KEYWORD,nyc
+  - DOMAIN-KEYWORD,quebec
+  - DOMAIN-KEYWORD,vegas
+  - DOMAIN-KEYWORD,kiwi
+  - DOMAIN-KEYWORD,melbourne
+  - DOMAIN-KEYWORD,sydney
+  - DOMAIN-KEYWORD,lat
+  - DOMAIN-KEYWORD,rio
   - DOMAIN-KEYWORD,aarp
   - DOMAIN-KEYWORD,abbott
   - DOMAIN-KEYWORD,abbvie
