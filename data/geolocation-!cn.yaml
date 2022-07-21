@@ -3930,12 +3930,20 @@ payload:
   - DOMAIN-SUFFIX,rebates.jp
   - DOMAIN-SUFFIX,rimg.com.tw
   - DOMAIN-SUFFIX,ruten.com.tw
+  - DOMAIN-SUFFIX,shopee.cl
   - DOMAIN-SUFFIX,shopee.cn
   - DOMAIN-SUFFIX,shopee.co.id
   - DOMAIN-SUFFIX,shopee.co.th
   - DOMAIN-SUFFIX,shopee.com
   - DOMAIN-SUFFIX,shopee.com.br
+  - DOMAIN-SUFFIX,shopee.com.co
+  - DOMAIN-SUFFIX,shopee.com.mx
   - DOMAIN-SUFFIX,shopee.com.my
+  - DOMAIN-SUFFIX,shopee.es
+  - DOMAIN-SUFFIX,shopee.fr
+  - DOMAIN-SUFFIX,shopee.id
+  - DOMAIN-SUFFIX,shopee.in
+  - DOMAIN-SUFFIX,shopee.io
   - DOMAIN-SUFFIX,shopee.ph
   - DOMAIN-SUFFIX,shopee.sg
   - DOMAIN-SUFFIX,shopee.tw
@@ -3955,6 +3963,7 @@ payload:
   - DOMAIN-SUFFIX,walmartimages.com
   - DOMAIN-SUFFIX,wmt.co
   - DOMAIN-SUFFIX,wish.com
+  - DOMAIN-SUFFIX,pornhubapparel.com
   - DOMAIN-SUFFIX,readmoo.com
   - DOMAIN-SUFFIX,anandtech.com
   - DOMAIN-SUFFIX,betterexplained.com
@@ -7108,6 +7117,7 @@ payload:
   - DOMAIN-SUFFIX,phprcdn.com
   - DOMAIN-SUFFIX,porngub.com
   - DOMAIN-SUFFIX,pornhub-deutsch.net
+  - DOMAIN-SUFFIX,pornhubapparel.com
   - DOMAIN-SUFFIX,pornhub.com
   - DOMAIN-SUFFIX,pornhubpremium.com
   - DOMAIN,cdn77.scoreuniverse.com
