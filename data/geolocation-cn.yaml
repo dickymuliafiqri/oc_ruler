@@ -753,7 +753,6 @@ payload:
   - DOMAIN-SUFFIX,pptbest.com
   - DOMAIN-SUFFIX,pubyun.com
   - DOMAIN-SUFFIX,qc188.com
-  - DOMAIN-SUFFIX,qcc.com
   - DOMAIN-SUFFIX,qcds.com
   - DOMAIN-SUFFIX,qd8.com
   - DOMAIN-SUFFIX,qd-metro.com
@@ -1111,9 +1110,6 @@ payload:
   - DOMAIN-SUFFIX,zuidaima.com
   - DOMAIN-SUFFIX,zuowen8.com
   - DOMAIN-SUFFIX,zuowenwang.net
-  - DOMAIN-SUFFIX,jindidata.com
-  - DOMAIN-SUFFIX,tianyancha.com
-  - DOMAIN-SUFFIX,zhuanxiandai.com
   - DOMAIN-SUFFIX,fm3838.com
   - DOMAIN-SUFFIX,larsonlimited.com
   - DOMAIN-SUFFIX,runsheng.com
@@ -3287,4 +3283,13 @@ payload:
   - DOMAIN-SUFFIX,sinopecgroup.com
   - DOMAIN-SUFFIX,sinopecnews.com.cn
   - DOMAIN-SUFFIX,sinopecsales.com
+  - DOMAIN-SUFFIX,aiqicha.baidu.com
+  - DOMAIN-SUFFIX,hongdunwang.com.cn
+  - DOMAIN-SUFFIX,qcc.com
+  - DOMAIN-SUFFIX,qichamao.com
+  - DOMAIN-SUFFIX,qixin.com
+  - DOMAIN-SUFFIX,qyyjt.cn
+  - DOMAIN-SUFFIX,jindidata.com
+  - DOMAIN-SUFFIX,tianyancha.com
+  - DOMAIN-SUFFIX,x315.com
   - DOMAIN-SUFFIX,cn.
