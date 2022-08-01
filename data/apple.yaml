@@ -721,6 +721,12 @@ payload:
   - DOMAIN,appleworldwidedeveloper.hb-api.omtrdc.net
   - DOMAIN,appleworldwidedeveloper.sc.omtrdc.net
   - DOMAIN,p-events-delivery.akamaized.net
+  - DOMAIN,certs-lb.apple.com.akadns.net
+  - DOMAIN,certs.apple.com
+  - DOMAIN,crl-lb.apple.com.akadns.net
+  - DOMAIN,crl.apple.com
+  - DOMAIN,ocsp-lb.apple.com.akadns.net
+  - DOMAIN,ocsp.apple.com
   - DOMAIN-SUFFIX,100beatscheap.com
   - DOMAIN-SUFFIX,1monsterbeatsbydreus.com
   - DOMAIN-SUFFIX,2013beatsbydrdreonline.com
@@ -1669,8 +1675,6 @@ payload:
   - DOMAIN,mesu-china.apple.com.akadns.net
   - DOMAIN,mesu.apple.com
   - DOMAIN,music.apple.com
-  - DOMAIN,ocsp-lb.apple.com.akadns.net
-  - DOMAIN,ocsp.apple.com
   - DOMAIN,oscdn.apple.com
   - DOMAIN,oscdn.origin-apple.com.akadns.net
   - DOMAIN,pancake.apple.com

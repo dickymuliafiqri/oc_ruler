@@ -134,6 +134,8 @@ payload:
   - DOMAIN-SUFFIX,alibabacloud.com.tw
   - DOMAIN-SUFFIX,alicloud.com
   - DOMAIN-SUFFIX,amazon-adsystem.com
+  - DOMAIN-SUFFIX,amazontrust.com
+  - DOMAIN-SUFFIX,ss2.us
   - DOMAIN-KEYWORD,aws
   - DOMAIN-SUFFIX,acmvalidations.com
   - DOMAIN-SUFFIX,acmvalidationsaws.com
@@ -284,7 +286,6 @@ payload:
   - DOMAIN-SUFFIX,amazonpay.in
   - DOMAIN-SUFFIX,amazonsdi.com
   - DOMAIN-SUFFIX,amazonstudiosguilds.com
-  - DOMAIN-SUFFIX,amazontrust.com
   - DOMAIN-SUFFIX,amazonvideodirect.com
   - DOMAIN-SUFFIX,amzn.asia
   - DOMAIN-SUFFIX,amzn.com
@@ -349,6 +350,12 @@ payload:
   - DOMAIN,appleworldwidedeveloper.hb-api.omtrdc.net
   - DOMAIN,appleworldwidedeveloper.sc.omtrdc.net
   - DOMAIN,p-events-delivery.akamaized.net
+  - DOMAIN,certs-lb.apple.com.akadns.net
+  - DOMAIN,certs.apple.com
+  - DOMAIN,crl-lb.apple.com.akadns.net
+  - DOMAIN,crl.apple.com
+  - DOMAIN,ocsp-lb.apple.com.akadns.net
+  - DOMAIN,ocsp.apple.com
   - DOMAIN-SUFFIX,100beatscheap.com
   - DOMAIN-SUFFIX,1monsterbeatsbydreus.com
   - DOMAIN-SUFFIX,2013beatsbydrdreonline.com
@@ -1983,8 +1990,6 @@ payload:
   - DOMAIN,mesu-china.apple.com.akadns.net
   - DOMAIN,mesu.apple.com
   - DOMAIN,music.apple.com
-  - DOMAIN,ocsp-lb.apple.com.akadns.net
-  - DOMAIN,ocsp.apple.com
   - DOMAIN,oscdn.apple.com
   - DOMAIN,oscdn.origin-apple.com.akadns.net
   - DOMAIN,pancake.apple.com
@@ -3233,6 +3238,9 @@ payload:
   - DOMAIN,scholar.google.si
   - DOMAIN,scholar.google.sk
   - DOMAIN,scholar.l.google.com
+  - DOMAIN-SUFFIX,pki.goog
+  - DOMAIN,crl.pki.goog
+  - DOMAIN,ocsp.pki.goog
   - DOMAIN-SUFFIX,kaggle.com
   - DOMAIN-SUFFIX,kaggle.io
   - DOMAIN-SUFFIX,deps.dev
@@ -3917,7 +3925,6 @@ payload:
   - DOMAIN,clientservices.googleapis.com
   - DOMAIN,connectivitycheck.gstatic.com
   - DOMAIN,corp.google.com
-  - DOMAIN,crl.pki.goog
   - DOMAIN,csi.gstatic.com
   - DOMAIN,dl.google.com
   - DOMAIN,dl.l.google.com
@@ -3936,7 +3943,6 @@ payload:
   - DOMAIN,gstaticadssl.l.google.com
   - DOMAIN,gtm.oasisfeng.com
   - DOMAIN,imasdk.googleapis.com
-  - DOMAIN,ocsp.pki.goog
   - DOMAIN,pagead-googlehosted.l.google.com
   - DOMAIN,pki-goog.l.google.com
   - DOMAIN,recaptcha.net
@@ -3960,6 +3966,10 @@ payload:
   - DOMAIN-SUFFIX,hetzner.com
   - DOMAIN-SUFFIX,hetzner.de
   - DOMAIN-SUFFIX,your-server.de
+  - DOMAIN,eca.hinet.net
+  - DOMAIN,gtlsca.nat.gov.tw
+  - DOMAIN,ocsp.eca.hinet.net
+  - DOMAIN,ocsp.gtlsca.nat.gov.tw
   - DOMAIN-SUFFIX,cht.com.tw
   - DOMAIN-SUFFIX,chtf.org.tw
   - DOMAIN-SUFFIX,emome.net

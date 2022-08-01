@@ -72,7 +72,6 @@ payload:
   - DOMAIN-SUFFIX,amazonpay.in
   - DOMAIN-SUFFIX,amazonsdi.com
   - DOMAIN-SUFFIX,amazonstudiosguilds.com
-  - DOMAIN-SUFFIX,amazontrust.com
   - DOMAIN-SUFFIX,amazonvideodirect.com
   - DOMAIN-SUFFIX,amzn.asia
   - DOMAIN-SUFFIX,amzn.com
@@ -97,6 +96,8 @@ payload:
   - DOMAIN-SUFFIX,audible.com
   - DOMAIN-SUFFIX,createspace.com
   - DOMAIN-SUFFIX,amazon-adsystem.com
+  - DOMAIN-SUFFIX,amazontrust.com
+  - DOMAIN-SUFFIX,ss2.us
   - DOMAIN-KEYWORD,aws
   - DOMAIN-SUFFIX,acmvalidations.com
   - DOMAIN-SUFFIX,acmvalidationsaws.com

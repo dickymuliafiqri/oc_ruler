@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN-SUFFIX,alphassl.com
   - DOMAIN-SUFFIX,globalsign-media.com
   - DOMAIN-SUFFIX,globalsign.be
   - DOMAIN-SUFFIX,globalsign.ch
@@ -12,6 +13,8 @@ payload:
   - DOMAIN-SUFFIX,globalsign.fr
   - DOMAIN-SUFFIX,globalsign.net
   - DOMAIN-SUFFIX,globalsign.nl
-  - DOMAIN,secure.globalsign.com
+  - DOMAIN,crl2.alphassl.com
   - DOMAIN,ocsp.globalsign.com
   - DOMAIN,ocsp2.globalsign.com
+  - DOMAIN,secure.globalsign.com
+  - DOMAIN,secure2.alphassl.com

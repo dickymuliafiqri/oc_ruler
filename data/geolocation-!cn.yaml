@@ -2938,11 +2938,23 @@ payload:
   - DOMAIN-SUFFIX,cloudimg.io
   - DOMAIN-SUFFIX,stackpath.com
   - DOMAIN-SUFFIX,stackpath.dev
+  - DOMAIN-SUFFIX,actalis.com
+  - DOMAIN-SUFFIX,actalis.it
+  - DOMAIN-SUFFIX,amazontrust.com
+  - DOMAIN-SUFFIX,ss2.us
+  - DOMAIN,certs-lb.apple.com.akadns.net
+  - DOMAIN,certs.apple.com
+  - DOMAIN,crl-lb.apple.com.akadns.net
+  - DOMAIN,crl.apple.com
+  - DOMAIN,ocsp-lb.apple.com.akadns.net
+  - DOMAIN,ocsp.apple.com
   - DOMAIN-SUFFIX,buypass-ssl.com
   - DOMAIN-SUFFIX,buypass.com
   - DOMAIN-SUFFIX,buypass.no
   - DOMAIN-SUFFIX,buypass.se
   - DOMAIN-SUFFIX,minid.no
+  - DOMAIN-SUFFIX,certum.pl
+  - DOMAIN-SUFFIX,ocsp-certum.com
   - DOMAIN-SUFFIX,comodo.com
   - DOMAIN-SUFFIX,comodo.net
   - DOMAIN-SUFFIX,comodoca.com
@@ -2963,6 +2975,7 @@ payload:
   - DOMAIN-SUFFIX,thawte.fr
   - DOMAIN-SUFFIX,entrust.net
   - DOMAIN-SUFFIX,entrustdatacard.com
+  - DOMAIN-SUFFIX,alphassl.com
   - DOMAIN-SUFFIX,globalsign-media.com
   - DOMAIN-SUFFIX,globalsign.be
   - DOMAIN-SUFFIX,globalsign.ch
@@ -2976,9 +2989,23 @@ payload:
   - DOMAIN-SUFFIX,globalsign.fr
   - DOMAIN-SUFFIX,globalsign.net
   - DOMAIN-SUFFIX,globalsign.nl
-  - DOMAIN,secure.globalsign.com
+  - DOMAIN,crl2.alphassl.com
   - DOMAIN,ocsp.globalsign.com
   - DOMAIN,ocsp2.globalsign.com
+  - DOMAIN,secure.globalsign.com
+  - DOMAIN,secure2.alphassl.com
+  - DOMAIN-SUFFIX,godaddy.com
+  - DOMAIN-SUFFIX,x.co
+  - DOMAIN-KEYWORD,godaddy
+  - DOMAIN-SUFFIX,pki.goog
+  - DOMAIN,crl.pki.goog
+  - DOMAIN,ocsp.pki.goog
+  - DOMAIN,eca.hinet.net
+  - DOMAIN,gtlsca.nat.gov.tw
+  - DOMAIN,ocsp.eca.hinet.net
+  - DOMAIN,ocsp.gtlsca.nat.gov.tw
+  - DOMAIN-SUFFIX,hongkongpost.gov.hk
+  - DOMAIN-SUFFIX,ecert.gov.hk
   - DOMAIN-SUFFIX,identrust.com
   - DOMAIN-SUFFIX,identrust.co.uk
   - DOMAIN-SUFFIX,identrust.net
@@ -2992,7 +3019,11 @@ payload:
   - DOMAIN-SUFFIX,optimumssl.com
   - DOMAIN-SUFFIX,positivessl.com
   - DOMAIN-SUFFIX,sectigo.com
+  - DOMAIN-SUFFIX,trust-provider.cn
+  - DOMAIN-SUFFIX,trust-provider.com
   - DOMAIN-SUFFIX,usertrust.com
+  - DOMAIN-SUFFIX,ssl.com
+  - DOMAIN-SUFFIX,sslcom.cn
   - DOMAIN-SUFFIX,digital-id.ch
   - DOMAIN-SUFFIX,digitalid.ch
   - DOMAIN-SUFFIX,managed-pki.ch
@@ -3027,6 +3058,7 @@ payload:
   - DOMAIN-SUFFIX,telekom.com
   - DOMAIN-SUFFIX,telekom.de
   - DOMAIN-SUFFIX,trustwave.com
+  - DOMAIN-SUFFIX,twca.com.tw
   - DOMAIN-SUFFIX,verisign.asia
   - DOMAIN-SUFFIX,verisign.biz
   - DOMAIN-SUFFIX,verisign.ch
@@ -10663,6 +10695,8 @@ payload:
   - DOMAIN-SUFFIX,alibabacloud.com.tw
   - DOMAIN-SUFFIX,alicloud.com
   - DOMAIN-SUFFIX,amazon-adsystem.com
+  - DOMAIN-SUFFIX,amazontrust.com
+  - DOMAIN-SUFFIX,ss2.us
   - DOMAIN-KEYWORD,aws
   - DOMAIN-SUFFIX,acmvalidations.com
   - DOMAIN-SUFFIX,acmvalidationsaws.com
@@ -10813,7 +10847,6 @@ payload:
   - DOMAIN-SUFFIX,amazonpay.in
   - DOMAIN-SUFFIX,amazonsdi.com
   - DOMAIN-SUFFIX,amazonstudiosguilds.com
-  - DOMAIN-SUFFIX,amazontrust.com
   - DOMAIN-SUFFIX,amazonvideodirect.com
   - DOMAIN-SUFFIX,amzn.asia
   - DOMAIN-SUFFIX,amzn.com
@@ -10878,6 +10911,12 @@ payload:
   - DOMAIN,appleworldwidedeveloper.hb-api.omtrdc.net
   - DOMAIN,appleworldwidedeveloper.sc.omtrdc.net
   - DOMAIN,p-events-delivery.akamaized.net
+  - DOMAIN,certs-lb.apple.com.akadns.net
+  - DOMAIN,certs.apple.com
+  - DOMAIN,crl-lb.apple.com.akadns.net
+  - DOMAIN,crl.apple.com
+  - DOMAIN,ocsp-lb.apple.com.akadns.net
+  - DOMAIN,ocsp.apple.com
   - DOMAIN-SUFFIX,100beatscheap.com
   - DOMAIN-SUFFIX,1monsterbeatsbydreus.com
   - DOMAIN-SUFFIX,2013beatsbydrdreonline.com
@@ -12512,8 +12551,6 @@ payload:
   - DOMAIN,mesu-china.apple.com.akadns.net
   - DOMAIN,mesu.apple.com
   - DOMAIN,music.apple.com
-  - DOMAIN,ocsp-lb.apple.com.akadns.net
-  - DOMAIN,ocsp.apple.com
   - DOMAIN,oscdn.apple.com
   - DOMAIN,oscdn.origin-apple.com.akadns.net
   - DOMAIN,pancake.apple.com
@@ -13762,6 +13799,9 @@ payload:
   - DOMAIN,scholar.google.si
   - DOMAIN,scholar.google.sk
   - DOMAIN,scholar.l.google.com
+  - DOMAIN-SUFFIX,pki.goog
+  - DOMAIN,crl.pki.goog
+  - DOMAIN,ocsp.pki.goog
   - DOMAIN-SUFFIX,kaggle.com
   - DOMAIN-SUFFIX,kaggle.io
   - DOMAIN-SUFFIX,deps.dev
@@ -14446,7 +14486,6 @@ payload:
   - DOMAIN,clientservices.googleapis.com
   - DOMAIN,connectivitycheck.gstatic.com
   - DOMAIN,corp.google.com
-  - DOMAIN,crl.pki.goog
   - DOMAIN,csi.gstatic.com
   - DOMAIN,dl.google.com
   - DOMAIN,dl.l.google.com
@@ -14465,7 +14504,6 @@ payload:
   - DOMAIN,gstaticadssl.l.google.com
   - DOMAIN,gtm.oasisfeng.com
   - DOMAIN,imasdk.googleapis.com
-  - DOMAIN,ocsp.pki.goog
   - DOMAIN,pagead-googlehosted.l.google.com
   - DOMAIN,pki-goog.l.google.com
   - DOMAIN,recaptcha.net
@@ -14489,6 +14527,10 @@ payload:
   - DOMAIN-SUFFIX,hetzner.com
   - DOMAIN-SUFFIX,hetzner.de
   - DOMAIN-SUFFIX,your-server.de
+  - DOMAIN,eca.hinet.net
+  - DOMAIN,gtlsca.nat.gov.tw
+  - DOMAIN,ocsp.eca.hinet.net
+  - DOMAIN,ocsp.gtlsca.nat.gov.tw
   - DOMAIN-SUFFIX,cht.com.tw
   - DOMAIN-SUFFIX,chtf.org.tw
   - DOMAIN-SUFFIX,emome.net

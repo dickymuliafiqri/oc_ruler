@@ -4,3 +4,7 @@ payload:
   - DOMAIN-SUFFIX,emome.net
   - DOMAIN-SUFFIX,hinet.net
   - DOMAIN-SUFFIX,xuite.net
+  - DOMAIN,eca.hinet.net
+  - DOMAIN,gtlsca.nat.gov.tw
+  - DOMAIN,ocsp.eca.hinet.net
+  - DOMAIN,ocsp.gtlsca.nat.gov.tw

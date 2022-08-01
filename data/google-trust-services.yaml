@@ -1,0 +1,4 @@
+payload:
+  - DOMAIN-SUFFIX,pki.goog
+  - DOMAIN,crl.pki.goog
+  - DOMAIN,ocsp.pki.goog
