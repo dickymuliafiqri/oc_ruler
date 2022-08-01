@@ -535,8 +535,8 @@ payload:
   - DOMAIN,videos-rockstargames-com.akamaized.net
   - DOMAIN-SUFFIX,playartifact.com
   - DOMAIN-SUFFIX,s.team
-  - DOMAIN-SUFFIX,steam-chat.com
   - DOMAIN-SUFFIX,steam-api.com
+  - DOMAIN-SUFFIX,steam-chat.com
   - DOMAIN-SUFFIX,steamcommunity.com
   - DOMAIN-SUFFIX,steamcontent.com
   - DOMAIN-SUFFIX,steamdeck.com
@@ -613,9 +613,15 @@ payload:
   - DOMAIN-SUFFIX,fanatical.com
   - DOMAIN-SUFFIX,humblebundle.com
   - DOMAIN-SUFFIX,loverslab.com
+  - DOMAIN-SUFFIX,modrinth.com
+  - DOMAIN-SUFFIX,nexusmods.com
+  - DOMAIN-SUFFIX,papermc.io
   - DOMAIN-SUFFIX,planetminecraft.com
   - DOMAIN-SUFFIX,pinkcore.com
   - DOMAIN-SUFFIX,pinkcore.net
+  - DOMAIN-SUFFIX,protondb.com
+  - DOMAIN-SUFFIX,speedrun.com
+  - DOMAIN-SUFFIX,steamdb.info
   - DOMAIN-SUFFIX,ptzwx.com
   - DOMAIN-SUFFIX,quanben-xiaoshuo.com
   - DOMAIN-SUFFIX,quanben.io

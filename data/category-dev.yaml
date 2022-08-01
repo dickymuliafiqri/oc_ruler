@@ -407,6 +407,7 @@ payload:
   - DOMAIN-SUFFIX,strikingly.com
   - DOMAIN-SUFFIX,strikinglycdn.com
   - DOMAIN-SUFFIX,termux.com
+  - DOMAIN-SUFFIX,termux.dev
   - DOMAIN-SUFFIX,termux.org
   - DOMAIN-SUFFIX,kernel.org
   - DOMAIN-SUFFIX,linux.org

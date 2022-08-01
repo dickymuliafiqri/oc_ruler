@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN-SUFFIX,porkbun.com
   - DOMAIN-SUFFIX,acer-group.com
   - DOMAIN-SUFFIX,acer.com
   - DOMAIN-SUFFIX,acer.com.cn
@@ -4961,6 +4962,8 @@ payload:
   - DOMAIN-SUFFIX,getpocket.com
   - DOMAIN-SUFFIX,seamonkey-project.org
   - DOMAIN-SUFFIX,thunderbird.net
+  - DOMAIN-SUFFIX,musixmatch.com
+  - DOMAIN-SUFFIX,mxmcdn.net
   - DOMAIN-SUFFIX,gcld-line.com
   - DOMAIN-SUFFIX,lin.ee
   - DOMAIN-SUFFIX,line-apps-beta.com
