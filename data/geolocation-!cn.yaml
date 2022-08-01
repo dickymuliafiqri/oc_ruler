@@ -5118,6 +5118,7 @@ payload:
   - DOMAIN-SUFFIX,playartifact.com
   - DOMAIN-SUFFIX,s.team
   - DOMAIN-SUFFIX,steam-chat.com
+  - DOMAIN-SUFFIX,steam-api.com
   - DOMAIN-SUFFIX,steamcommunity.com
   - DOMAIN-SUFFIX,steamcontent.com
   - DOMAIN-SUFFIX,steamdeck.com
