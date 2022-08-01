@@ -4,4 +4,5 @@ payload:
   - DOMAIN-SUFFIX,pixiv.net
   - DOMAIN-SUFFIX,pixiv.org
   - DOMAIN-SUFFIX,pixiv.co.jp
+  - DOMAIN-SUFFIX,pixiv.me
   - DOMAIN-SUFFIX,pximg.net
