@@ -71,6 +71,12 @@ payload:
   - DOMAIN-SUFFIX,identrust.net
   - DOMAIN-SUFFIX,lencr.org
   - DOMAIN-SUFFIX,letsencrypt.org
+  - DOMAIN-SUFFIX,msocsp.com
+  - DOMAIN,crl.microsoft.com
+  - DOMAIN,mscrl.microsoft.com
+  - DOMAIN,ocsp.microsoft.com
+  - DOMAIN,oneocsp.microsoft.com
+  - DOMAIN,www.microsoft.com
   - DOMAIN-SUFFIX,secom.co.jp
   - DOMAIN-SUFFIX,secomtrust.net
   - DOMAIN-SUFFIX,enterprisessl.com
