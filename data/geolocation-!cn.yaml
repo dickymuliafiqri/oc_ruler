@@ -2941,6 +2941,7 @@ payload:
   - DOMAIN-SUFFIX,actalis.com
   - DOMAIN-SUFFIX,actalis.it
   - DOMAIN-SUFFIX,amazontrust.com
+  - DOMAIN-SUFFIX,awstrust.com
   - DOMAIN-SUFFIX,ss2.us
   - DOMAIN,certs-lb.apple.com.akadns.net
   - DOMAIN,certs.apple.com
@@ -3000,10 +3001,8 @@ payload:
   - DOMAIN-SUFFIX,pki.goog
   - DOMAIN,crl.pki.goog
   - DOMAIN,ocsp.pki.goog
-  - DOMAIN,eca.hinet.net
-  - DOMAIN,gtlsca.nat.gov.tw
-  - DOMAIN,ocsp.eca.hinet.net
-  - DOMAIN,ocsp.gtlsca.nat.gov.tw
+  - DOMAIN-SUFFIX,eca.hinet.net
+  - DOMAIN-SUFFIX,gtlsca.nat.gov.tw
   - DOMAIN-SUFFIX,hongkongpost.gov.hk
   - DOMAIN-SUFFIX,ecert.gov.hk
   - DOMAIN-SUFFIX,identrust.com
@@ -11279,6 +11278,7 @@ payload:
   - DOMAIN-SUFFIX,alicloud.com
   - DOMAIN-SUFFIX,amazon-adsystem.com
   - DOMAIN-SUFFIX,amazontrust.com
+  - DOMAIN-SUFFIX,awstrust.com
   - DOMAIN-SUFFIX,ss2.us
   - DOMAIN-KEYWORD,aws
   - DOMAIN-SUFFIX,acmvalidations.com
@@ -11307,7 +11307,6 @@ payload:
   - DOMAIN-SUFFIX,awssecworkshops.com
   - DOMAIN-SUFFIX,awsstatic.com
   - DOMAIN-SUFFIX,awsthinkbox.com
-  - DOMAIN-SUFFIX,awstrust.com
   - DOMAIN-SUFFIX,cdkworkshop.com
   - DOMAIN-SUFFIX,cloudfront.net
   - DOMAIN-SUFFIX,containersonaws.com
@@ -15110,10 +15109,8 @@ payload:
   - DOMAIN-SUFFIX,hetzner.com
   - DOMAIN-SUFFIX,hetzner.de
   - DOMAIN-SUFFIX,your-server.de
-  - DOMAIN,eca.hinet.net
-  - DOMAIN,gtlsca.nat.gov.tw
-  - DOMAIN,ocsp.eca.hinet.net
-  - DOMAIN,ocsp.gtlsca.nat.gov.tw
+  - DOMAIN-SUFFIX,eca.hinet.net
+  - DOMAIN-SUFFIX,gtlsca.nat.gov.tw
   - DOMAIN-SUFFIX,cht.com.tw
   - DOMAIN-SUFFIX,chtf.org.tw
   - DOMAIN-SUFFIX,emome.net
@@ -15952,6 +15949,7 @@ payload:
   - DOMAIN-SUFFIX,microsoftlatamaitour.com
   - DOMAIN-SUFFIX,microsoftlinc.com
   - DOMAIN-SUFFIX,microsoftonline-p.com
+  - DOMAIN-SUFFIX,microsoftonline.cn
   - DOMAIN-SUFFIX,microsoftonline.com
   - DOMAIN-SUFFIX,microsoftpartnercommunity.com
   - DOMAIN-SUFFIX,microsoftready.com
@@ -15993,12 +15991,15 @@ payload:
   - DOMAIN-SUFFIX,o365weve.com
   - DOMAIN-SUFFIX,office.com
   - DOMAIN-SUFFIX,office.net
+  - DOMAIN-SUFFIX,office365.cn
   - DOMAIN-SUFFIX,office365.com
+  - DOMAIN-SUFFIX,officewebapps.cn
   - DOMAIN-SUFFIX,onenote.com
   - DOMAIN-SUFFIX,onenote.net
   - DOMAIN-SUFFIX,onestore.ms
   - DOMAIN-SUFFIX,opticsforthecloud.net
   - DOMAIN-SUFFIX,outingsapp.com
+  - DOMAIN-SUFFIX,outlook.cn
   - DOMAIN-SUFFIX,outlook.com
   - DOMAIN-SUFFIX,passport.net
   - DOMAIN-SUFFIX,pixapp.net

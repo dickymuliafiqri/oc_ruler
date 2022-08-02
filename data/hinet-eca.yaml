@@ -1,5 +1,3 @@
 payload:
-  - DOMAIN,eca.hinet.net
-  - DOMAIN,gtlsca.nat.gov.tw
-  - DOMAIN,ocsp.eca.hinet.net
-  - DOMAIN,ocsp.gtlsca.nat.gov.tw
+  - DOMAIN-SUFFIX,eca.hinet.net
+  - DOMAIN-SUFFIX,gtlsca.nat.gov.tw

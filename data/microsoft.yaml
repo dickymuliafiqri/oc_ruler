@@ -129,6 +129,7 @@ payload:
   - DOMAIN-SUFFIX,microsoftlatamaitour.com
   - DOMAIN-SUFFIX,microsoftlinc.com
   - DOMAIN-SUFFIX,microsoftonline-p.com
+  - DOMAIN-SUFFIX,microsoftonline.cn
   - DOMAIN-SUFFIX,microsoftonline.com
   - DOMAIN-SUFFIX,microsoftpartnercommunity.com
   - DOMAIN-SUFFIX,microsoftready.com
@@ -170,12 +171,15 @@ payload:
   - DOMAIN-SUFFIX,o365weve.com
   - DOMAIN-SUFFIX,office.com
   - DOMAIN-SUFFIX,office.net
+  - DOMAIN-SUFFIX,office365.cn
   - DOMAIN-SUFFIX,office365.com
+  - DOMAIN-SUFFIX,officewebapps.cn
   - DOMAIN-SUFFIX,onenote.com
   - DOMAIN-SUFFIX,onenote.net
   - DOMAIN-SUFFIX,onestore.ms
   - DOMAIN-SUFFIX,opticsforthecloud.net
   - DOMAIN-SUFFIX,outingsapp.com
+  - DOMAIN-SUFFIX,outlook.cn
   - DOMAIN-SUFFIX,outlook.com
   - DOMAIN-SUFFIX,passport.net
   - DOMAIN-SUFFIX,pixapp.net

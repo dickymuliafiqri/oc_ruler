@@ -2,6 +2,7 @@ payload:
   - DOMAIN-SUFFIX,actalis.com
   - DOMAIN-SUFFIX,actalis.it
   - DOMAIN-SUFFIX,amazontrust.com
+  - DOMAIN-SUFFIX,awstrust.com
   - DOMAIN-SUFFIX,ss2.us
   - DOMAIN,certs-lb.apple.com.akadns.net
   - DOMAIN,certs.apple.com
@@ -61,10 +62,8 @@ payload:
   - DOMAIN-SUFFIX,pki.goog
   - DOMAIN,crl.pki.goog
   - DOMAIN,ocsp.pki.goog
-  - DOMAIN,eca.hinet.net
-  - DOMAIN,gtlsca.nat.gov.tw
-  - DOMAIN,ocsp.eca.hinet.net
-  - DOMAIN,ocsp.gtlsca.nat.gov.tw
+  - DOMAIN-SUFFIX,eca.hinet.net
+  - DOMAIN-SUFFIX,gtlsca.nat.gov.tw
   - DOMAIN-SUFFIX,hongkongpost.gov.hk
   - DOMAIN-SUFFIX,ecert.gov.hk
   - DOMAIN-SUFFIX,identrust.com
