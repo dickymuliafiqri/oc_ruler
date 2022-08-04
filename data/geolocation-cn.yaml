@@ -4,6 +4,8 @@ payload:
   - DOMAIN-SUFFIX,guoxuemi.com
   - DOMAIN-SUFFIX,mojidict.com
   - DOMAIN-SUFFIX,jikipedia.com
+  - DOMAIN-SUFFIX,qiuwen.wiki
+  - DOMAIN-SUFFIX,shidianbaike.com
   - DOMAIN-SUFFIX,haidilao.com
   - DOMAIN-SUFFIX,liulishuo.com
   - DOMAIN-SUFFIX,llsapp.com
