@@ -5374,6 +5374,13 @@ payload:
   - DOMAIN-SUFFIX,thestationbymaker.com
   - DOMAIN-SUFFIX,thisispolaris.com
   - DOMAIN-SUFFIX,watchdisneyfe.com
+  - DOMAIN-SUFFIX,chobit.cc
+  - DOMAIN-SUFFIX,ci-en.net
+  - DOMAIN-SUFFIX,dlsite.com
+  - DOMAIN-SUFFIX,dlsite.com.tw
+  - DOMAIN-SUFFIX,dlsitestudio.com
+  - DOMAIN-SUFFIX,nijiyome.jp
+  - DOMAIN-SUFFIX,triokini.com
   - DOMAIN-SUFFIX,goodreads.com
   - DOMAIN-SUFFIX,gr-assets.com
   - DOMAIN,apl-hamivideo.cdn.hinet.net
@@ -17122,6 +17129,13 @@ payload:
   - DOMAIN-SUFFIX,avxlive.icu
   - DOMAIN-SUFFIX,xsava.xyz
   - DOMAIN-SUFFIX,zavat.pw
+  - DOMAIN-SUFFIX,chobit.cc
+  - DOMAIN-SUFFIX,ci-en.net
+  - DOMAIN-SUFFIX,dlsite.com
+  - DOMAIN-SUFFIX,dlsite.com.tw
+  - DOMAIN-SUFFIX,dlsitestudio.com
+  - DOMAIN-SUFFIX,nijiyome.jp
+  - DOMAIN-SUFFIX,triokini.com
   - DOMAIN-SUFFIX,espressif.com
   - DOMAIN-SUFFIX,esp32.com
   - DOMAIN-SUFFIX,esp8266.com
