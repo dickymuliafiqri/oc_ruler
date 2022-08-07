@@ -9970,6 +9970,7 @@ payload:
   - DOMAIN-SUFFIX,uriminzokkiri.com
   - DOMAIN-SUFFIX,urlgalleries.net
   - DOMAIN-SUFFIX,uselessjunk.com
+  - DOMAIN-SUFFIX,uxxxporn.com
   - DOMAIN-SUFFIX,v7hds.com
   - DOMAIN-SUFFIX,vagabundasdoorkut.net
   - DOMAIN-SUFFIX,vagina.nl
@@ -10625,6 +10626,8 @@ payload:
   - DOMAIN-SUFFIX,pros.ee
   - DOMAIN-SUFFIX,pse.is
   - DOMAIN-SUFFIX,ping.pe
+  - DOMAIN-SUFFIX,playcover.io
+  - DOMAIN-SUFFIX,playcover.workers.dev
   - DOMAIN-SUFFIX,pm.me
   - DOMAIN-SUFFIX,proton.me
   - DOMAIN-SUFFIX,protonmail.ch
