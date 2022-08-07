@@ -3,6 +3,8 @@ payload:
   - DOMAIN-SUFFIX,acer-group.com
   - DOMAIN-SUFFIX,acer.com
   - DOMAIN-SUFFIX,acer.com.cn
+  - DOMAIN-SUFFIX,advertising.adobe.com
+  - DOMAIN-SUFFIX,tubemogul.com
   - DOMAIN-SUFFIX,typekit.com
   - DOMAIN-SUFFIX,typekit.net
   - DOMAIN-SUFFIX,10xfotolia.com
@@ -135,6 +137,7 @@ payload:
   - DOMAIN-SUFFIX,alibabacloud.com.tw
   - DOMAIN-SUFFIX,alicloud.com
   - DOMAIN-SUFFIX,amazon-adsystem.com
+  - DOMAIN-SUFFIX,serving-sys.com
   - DOMAIN-SUFFIX,amazontrust.com
   - DOMAIN-SUFFIX,awstrust.com
   - DOMAIN-SUFFIX,ss2.us
@@ -3134,9 +3137,11 @@ payload:
   - DOMAIN-SUFFIX,golang.org
   - DOMAIN-SUFFIX,2mdn.net
   - DOMAIN-SUFFIX,admob.com
+  - DOMAIN-SUFFIX,ads.youtube.com
   - DOMAIN-SUFFIX,adsense.com
   - DOMAIN-SUFFIX,adsensecustomsearchads.com
   - DOMAIN-SUFFIX,adsenseformobileapps.com
+  - DOMAIN-SUFFIX,adservice.google.com
   - DOMAIN-SUFFIX,advertisercommunity.com
   - DOMAIN-SUFFIX,advertiserscommunity.com
   - DOMAIN-SUFFIX,adwords-community.com

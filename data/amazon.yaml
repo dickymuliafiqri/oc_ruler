@@ -96,6 +96,7 @@ payload:
   - DOMAIN-SUFFIX,audible.com
   - DOMAIN-SUFFIX,createspace.com
   - DOMAIN-SUFFIX,amazon-adsystem.com
+  - DOMAIN-SUFFIX,serving-sys.com
   - DOMAIN-SUFFIX,amazontrust.com
   - DOMAIN-SUFFIX,awstrust.com
   - DOMAIN-SUFFIX,ss2.us

@@ -24,6 +24,10 @@ payload:
   - DOMAIN-SUFFIX,tibetairlines.com.cn
   - DOMAIN-SUFFIX,variflight.com
   - DOMAIN-SUFFIX,xiamenair.com
+  - DOMAIN-SUFFIX,heavenlywind.cc
+  - DOMAIN-SUFFIX,steampp.net
+  - DOMAIN-SUFFIX,lsplayer.com
+  - DOMAIN-SUFFIX,yeshen.com
   - DOMAIN-SUFFIX,suzuki-china.com
   - DOMAIN-SUFFIX,0123456789.com
   - DOMAIN-SUFFIX,0379home.com
@@ -1011,7 +1015,6 @@ payload:
   - DOMAIN-SUFFIX,yaozh.com
   - DOMAIN-SUFFIX,ycgame.com
   - DOMAIN-SUFFIX,yeepay.com
-  - DOMAIN-SUFFIX,yeshen.com
   - DOMAIN-SUFFIX,yesky.com
   - DOMAIN-SUFFIX,yh31.com
   - DOMAIN-SUFFIX,yigao.com
