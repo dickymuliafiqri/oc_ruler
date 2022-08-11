@@ -11,6 +11,7 @@ payload:
   - DOMAIN-SUFFIX,llsapp.com
   - DOMAIN-SUFFIX,llscdn.com
   - DOMAIN-SUFFIX,llsserver.com
+  - DOMAIN-SUFFIX,moulem.com
   - DOMAIN-SUFFIX,caac.gov.cn
   - DOMAIN-SUFFIX,ceair.com
   - DOMAIN-SUFFIX,chinaexpressair.com
