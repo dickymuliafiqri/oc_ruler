@@ -1,5 +1,4 @@
 payload:
-  - DOMAIN-SUFFIX,bromite.org
   - DOMAIN-SUFFIX,touhouwiki.net
   - DOMAIN-KEYWORD,gov
   - DOMAIN-KEYWORD,mil
@@ -10796,6 +10795,14 @@ payload:
   - DOMAIN-SUFFIX,shenyun.com
   - DOMAIN-SUFFIX,shenyunperformingarts.org
   - DOMAIN-SUFFIX,wujieliulan.com
+  - DOMAIN-SUFFIX,firefox.com
+  - DOMAIN-SUFFIX,firefoxusercontent.com
+  - DOMAIN-KEYWORD,chrome
+  - DOMAIN-SUFFIX,chrome.com
+  - DOMAIN-SUFFIX,chromium.org
+  - DOMAIN-SUFFIX,bromite.org
+  - DOMAIN-SUFFIX,vivaldi.com
+  - DOMAIN-SUFFIX,waterfox.net
   - DOMAIN-SUFFIX,accuweather.com
   - DOMAIN-SUFFIX,getadblock.com
   - DOMAIN-SUFFIX,adblockplus.org
