@@ -19,6 +19,7 @@ payload:
   - DOMAIN-SUFFIX,freebsd.org
   - DOMAIN-SUFFIX,gentoo.org
   - DOMAIN-SUFFIX,getcomposer.org
+  - DOMAIN-SUFFIX,getzola.org
   - DOMAIN-SUFFIX,git-scm.com
   - DOMAIN-SUFFIX,gnu.org
   - DOMAIN-SUFFIX,greenend.org.uk
@@ -54,6 +55,7 @@ payload:
   - DOMAIN-SUFFIX,rpmfusion.org
   - DOMAIN-SUFFIX,scientificlinux.org
   - DOMAIN-SUFFIX,scoop.sh
+  - DOMAIN-SUFFIX,shellcheck.net
   - DOMAIN-SUFFIX,shields.io
   - DOMAIN-SUFFIX,sqlite.org
   - DOMAIN-SUFFIX,sublimetext.com
