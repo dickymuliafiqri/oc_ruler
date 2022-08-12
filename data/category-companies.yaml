@@ -2478,6 +2478,7 @@ payload:
   - DOMAIN-SUFFIX,dellcdn.com
   - DOMAIN-SUFFIX,digitalocean.com
   - DOMAIN-SUFFIX,digitaloceanspaces.com
+  - DOMAIN-SUFFIX,do.co
   - DOMAIN-SUFFIX,nginxconfig.io
   - DOMAIN-SUFFIX,accountkit.com
   - DOMAIN-SUFFIX,atscaleconference.com
