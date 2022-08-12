@@ -15,6 +15,7 @@ payload:
   - DOMAIN-KEYWORD,xn--estv75g
   - DOMAIN-KEYWORD,xn--vuq861b
   - DOMAIN-KEYWORD,xn--zfr164b
+  - DOMAIN-SUFFIX,123pan.com
   - DOMAIN-SUFFIX,42r.cn
   - DOMAIN-SUFFIX,5566ua.com
   - DOMAIN-SUFFIX,aurorapush.cn
@@ -727,6 +728,7 @@ payload:
   - DOMAIN-SUFFIX,saraba1st.com
   - DOMAIN-SUFFIX,zhihu.com
   - DOMAIN-SUFFIX,zhimg.com
+  - DOMAIN-SUFFIX,klpbbs.com
   - DOMAIN-SUFFIX,kuaiduizuoye.com
   - DOMAIN-SUFFIX,feng1.com
   - DOMAIN-SUFFIX,rongechain.com
@@ -739,6 +741,8 @@ payload:
   - DOMAIN-SUFFIX,sfcar.hk
   - DOMAIN-SUFFIX,sffix.cn
   - DOMAIN-SUFFIX,sfgy.org
+  - DOMAIN-SUFFIX,mcbbs.net
+  - DOMAIN-SUFFIX,mcmod.cn
   - DOMAIN-SUFFIX,36dianping.com
   - DOMAIN-SUFFIX,36kr.com
   - DOMAIN-SUFFIX,36krcdn.com
@@ -2310,6 +2314,7 @@ payload:
   - DOMAIN-SUFFIX,52hxw.com
   - DOMAIN-SUFFIX,52miji.com
   - DOMAIN-SUFFIX,52pk.com
+  - DOMAIN-SUFFIX,52pojie.cn
   - DOMAIN-SUFFIX,52z.com
   - DOMAIN-SUFFIX,53kf.com
   - DOMAIN-SUFFIX,55.com
@@ -2725,9 +2730,11 @@ payload:
   - DOMAIN-SUFFIX,it165.net
   - DOMAIN-SUFFIX,it168.com
   - DOMAIN-SUFFIX,it610.com
+  - DOMAIN-SUFFIX,itdog.cn
   - DOMAIN-SUFFIX,iteye.com
   - DOMAIN-SUFFIX,itjuzi.com
   - DOMAIN-SUFFIX,itmop.com
+  - DOMAIN-SUFFIX,itsk.com
   - DOMAIN-SUFFIX,iyiou.com
   - DOMAIN-SUFFIX,iyunxiao.com
   - DOMAIN-SUFFIX,izuche.com

@@ -1,6 +1,10 @@
 payload:
+  - DOMAIN-SUFFIX,123pan.com
   - DOMAIN-SUFFIX,funcdn.com
+  - DOMAIN-SUFFIX,klpbbs.com
   - DOMAIN-SUFFIX,kuaiduizuoye.com
+  - DOMAIN-SUFFIX,mcbbs.net
+  - DOMAIN-SUFFIX,mcmod.cn
   - DOMAIN-SUFFIX,guoxuedashi.com
   - DOMAIN-SUFFIX,guoxuemi.com
   - DOMAIN-SUFFIX,mojidict.com
@@ -117,6 +121,7 @@ payload:
   - DOMAIN-SUFFIX,52hxw.com
   - DOMAIN-SUFFIX,52miji.com
   - DOMAIN-SUFFIX,52pk.com
+  - DOMAIN-SUFFIX,52pojie.cn
   - DOMAIN-SUFFIX,52z.com
   - DOMAIN-SUFFIX,53kf.com
   - DOMAIN-SUFFIX,55.com
@@ -532,9 +537,11 @@ payload:
   - DOMAIN-SUFFIX,it165.net
   - DOMAIN-SUFFIX,it168.com
   - DOMAIN-SUFFIX,it610.com
+  - DOMAIN-SUFFIX,itdog.cn
   - DOMAIN-SUFFIX,iteye.com
   - DOMAIN-SUFFIX,itjuzi.com
   - DOMAIN-SUFFIX,itmop.com
+  - DOMAIN-SUFFIX,itsk.com
   - DOMAIN-SUFFIX,iyiou.com
   - DOMAIN-SUFFIX,iyunxiao.com
   - DOMAIN-SUFFIX,izuche.com
