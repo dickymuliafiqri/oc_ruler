@@ -2364,6 +2364,10 @@ payload:
   - DOMAIN-SUFFIX,cloudc.one
   - DOMAIN-SUFFIX,cloudcone.com
   - DOMAIN-SUFFIX,cloudcone.net
+  - DOMAIN-SUFFIX,collabora.co.uk
+  - DOMAIN-SUFFIX,collabora.com
+  - DOMAIN-SUFFIX,collabora.org
+  - DOMAIN-SUFFIX,collaboraoffice.com
   - DOMAIN-SUFFIX,cfblob.com
   - DOMAIN-SUFFIX,cloudchoose.com
   - DOMAIN-SUFFIX,cloudvolumes.com
