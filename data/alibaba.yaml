@@ -96,7 +96,6 @@ payload:
   - DOMAIN-SUFFIX,aliexpress.ru
   - DOMAIN-SUFFIX,alicloudccp.com
   - DOMAIN-SUFFIX,aliyundrive.com
-  - DOMAIN-SUFFIX,sm.cn
   - DOMAIN-SUFFIX,cainiao.com
   - DOMAIN-SUFFIX,cainiao.com.cn
   - DOMAIN-SUFFIX,cainiao-inc.com
@@ -105,6 +104,7 @@ payload:
   - DOMAIN-SUFFIX,hemaos.com
   - DOMAIN-SUFFIX,hemashare.cn
   - DOMAIN-SUFFIX,shyhhema.com
+  - DOMAIN-SUFFIX,sm.cn
   - DOMAIN-SUFFIX,1688.com
   - DOMAIN-SUFFIX,etao.com
   - DOMAIN-SUFFIX,juhuasuan.com
@@ -123,6 +123,7 @@ payload:
   - DOMAIN-SUFFIX,tmall.ru
   - DOMAIN-SUFFIX,tmalltv.com
   - DOMAIN-SUFFIX,tmjl.ai
+  - DOMAIN-SUFFIX,quark.cn
   - DOMAIN-SUFFIX,alitrip.com
   - DOMAIN-SUFFIX,feizhu.cn
   - DOMAIN-SUFFIX,feizhu.com
