@@ -408,6 +408,7 @@ payload:
   - DOMAIN-SUFFIX,mystrikingly.com
   - DOMAIN-SUFFIX,strikingly.com
   - DOMAIN-SUFFIX,strikinglycdn.com
+  - DOMAIN-SUFFIX,weui.io
   - DOMAIN-SUFFIX,termux.com
   - DOMAIN-SUFFIX,termux.dev
   - DOMAIN-SUFFIX,termux.org

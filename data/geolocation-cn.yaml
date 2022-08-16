@@ -3171,6 +3171,7 @@ payload:
   - DOMAIN-SUFFIX,mtrace.qq.com
   - DOMAIN-SUFFIX,push.qq.com
   - DOMAIN-SUFFIX,pgdt.gtimg.cn
+  - DOMAIN-SUFFIX,weui.io
   - DOMAIN-SUFFIX,yuewen.com
   - DOMAIN-SUFFIX,hongxiu.com
   - DOMAIN-SUFFIX,lrts.me
