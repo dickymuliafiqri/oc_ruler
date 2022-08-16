@@ -4,8 +4,10 @@ payload:
   - DOMAIN-SUFFIX,change.org
   - DOMAIN-SUFFIX,f-droid.org
   - DOMAIN-SUFFIX,globalsecurity.org
+  - DOMAIN-SUFFIX,iana.org
   - DOMAIN-SUFFIX,ietf.org
   - DOMAIN-SUFFIX,itu.int
+  - DOMAIN-SUFFIX,opte.org
   - DOMAIN-SUFFIX,smpte.org
   - DOMAIN-SUFFIX,un.org
   - DOMAIN-SUFFIX,w3.org
