@@ -16839,6 +16839,8 @@ payload:
   - DOMAIN-SUFFIX,tegrazone.jp
   - DOMAIN-SUFFIX,tegrazone.kr
   - DOMAIN,nvidia.tt.omtrdc.net
+  - DOMAIN-SUFFIX,openweather.co.uk
+  - DOMAIN-SUFFIX,openweathermap.org
   - DOMAIN-KEYWORD,oracle
   - DOMAIN-SUFFIX,oracle.com
   - DOMAIN-SUFFIX,oraclecloud.com
