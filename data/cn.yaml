@@ -728,6 +728,7 @@ payload:
   - DOMAIN-SUFFIX,saraba1st.com
   - DOMAIN-SUFFIX,zhihu.com
   - DOMAIN-SUFFIX,zhimg.com
+  - DOMAIN-SUFFIX,fofa.info
   - DOMAIN-SUFFIX,itdog.cn
   - DOMAIN-SUFFIX,kuaiduizuoye.com
   - DOMAIN-SUFFIX,52pojie.cn
