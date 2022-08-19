@@ -10,6 +10,13 @@ payload:
   - DOMAIN-SUFFIX,itsk.com
   - DOMAIN-SUFFIX,mcmod.cn
   - DOMAIN-SUFFIX,moulem.com
+  - DOMAIN-SUFFIX,hihocoder.com
+  - DOMAIN-SUFFIX,jisuanke.com
+  - DOMAIN-SUFFIX,luogu.com.cn
+  - DOMAIN-SUFFIX,oi-wiki.com
+  - DOMAIN-SUFFIX,openjudge.cn
+  - DOMAIN-SUFFIX,uoj.ac
+  - DOMAIN-SUFFIX,vijos.org
   - DOMAIN-SUFFIX,guoxuedashi.com
   - DOMAIN-SUFFIX,guoxuemi.com
   - DOMAIN-SUFFIX,mojidict.com

@@ -1149,6 +1149,13 @@ payload:
   - DOMAIN-SUFFIX,sifou.com
   - DOMAIN-SUFFIX,tipdim.org
   - DOMAIN-SUFFIX,xueyuanjun.com
+  - DOMAIN-SUFFIX,hihocoder.com
+  - DOMAIN-SUFFIX,jisuanke.com
+  - DOMAIN-SUFFIX,luogu.com.cn
+  - DOMAIN-SUFFIX,oi-wiki.com
+  - DOMAIN-SUFFIX,openjudge.cn
+  - DOMAIN-SUFFIX,uoj.ac
+  - DOMAIN-SUFFIX,vijos.org
   - DOMAIN-KEYWORD,alibaba
   - DOMAIN-KEYWORD,alipay
   - DOMAIN-KEYWORD,taobao
