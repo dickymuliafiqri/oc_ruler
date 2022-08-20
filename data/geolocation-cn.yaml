@@ -1168,6 +1168,8 @@ payload:
   - DOMAIN-SUFFIX,w.cnzz.com
   - DOMAIN-SUFFIX,z.gds.cnzz.com
   - DOMAIN-SUFFIX,baijiayun.com
+  - DOMAIN-SUFFIX,bootcdn.cn
+  - DOMAIN-SUFFIX,bootcdn.net
   - DOMAIN-SUFFIX,bootcss.com
   - DOMAIN-SUFFIX,bootcdn.cn
   - DOMAIN-SUFFIX,phpcomposer.com
