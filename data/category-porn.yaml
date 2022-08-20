@@ -2258,6 +2258,7 @@ payload:
   - DOMAIN-SUFFIX,photo-image.monster
   - DOMAIN-SUFFIX,photos18.com
   - DOMAIN-SUFFIX,phun.org
+  - DOMAIN-SUFFIX,picacg2022.com
   - DOMAIN-SUFFIX,pichunter.com
   - DOMAIN-SUFFIX,pics.vc
   - DOMAIN-SUFFIX,pictoa.com
@@ -3644,6 +3645,13 @@ payload:
   - DOMAIN-SUFFIX,metcams.com
   - DOMAIN-SUFFIX,naiadsystems.com
   - DOMAIN-SUFFIX,nsimg.net
+  - DOMAIN-SUFFIX,bikaa.xyz
+  - DOMAIN-SUFFIX,bikac.xyz
+  - DOMAIN-SUFFIX,bikaios.xyz
+  - DOMAIN-SUFFIX,picacn.xyz
+  - DOMAIN-SUFFIX,picacomic.com
+  - DOMAIN-SUFFIX,picacomic.xyz
+  - DOMAIN-SUFFIX,wikawika.xyz
   - DOMAIN-SUFFIX,phncdn.com
   - DOMAIN-SUFFIX,phprcdn.com
   - DOMAIN-SUFFIX,porngub.com
