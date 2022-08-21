@@ -525,7 +525,6 @@ payload:
   - DOMAIN-SUFFIX,icaidao.com
   - DOMAIN-SUFFIX,ichangtou.com
   - DOMAIN-SUFFIX,idongdong.com
-  - DOMAIN-SUFFIX,iflytek.com
   - DOMAIN-SUFFIX,igao7.com
   - DOMAIN-SUFFIX,iheima.com
   - DOMAIN-SUFFIX,ijiandao.com
@@ -2898,6 +2897,9 @@ payload:
   - DOMAIN-SUFFIX,huaweicloud.com
   - DOMAIN-SUFFIX,vmall.com
   - DOMAIN-SUFFIX,vmallres.com
+  - DOMAIN-SUFFIX,iflytek.com
+  - DOMAIN-SUFFIX,xunfei.cn
+  - DOMAIN-SUFFIX,ets100.com
   - DOMAIN-SUFFIX,cmcm.com
   - DOMAIN-SUFFIX,cmcmcdn.com
   - DOMAIN-SUFFIX,liebao.cn
