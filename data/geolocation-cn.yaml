@@ -2367,6 +2367,7 @@ payload:
   - DOMAIN-SUFFIX,alicloud.com
   - DOMAIN-SUFFIX,alibabadns.com
   - DOMAIN-SUFFIX,alicdn.com
+  - DOMAIN-SUFFIX,alicloudapi.com
   - DOMAIN-SUFFIX,alidayu.com
   - DOMAIN-SUFFIX,alidns.com
   - DOMAIN-SUFFIX,alikunlun.com
