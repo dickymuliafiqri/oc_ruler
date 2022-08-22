@@ -52,6 +52,7 @@ payload:
   - DOMAIN-SUFFIX,r-project.org
   - DOMAIN-SUFFIX,raspberrypi.org
   - DOMAIN-SUFFIX,raspbian.org
+  - DOMAIN-SUFFIX,regex101.com
   - DOMAIN-SUFFIX,rpmfusion.org
   - DOMAIN-SUFFIX,scientificlinux.org
   - DOMAIN-SUFFIX,scoop.sh
