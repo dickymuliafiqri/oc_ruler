@@ -1,15 +1,4 @@
 payload:
-  - DOMAIN-SUFFIX,agconnect.link
-  - DOMAIN-SUFFIX,dbank.com
-  - DOMAIN-SUFFIX,dbankcdn.com
-  - DOMAIN-SUFFIX,dbankcloud.com
-  - DOMAIN-SUFFIX,harmonyos.com
-  - DOMAIN-SUFFIX,hicloud.com
-  - DOMAIN-SUFFIX,hihonor.com
-  - DOMAIN-SUFFIX,honor.cn
-  - DOMAIN-SUFFIX,huawei.com
-  - DOMAIN-SUFFIX,vmall.com
-  - DOMAIN-SUFFIX,vmallres.com
   - DOMAIN-SUFFIX,cdnhwcibv122.com
   - DOMAIN-SUFFIX,hc-cdn.cn
   - DOMAIN-SUFFIX,huaweicloud-dns.cn
