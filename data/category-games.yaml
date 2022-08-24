@@ -6,8 +6,6 @@ payload:
   - DOMAIN-SUFFIX,nexusmods.com
   - DOMAIN-SUFFIX,papermc.io
   - DOMAIN-SUFFIX,planetminecraft.com
-  - DOMAIN-SUFFIX,pinkcore.com
-  - DOMAIN-SUFFIX,pinkcore.net
   - DOMAIN-SUFFIX,protondb.com
   - DOMAIN-SUFFIX,speedrun.com
   - DOMAIN-SUFFIX,steamdb.info
@@ -269,6 +267,8 @@ payload:
   - DOMAIN,productcard.gog-statics.com
   - DOMAIN,static-login.gog-statics.com
   - DOMAIN,www4-static.gog-statics.com
+  - DOMAIN-SUFFIX,illusion.co.jp
+  - DOMAIN-SUFFIX,illusion.jp
   - DOMAIN-SUFFIX,genshinimpact.com
   - DOMAIN-SUFFIX,honkaiimpact3.com
   - DOMAIN-SUFFIX,honkaistarrail.com
@@ -411,6 +411,8 @@ payload:
   - DOMAIN-SUFFIX,xenoblade.com
   - DOMAIN-SUFFIX,op.gg
   - DOMAIN,opgg-static.akamaized.net
+  - DOMAIN-SUFFIX,pinkcore.com
+  - DOMAIN-SUFFIX,pinkcore.net
   - DOMAIN-KEYWORD,playstation
   - DOMAIN-SUFFIX,playstation.com
   - DOMAIN-SUFFIX,playstation.net

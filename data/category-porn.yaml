@@ -901,7 +901,6 @@ payload:
   - DOMAIN-SUFFIX,ero-anime.net
   - DOMAIN-SUFFIX,ero-comic-hunter.net
   - DOMAIN-SUFFIX,ero-kawa.com
-  - DOMAIN-SUFFIX,ero-labs.com
   - DOMAIN-SUFFIX,ero-manga-platinum.net
   - DOMAIN-SUFFIX,ero-mangalife.com
   - DOMAIN-SUFFIX,erocurves.com
@@ -1747,8 +1746,6 @@ payload:
   - DOMAIN-SUFFIX,jmcomic.mobi
   - DOMAIN-SUFFIX,jmcomic1.mobi
   - DOMAIN-SUFFIX,johnpersons.com
-  - DOMAIN-SUFFIX,johren.games
-  - DOMAIN-SUFFIX,johren.net
   - DOMAIN-SUFFIX,joiasmr.com
   - DOMAIN-SUFFIX,jokerlu1.cc
   - DOMAIN-SUFFIX,jokerlu1.info
@@ -3702,8 +3699,16 @@ payload:
   - DOMAIN-SUFFIX,hath.network
   - DOMAIN-SUFFIX,hentaiathome.net
   - DOMAIN-SUFFIX,hentaiverse.org
+  - DOMAIN-SUFFIX,ero-labs.com
+  - DOMAIN-SUFFIX,ero-labs.net
+  - DOMAIN-SUFFIX,erolabs.cloud
+  - DOMAIN-SUFFIX,erolabs.com
+  - DOMAIN-SUFFIX,erolabs.game
+  - DOMAIN-SUFFIX,erolabs.net
   - DOMAIN-SUFFIX,heydoga.com
   - DOMAIN-SUFFIX,heyzo.com
+  - DOMAIN-SUFFIX,illusion.co.jp
+  - DOMAIN-SUFFIX,illusion.jp
   - DOMAIN-SUFFIX,cdnlab.live
   - DOMAIN-SUFFIX,jable.tv
   - DOMAIN-SUFFIX,javbus.com
@@ -3717,6 +3722,8 @@ payload:
   - DOMAIN-SUFFIX,o0-2.com
   - DOMAIN-SUFFIX,javwide.com
   - DOMAIN-SUFFIX,javwide.tv
+  - DOMAIN-SUFFIX,johren.games
+  - DOMAIN-SUFFIX,johren.net
   - DOMAIN-SUFFIX,dditsadn.com
   - DOMAIN-SUFFIX,dditscdn.com
   - DOMAIN-SUFFIX,livejasmin.com
