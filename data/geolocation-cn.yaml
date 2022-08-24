@@ -1,5 +1,8 @@
 payload:
   - DOMAIN-SUFFIX,123pan.com
+  - DOMAIN-SUFFIX,17zuoye.cn
+  - DOMAIN-SUFFIX,17zuoye.net
+  - DOMAIN-SUFFIX,17zuoye.com
   - DOMAIN-SUFFIX,funcdn.com
   - DOMAIN-SUFFIX,fofa.info
   - DOMAIN-SUFFIX,itdog.cn
