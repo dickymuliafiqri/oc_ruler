@@ -13,6 +13,7 @@ payload:
   - DOMAIN-SUFFIX,itsk.com
   - DOMAIN-SUFFIX,mcmod.cn
   - DOMAIN-SUFFIX,moulem.com
+  - DOMAIN-SUFFIX,acwing.com
   - DOMAIN-SUFFIX,hihocoder.com
   - DOMAIN-SUFFIX,jisuanke.com
   - DOMAIN-SUFFIX,luogu.com.cn
