@@ -4438,6 +4438,7 @@ payload:
   - DOMAIN-SUFFIX,uchicago.edu
   - DOMAIN-SUFFIX,ucla.edu
   - DOMAIN-SUFFIX,umass.edu
+  - DOMAIN-SUFFIX,usaco.org
   - DOMAIN-SUFFIX,westlaw.com
   - DOMAIN-SUFFIX,wiley.com
   - DOMAIN-SUFFIX,wolterskluwer.com
@@ -11816,6 +11817,7 @@ payload:
   - DOMAIN-SUFFIX,openjsf.org
   - DOMAIN-SUFFIX,lfai.foundation
   - DOMAIN-SUFFIX,linuxfoundation.org
+  - DOMAIN-SUFFIX,topcoder.com
   - DOMAIN-SUFFIX,unity.com
   - DOMAIN-SUFFIX,unity3d.com
   - DOMAIN-SUFFIX,unityads.unity3d.com

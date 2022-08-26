@@ -142,6 +142,7 @@ payload:
   - DOMAIN-SUFFIX,uchicago.edu
   - DOMAIN-SUFFIX,ucla.edu
   - DOMAIN-SUFFIX,umass.edu
+  - DOMAIN-SUFFIX,usaco.org
   - DOMAIN-SUFFIX,westlaw.com
   - DOMAIN-SUFFIX,wiley.com
   - DOMAIN-SUFFIX,wolterskluwer.com
