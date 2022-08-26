@@ -23,6 +23,7 @@ payload:
   - DOMAIN-SUFFIX,openvpn.net
   - DOMAIN-SUFFIX,privacytools.io
   - DOMAIN-SUFFIX,psiphon3.com
+  - DOMAIN-SUFFIX,sagernet.org
   - DOMAIN-SUFFIX,shadowsocks.org
   - DOMAIN-SUFFIX,sspanel.net
   - DOMAIN-SUFFIX,stunnel.org
