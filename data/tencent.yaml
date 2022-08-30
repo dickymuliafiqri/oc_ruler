@@ -18,7 +18,10 @@ payload:
   - DOMAIN-SUFFIX,qcloudimg.com
   - DOMAIN-SUFFIX,qlogo.cn
   - DOMAIN-SUFFIX,qpic.cn
+  - DOMAIN-SUFFIX,qq.cn.com
   - DOMAIN-SUFFIX,qq.com
+  - DOMAIN-SUFFIX,qq.com.cn
+  - DOMAIN-SUFFIX,qq.wang
   - DOMAIN-SUFFIX,qqmail.com
   - DOMAIN-SUFFIX,qzone.com
   - DOMAIN-SUFFIX,rtx.com.cn
@@ -26,9 +29,11 @@ payload:
   - DOMAIN-SUFFIX,smtcdns.com
   - DOMAIN-SUFFIX,smtcdns.net
   - DOMAIN-SUFFIX,tencent.cn
+  - DOMAIN-SUFFIX,tencent.co.id
   - DOMAIN-SUFFIX,tencent.com
   - DOMAIN-SUFFIX,tencent.com.cn
   - DOMAIN-SUFFIX,tencent.com.hk
+  - DOMAIN-SUFFIX,tencent.net
   - DOMAIN-SUFFIX,tencent.net.cn
   - DOMAIN-SUFFIX,tencent-cloud.com
   - DOMAIN-SUFFIX,tencent-cloud.net
@@ -44,6 +49,9 @@ payload:
   - DOMAIN-SUFFIX,alloyteam.com
   - DOMAIN-SUFFIX,imweb.io
   - DOMAIN-SUFFIX,ivweb.io
+  - DOMAIN-SUFFIX,comsenz.com
+  - DOMAIN-SUFFIX,discuz.net
+  - DOMAIN-SUFFIX,discuz.org
   - DOMAIN-SUFFIX,dns.pub
   - DOMAIN-SUFFIX,dnsapi.cn
   - DOMAIN-SUFFIX,dnspod.cn
@@ -81,6 +89,8 @@ payload:
   - DOMAIN-SUFFIX,mtrace.qq.com
   - DOMAIN-SUFFIX,push.qq.com
   - DOMAIN-SUFFIX,pgdt.gtimg.cn
+  - DOMAIN-SUFFIX,qq.design
+  - DOMAIN-SUFFIX,tencent.design
   - DOMAIN-SUFFIX,weui.io
   - DOMAIN-SUFFIX,yuewen.com
   - DOMAIN-SUFFIX,hongxiu.com
