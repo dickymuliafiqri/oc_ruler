@@ -7252,6 +7252,16 @@ payload:
   - DOMAIN-SUFFIX,w3.org
   - DOMAIN-SUFFIX,who.int
   - DOMAIN-SUFFIX,wto.org
+  - DOMAIN-SUFFIX,18comic.cc
+  - DOMAIN-SUFFIX,18comic.company
+  - DOMAIN-SUFFIX,18comic.org
+  - DOMAIN-SUFFIX,18comic.vip
+  - DOMAIN-SUFFIX,jmcomic.me
+  - DOMAIN-SUFFIX,jmcomic.mobi
+  - DOMAIN-SUFFIX,jmcomic.moe
+  - DOMAIN-SUFFIX,jmcomic1.city
+  - DOMAIN-SUFFIX,jmcomic1.me
+  - DOMAIN-SUFFIX,jmcomic1.mobi
   - DOMAIN-SUFFIX,54647.global
   - DOMAIN-SUFFIX,54647.io
   - DOMAIN-SUFFIX,54647.online
@@ -7404,10 +7414,6 @@ payload:
   - DOMAIN-SUFFIX,188channel.com
   - DOMAIN-SUFFIX,18av.mm-cg.com
   - DOMAIN-SUFFIX,18av.pro
-  - DOMAIN-SUFFIX,18comic.cc
-  - DOMAIN-SUFFIX,18comic.company
-  - DOMAIN-SUFFIX,18comic.org
-  - DOMAIN-SUFFIX,18comic.vip
   - DOMAIN-SUFFIX,18commic.com
   - DOMAIN-SUFFIX,18doujin.com
   - DOMAIN-SUFFIX,18exgfs.com
@@ -9119,8 +9125,6 @@ payload:
   - DOMAIN-SUFFIX,jjdong7.com
   - DOMAIN-SUFFIX,jjgirls.com
   - DOMAIN-SUFFIX,jkforum.net
-  - DOMAIN-SUFFIX,jmcomic.mobi
-  - DOMAIN-SUFFIX,jmcomic1.mobi
   - DOMAIN-SUFFIX,johnpersons.com
   - DOMAIN-SUFFIX,joiasmr.com
   - DOMAIN-SUFFIX,jokerlu1.cc
