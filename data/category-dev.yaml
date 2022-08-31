@@ -409,8 +409,11 @@ payload:
   - DOMAIN-SUFFIX,mystrikingly.com
   - DOMAIN-SUFFIX,strikingly.com
   - DOMAIN-SUFFIX,strikinglycdn.com
+  - DOMAIN-SUFFIX,openmidas.com
   - DOMAIN-SUFFIX,qq.design
+  - DOMAIN-SUFFIX,qqgamedesign.com
   - DOMAIN-SUFFIX,tencent.design
+  - DOMAIN-SUFFIX,wegamedeveloper.com
   - DOMAIN-SUFFIX,weui.io
   - DOMAIN-SUFFIX,termux.com
   - DOMAIN-SUFFIX,termux.dev
