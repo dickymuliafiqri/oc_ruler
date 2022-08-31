@@ -20,6 +20,7 @@ payload:
   - DOMAIN-SUFFIX,itunbes.com
   - DOMAIN-SUFFIX,ituneas.com
   - DOMAIN-SUFFIX,itunes-apple.cn
+  - DOMAIN-SUFFIX,itunes-apple.com.akadns.net
   - DOMAIN-SUFFIX,itunes-radio.net
   - DOMAIN-SUFFIX,itunes.ca
   - DOMAIN-SUFFIX,itunes.co
@@ -50,4 +51,3 @@ payload:
   - DOMAIN-SUFFIX,itunesu.net
   - DOMAIN-SUFFIX,iutunes.com
   - DOMAIN-SUFFIX,wwwitunes.com
-  - DOMAIN-SUFFIX,itunes-apple.com.akadns.net
