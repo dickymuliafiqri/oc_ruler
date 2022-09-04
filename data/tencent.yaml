@@ -34,6 +34,28 @@ payload:
   - DOMAIN-SUFFIX,alloyteam.com
   - DOMAIN-SUFFIX,imweb.io
   - DOMAIN-SUFFIX,ivweb.io
+  - DOMAIN-SUFFIX,fyeds.com
+  - DOMAIN-SUFFIX,fyeds0.com
+  - DOMAIN-SUFFIX,fyeds1.com
+  - DOMAIN-SUFFIX,fyeds3.com
+  - DOMAIN-SUFFIX,fyeds4.com
+  - DOMAIN-SUFFIX,fyeds5.com
+  - DOMAIN-SUFFIX,fyeds6.com
+  - DOMAIN-SUFFIX,fyeds7.com
+  - DOMAIN-SUFFIX,fyeds8.com
+  - DOMAIN-SUFFIX,fyeds9.com
+  - DOMAIN-SUFFIX,fymall0.com
+  - DOMAIN-SUFFIX,fymall1.com
+  - DOMAIN-SUFFIX,fymall4.com
+  - DOMAIN-SUFFIX,fymall7.com
+  - DOMAIN-SUFFIX,fymall9.com
+  - DOMAIN-SUFFIX,fymallqa0.com
+  - DOMAIN-SUFFIX,fymallqa1.com
+  - DOMAIN-SUFFIX,fymallqa2.com
+  - DOMAIN-SUFFIX,fymallqa3.com
+  - DOMAIN-SUFFIX,fymallqa4.com
+  - DOMAIN-SUFFIX,fymallqa7.com
+  - DOMAIN-SUFFIX,fymallqa9.com
   - DOMAIN-SUFFIX,comsenz.com
   - DOMAIN-SUFFIX,discuz.net
   - DOMAIN-SUFFIX,discuz.org
