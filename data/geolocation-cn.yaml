@@ -2218,6 +2218,8 @@ payload:
   - DOMAIN-SUFFIX,koocdn.com
   - DOMAIN-SUFFIX,koolearn.com
   - DOMAIN-SUFFIX,koopass.com
+  - DOMAIN-SUFFIX,shanbay.com
+  - DOMAIN-SUFFIX,baydn.com
   - DOMAIN-SUFFIX,wanfangdata.com.cn
   - DOMAIN-SUFFIX,wf.pub
   - DOMAIN-SUFFIX,speiyou.com
@@ -2948,6 +2950,7 @@ payload:
   - DOMAIN-SUFFIX,xunfei.cn
   - DOMAIN-SUFFIX,ets100.com
   - DOMAIN-SUFFIX,zhixue.com
+  - DOMAIN-SUFFIX,changyan.com
   - DOMAIN-SUFFIX,cmcm.com
   - DOMAIN-SUFFIX,cmcmcdn.com
   - DOMAIN-SUFFIX,liebao.cn
