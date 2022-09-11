@@ -1,2 +1,4 @@
 payload:
+  - DOMAIN-KEYWORD,exit
   - DOMAIN-KEYWORD,onion
+  - DOMAIN-KEYWORD,tor
