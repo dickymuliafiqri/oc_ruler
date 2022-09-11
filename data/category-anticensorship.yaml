@@ -17,6 +17,7 @@ payload:
   - DOMAIN-SUFFIX,guardianproject.info
   - DOMAIN-SUFFIX,ipfs.io
   - DOMAIN-SUFFIX,jitsi.org
+  - DOMAIN-SUFFIX,lokinet.org
   - DOMAIN-SUFFIX,ntc.party
   - DOMAIN-SUFFIX,onionshare.org
   - DOMAIN-SUFFIX,ooni.org
