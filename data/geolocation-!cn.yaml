@@ -2914,6 +2914,7 @@ payload:
   - DOMAIN-SUFFIX,cloudflareresolve.com
   - DOMAIN-SUFFIX,cloudflaressl.com
   - DOMAIN-SUFFIX,cloudflarestatus.com
+  - DOMAIN-SUFFIX,cloudflarestorage.com
   - DOMAIN-SUFFIX,cloudflarestream.com
   - DOMAIN-SUFFIX,cloudflaretest.com
   - DOMAIN-SUFFIX,cloudflarewarp.com
@@ -12269,6 +12270,7 @@ payload:
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,myoctocat.com
   - DOMAIN-SUFFIX,opensource.guide
+  - DOMAIN-SUFFIX,repo.new
   - DOMAIN-SUFFIX,thegithubshop.com
   - DOMAIN,github-cloud.s3.amazonaws.com
   - DOMAIN-SUFFIX,gitlab.com
@@ -17104,6 +17106,7 @@ payload:
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,myoctocat.com
   - DOMAIN-SUFFIX,opensource.guide
+  - DOMAIN-SUFFIX,repo.new
   - DOMAIN-SUFFIX,thegithubshop.com
   - DOMAIN,github-cloud.s3.amazonaws.com
   - DOMAIN-SUFFIX,adaptivecards.io

@@ -13,6 +13,7 @@ payload:
   - DOMAIN-SUFFIX,cloudflareresolve.com
   - DOMAIN-SUFFIX,cloudflaressl.com
   - DOMAIN-SUFFIX,cloudflarestatus.com
+  - DOMAIN-SUFFIX,cloudflarestorage.com
   - DOMAIN-SUFFIX,cloudflarestream.com
   - DOMAIN-SUFFIX,cloudflaretest.com
   - DOMAIN-SUFFIX,cloudflarewarp.com
