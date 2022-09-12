@@ -3040,6 +3040,7 @@ payload:
   - DOMAIN-SUFFIX,usertrust.com
   - DOMAIN-SUFFIX,ssl.com
   - DOMAIN-SUFFIX,sslcom.cn
+  - DOMAIN-SUFFIX,starfieldtech.com
   - DOMAIN-SUFFIX,digital-id.ch
   - DOMAIN-SUFFIX,digitalid.ch
   - DOMAIN-SUFFIX,managed-pki.ch
