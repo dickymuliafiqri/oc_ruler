@@ -57,12 +57,14 @@ payload:
   - DOMAIN-SUFFIX,idcgcloudcs.com
   - DOMAIN-SUFFIX,iemiq.com
   - DOMAIN-SUFFIX,igtm.pub
+  - DOMAIN-SUFFIX,intltencentcos.com
   - DOMAIN-SUFFIX,isd.com
   - DOMAIN-SUFFIX,ispqcloud.com
   - DOMAIN-SUFFIX,itopsdk.com
   - DOMAIN-SUFFIX,jrzk.net.cn
   - DOMAIN-SUFFIX,my-qcloud.com
   - DOMAIN-SUFFIX,myelasticsearch.com
+  - DOMAIN-SUFFIX,myqcloud.com
   - DOMAIN-SUFFIX,onexmail.com
   - DOMAIN-SUFFIX,openapp.run
   - DOMAIN-SUFFIX,ovscdns.com
@@ -170,7 +172,9 @@ payload:
   - DOMAIN-SUFFIX,tencentcloudns.com
   - DOMAIN-SUFFIX,tencentcloudsec.com
   - DOMAIN-SUFFIX,tencentcloudses.com
+  - DOMAIN-SUFFIX,tencentcos.cn
   - DOMAIN-SUFFIX,tencentcos.com
+  - DOMAIN-SUFFIX,tencentcos.com.cn
   - DOMAIN-SUFFIX,tencentcs.com
   - DOMAIN-SUFFIX,tencentdayu.com
   - DOMAIN-SUFFIX,tencentdb.com
@@ -218,16 +222,6 @@ payload:
   - DOMAIN-SUFFIX,yufuid.com.cn
   - DOMAIN-SUFFIX,yufuid.net
   - DOMAIN-SUFFIX,yunjitele.com
-  - DOMAIN-SUFFIX,ap-beijing-1.myqcloud.com
-  - DOMAIN-SUFFIX,ap-beijing.myqcloud.com
-  - DOMAIN-SUFFIX,ap-nanjing.myqcloud.com
-  - DOMAIN-SUFFIX,ap-shanghai.myqcloud.com
-  - DOMAIN-SUFFIX,ap-guangzhou.myqcloud.com
-  - DOMAIN-SUFFIX,ap-chengdu.myqcloud.com
-  - DOMAIN-SUFFIX,ap-chongqing.myqcloud.com
-  - DOMAIN-SUFFIX,ap-shenzhen-fsi.myqcloud.com
-  - DOMAIN-SUFFIX,ap-shanghai-fsi.myqcloud.com
-  - DOMAIN-SUFFIX,ap-beijing-fsi.myqcloud.com
   - DOMAIN-SUFFIX,ap-hongkong.myqcloud.com
   - DOMAIN-SUFFIX,ap-singapore.myqcloud.com
   - DOMAIN-SUFFIX,ap-mumbai.myqcloud.com
