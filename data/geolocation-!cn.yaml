@@ -3241,6 +3241,7 @@ payload:
   - DOMAIN-SUFFIX,devcon.org
   - DOMAIN-SUFFIX,ethereum.foundation
   - DOMAIN-SUFFIX,ethereum.org
+  - DOMAIN-SUFFIX,etherscan.io
   - DOMAIN-SUFFIX,hbabit.com
   - DOMAIN-SUFFIX,hbfile.net
   - DOMAIN-SUFFIX,huobi.com
@@ -3266,10 +3267,20 @@ payload:
   - DOMAIN-SUFFIX,btcbox.co.jp
   - DOMAIN-SUFFIX,cex.io
   - DOMAIN-SUFFIX,coinbase.com
+  - DOMAIN-SUFFIX,coinglass.com
+  - DOMAIN-SUFFIX,cryptocompare.com
+  - DOMAIN-SUFFIX,curve.fi
+  - DOMAIN-SUFFIX,debank.com
   - DOMAIN-SUFFIX,dogecoin.com
+  - DOMAIN-SUFFIX,infura.io
+  - DOMAIN-SUFFIX,mytokenapi.com
   - DOMAIN-SUFFIX,kraken.com
   - DOMAIN-SUFFIX,okex.com
+  - DOMAIN-SUFFIX,opensea.io
   - DOMAIN-SUFFIX,paxful.com
+  - DOMAIN-SUFFIX,truefi.io
+  - DOMAIN-SUFFIX,uniswap.org
+  - DOMAIN-SUFFIX,zapper.fi
   - DOMAIN-SUFFIX,adidas.at
   - DOMAIN-SUFFIX,adidas.be
   - DOMAIN-SUFFIX,adidas.ch
