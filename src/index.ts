@@ -74,6 +74,8 @@ class OC_RULER {
     if (filename[1].match(/\s(@|#)/)) {
       filename[1] = filename[1].split(" ").shift();
     }
+
+    filename[1] = filename[1].replace(/\s$/, "");
     const rules: Array<string> = [];
 
     switch (filename[0]) {
