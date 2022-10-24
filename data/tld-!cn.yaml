@@ -398,23 +398,55 @@ payload:
   - DOMAIN-KEYWORD,woodside
   - DOMAIN-KEYWORD,zara
   - DOMAIN-KEYWORD,zippo
+  - DOMAIN-KEYWORD,africamagic
   - DOMAIN-KEYWORD,agakhan
   - DOMAIN-KEYWORD,akdn
   - DOMAIN-KEYWORD,ansons
+  - DOMAIN-KEYWORD,baby
+  - DOMAIN-KEYWORD,bar
   - DOMAIN-KEYWORD,bharti
+  - DOMAIN-KEYWORD,bingo
+  - DOMAIN-KEYWORD,casino
+  - DOMAIN-KEYWORD,chat
+  - DOMAIN-KEYWORD,dating
+  - DOMAIN-KEYWORD,domains
   - DOMAIN-KEYWORD,extraspace
+  - DOMAIN-KEYWORD,gay
+  - DOMAIN-KEYWORD,gcc
   - DOMAIN-KEYWORD,genting
   - DOMAIN-KEYWORD,glean
+  - DOMAIN-KEYWORD,hot
   - DOMAIN-KEYWORD,ikano
   - DOMAIN-KEYWORD,imamat
   - DOMAIN-KEYWORD,ladbrokes
+  - DOMAIN-KEYWORD,lgbt
   - DOMAIN-KEYWORD,livestrong
   - DOMAIN-KEYWORD,maif
   - DOMAIN-KEYWORD,mattel
+  - DOMAIN-KEYWORD,persiangulf
+  - DOMAIN-KEYWORD,poker
+  - DOMAIN-KEYWORD,sas
   - DOMAIN-KEYWORD,shell
+  - DOMAIN-KEYWORD,shia
+  - DOMAIN-KEYWORD,style
+  - DOMAIN-KEYWORD,sucks
+  - DOMAIN-KEYWORD,tatar
+  - DOMAIN-KEYWORD,tattoo
+  - DOMAIN-KEYWORD,tennic
   - DOMAIN-KEYWORD,transformers
   - DOMAIN-KEYWORD,vana
+  - DOMAIN-KEYWORD,virgin
+  - DOMAIN-KEYWORD,vodka
+  - DOMAIN-KEYWORD,wine
   - DOMAIN-KEYWORD,wme
+  - DOMAIN-KEYWORD,wtf
+  - DOMAIN-KEYWORD,bible
+  - DOMAIN-KEYWORD,catholic
+  - DOMAIN-KEYWORD,halal
+  - DOMAIN-KEYWORD,islam
+  - DOMAIN-KEYWORD,ismaili
+  - DOMAIN-KEYWORD,ummah
+  - DOMAIN-KEYWORD,xn--mgbi4ecexp
   - DOMAIN-KEYWORD,astrium
   - DOMAIN-KEYWORD,cern
   - DOMAIN-KEYWORD,emerck
@@ -431,6 +463,11 @@ payload:
   - DOMAIN-KEYWORD,teva
   - DOMAIN-KEYWORD,toray
   - DOMAIN-KEYWORD,weather
+  - DOMAIN-KEYWORD,adult
+  - DOMAIN-KEYWORD,porn
+  - DOMAIN-KEYWORD,sex
+  - DOMAIN-KEYWORD,sexy
+  - DOMAIN-KEYWORD,xxx
   - DOMAIN-KEYWORD,auspost
   - DOMAIN-KEYWORD,deutschepost
   - DOMAIN-KEYWORD,dhl

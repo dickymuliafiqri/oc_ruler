@@ -14,6 +14,7 @@ payload:
   - DOMAIN-SUFFIX,verizonwireless.com
   - DOMAIN-SUFFIX,vzw.com
   - DOMAIN-SUFFIX,xo.com
+  - DOMAIN-SUFFIX,omniroot.com
   - DOMAIN-KEYWORD,flickr
   - DOMAIN-SUFFIX,flic.kr
   - DOMAIN-SUFFIX,flickr.com

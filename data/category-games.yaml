@@ -620,6 +620,7 @@ payload:
   - DOMAIN-SUFFIX,minecraft.net
   - DOMAIN-SUFFIX,minecraftshop.com
   - DOMAIN-SUFFIX,mojang.com
+  - DOMAIN-KEYWORD,xbox
   - DOMAIN-SUFFIX,forzamotorsport.net
   - DOMAIN-SUFFIX,forzaracingchampionship.com
   - DOMAIN-SUFFIX,forzarc.com
