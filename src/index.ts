@@ -11,6 +11,7 @@ const oc_ruler_dir = `${process.cwd()}/data`;
 
 class OC_RULER {
   private domain_files = readdirSync("./v2fly-geosite/data");
+  private raw_repo_host = "https://raw.githubusercontent.com/dickymuliafiqri/oc_ruler/master/data/";
 
   write() {
     console.log(`Generating rule...`);
@@ -100,7 +101,20 @@ class OC_RULER {
 
     return rules;
   }
+
+  create_index() {
+    const rules_files = readdirSync(oc_ruler_dir);
+
+    let data: any = {};
+
+    rules_files.forEach((file) => {
+      data[file.replace(".yaml", "")] = `${this.raw_repo_host}${file}`;
+    });
+
+    writeFileSync(`${process.cwd()}/index.json`, JSON.stringify(data, null, 4));
+  }
 }
 
 const ruler = new OC_RULER();
 ruler.write();
+ruler.create_index();
