@@ -1149,6 +1149,7 @@ payload:
   - DOMAIN-SUFFIX,thetype.cloud
   - DOMAIN-SUFFIX,thetype.com
   - DOMAIN-SUFFIX,typeisbeautiful.com
+  - DOMAIN-SUFFIX,reut.rs
   - DOMAIN-SUFFIX,reuters.com
   - DOMAIN-SUFFIX,reuters.tv
   - DOMAIN-SUFFIX,reutersmedia.net

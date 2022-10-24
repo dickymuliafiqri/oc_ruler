@@ -46,3 +46,4 @@ payload:
   - DOMAIN-SUFFIX,registerhulu.com
   - DOMAIN-SUFFIX,thehulubraintrust.com
   - DOMAIN-SUFFIX,wwwhuluplus.com
+  - DOMAIN,hulu.playback.edge.bamgrid.com

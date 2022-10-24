@@ -1,5 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,digicert-cn.com
+  - DOMAIN-SUFFIX,digicert-validation.com
   - DOMAIN-SUFFIX,digicert.cn
   - DOMAIN-SUFFIX,digicert.com
   - DOMAIN-SUFFIX,digitalcertvalidation.com
@@ -9,3 +10,5 @@ payload:
   - DOMAIN-SUFFIX,thawte.com
   - DOMAIN-SUFFIX,thawte.de
   - DOMAIN-SUFFIX,thawte.fr
+  - DOMAIN-SUFFIX,quovadisglobal.com
+  - DOMAIN-SUFFIX,public-trust.com
