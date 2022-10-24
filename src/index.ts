@@ -18,7 +18,13 @@ class OC_RULER {
 
     this.domain_files.forEach((domains) => {
       const rules = ["payload:"];
-      const domain_list = readFileSync(`${v2fly_dir}/data/${domains}`).toString().split(/\n/g);
+      const domain_list: string[] = [];
+
+      try {
+        domain_list.push(...readFileSync(`${v2fly_dir}/data/${domains}`).toString().split(/\n/g));
+      } catch (e: any) {
+        if (e.message.match("no such file")) return;
+      }
 
       for (const i in domain_list) {
         if (domain_list[i].match(/\:/)) {
