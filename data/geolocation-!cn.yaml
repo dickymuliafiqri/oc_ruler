@@ -8282,6 +8282,8 @@ payload:
   - DOMAIN-SUFFIX,zeeentertainment.com
   - DOMAIN-SUFFIX,zeenews.com
   - DOMAIN,zeenews-fonts.s3.amazonaws.com
+  - DOMAIN-SUFFIX,cnbeta.com
+  - DOMAIN-SUFFIX,cnbetacdn.com
   - DOMAIN-SUFFIX,881903.com
   - DOMAIN-SUFFIX,am730.com.hk
   - DOMAIN-SUFFIX,americasvoice.news
