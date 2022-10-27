@@ -14237,6 +14237,7 @@ payload:
   - DOMAIN-SUFFIX,awssecworkshops.com
   - DOMAIN-SUFFIX,awsstatic.com
   - DOMAIN-SUFFIX,awsthinkbox.com
+  - DOMAIN-SUFFIX,awstrack.me
   - DOMAIN-SUFFIX,cdkworkshop.com
   - DOMAIN-SUFFIX,cloudfront.net
   - DOMAIN-SUFFIX,containersonaws.com
