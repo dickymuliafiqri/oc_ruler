@@ -1502,6 +1502,9 @@ payload:
   - DOMAIN-SUFFIX,hongen.com
   - DOMAIN-SUFFIX,wanfangdata.com.cn
   - DOMAIN-SUFFIX,wf.pub
+  - DOMAIN-SUFFIX,bcy.net
+  - DOMAIN-SUFFIX,bcyimg.com
+  - DOMAIN-SUFFIX,lf-rc1.yhgfb-cn-static.com
   - DOMAIN-SUFFIX,douban.com
   - DOMAIN-SUFFIX,douban.fm
   - DOMAIN-SUFFIX,doubanio.com
@@ -1614,7 +1617,6 @@ payload:
   - DOMAIN-SUFFIX,xiaohongshu.com
   - DOMAIN-SUFFIX,zhihu.com
   - DOMAIN-SUFFIX,zhimg.com
-  - DOMAIN-SUFFIX,bcy.net
   - DOMAIN-SUFFIX,tieba.baidu.com
   - DOMAIN-SUFFIX,tieba.com
   - DOMAIN-SUFFIX,aixcoder.com
@@ -2221,6 +2223,9 @@ payload:
   - DOMAIN-SUFFIX,tiebaimg.com
   - DOMAIN-SUFFIX,xianfae.com
   - DOMAIN-SUFFIX,xiaodutv.com
+  - DOMAIN-SUFFIX,bcy.net
+  - DOMAIN-SUFFIX,bcyimg.com
+  - DOMAIN-SUFFIX,lf-rc1.yhgfb-cn-static.com
   - DOMAIN-SUFFIX,juejin.cn
   - DOMAIN-SUFFIX,juejin.im
   - DOMAIN-SUFFIX,xitu.io
@@ -2245,9 +2250,8 @@ payload:
   - DOMAIN,p16-tiktokcdn-com.akamaized.net
   - DOMAIN-SUFFIX,amemv.com
   - DOMAIN-SUFFIX,bytecdn.cn
-  - DOMAIN-SUFFIX,bytetcc.com
-  - DOMAIN-SUFFIX,bytetos.com
   - DOMAIN-SUFFIX,byted-static.com
+  - DOMAIN-SUFFIX,byted.org
   - DOMAIN-SUFFIX,bytedance.com
   - DOMAIN-SUFFIX,bytedance.net
   - DOMAIN-SUFFIX,bytedanceapi.com
@@ -2257,6 +2261,8 @@ payload:
   - DOMAIN-SUFFIX,byteimg.com
   - DOMAIN-SUFFIX,byteoversea.com
   - DOMAIN-SUFFIX,bytescm.com
+  - DOMAIN-SUFFIX,bytetcc.com
+  - DOMAIN-SUFFIX,bytetos.com
   - DOMAIN-SUFFIX,bytexservice.com
   - DOMAIN-SUFFIX,feelgood.cn
   - DOMAIN-SUFFIX,huaxiong.com
@@ -2266,9 +2272,9 @@ payload:
   - DOMAIN-SUFFIX,pstatp.com
   - DOMAIN-SUFFIX,snssdk.com
   - DOMAIN-SUFFIX,wtturl.cn
+  - DOMAIN-SUFFIX,zijieapi.com
   - DOMAIN-SUFFIX,zijiecdn.com
   - DOMAIN-SUFFIX,zijiecdn.net
-  - DOMAIN-SUFFIX,zijieapi.com
   - DOMAIN-SUFFIX,zjbyte.cn
   - DOMAIN-SUFFIX,zjcdn.com
   - DOMAIN-SUFFIX,toutiao.com

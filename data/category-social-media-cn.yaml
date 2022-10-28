@@ -1,7 +1,9 @@
 payload:
-  - DOMAIN-SUFFIX,bcy.net
   - DOMAIN-SUFFIX,tieba.baidu.com
   - DOMAIN-SUFFIX,tieba.com
+  - DOMAIN-SUFFIX,bcy.net
+  - DOMAIN-SUFFIX,bcyimg.com
+  - DOMAIN-SUFFIX,lf-rc1.yhgfb-cn-static.com
   - DOMAIN-SUFFIX,douban.com
   - DOMAIN-SUFFIX,douban.fm
   - DOMAIN-SUFFIX,doubanio.com
