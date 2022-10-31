@@ -8,6 +8,7 @@ payload:
   - DOMAIN-SUFFIX,tweetdeck.com
   - DOMAIN-SUFFIX,twimg.com
   - DOMAIN-SUFFIX,twitpic.com
+  - DOMAIN-SUFFIX,twitter.biz
   - DOMAIN-SUFFIX,twitter.com
   - DOMAIN-SUFFIX,twitter.jp
   - DOMAIN-SUFFIX,twittercommunity.com
@@ -17,4 +18,6 @@ payload:
   - DOMAIN-SUFFIX,twitterstat.us
   - DOMAIN-SUFFIX,twtrdns.net
   - DOMAIN-SUFFIX,twttr.com
+  - DOMAIN-SUFFIX,twttr.net
+  - DOMAIN-SUFFIX,twvid.com
   - DOMAIN-SUFFIX,vine.co
