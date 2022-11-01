@@ -1,10 +1,10 @@
 payload:
+  - DOMAIN-SUFFIX,777tv.net
   - DOMAIN-SUFFIX,blubrry.com
   - DOMAIN-SUFFIX,castro.fm
   - DOMAIN-SUFFIX,egta.com
   - DOMAIN-SUFFIX,fireside.fm
   - DOMAIN-SUFFIX,gbnews.uk
-  - DOMAIN-SUFFIX,gimy.cc
   - DOMAIN-SUFFIX,internationalsaimoe.com
   - DOMAIN-SUFFIX,joox.com
   - DOMAIN-SUFFIX,linetv.tw
@@ -891,6 +891,10 @@ payload:
   - DOMAIN-SUFFIX,dlsitestudio.com
   - DOMAIN-SUFFIX,nijiyome.jp
   - DOMAIN-SUFFIX,triokini.com
+  - DOMAIN-SUFFIX,gimy.cc
+  - DOMAIN-SUFFIX,gimy.co
+  - DOMAIN-SUFFIX,gimy.to
+  - DOMAIN-SUFFIX,gimy.tv
   - DOMAIN-SUFFIX,goodreads.com
   - DOMAIN-SUFFIX,gr-assets.com
   - DOMAIN,apl-hamivideo.cdn.hinet.net
