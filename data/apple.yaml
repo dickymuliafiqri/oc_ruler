@@ -727,6 +727,8 @@ payload:
   - DOMAIN,crl.apple.com
   - DOMAIN,ocsp-lb.apple.com.akadns.net
   - DOMAIN,ocsp.apple.com
+  - DOMAIN,ocsp2-lb.apple.com.akadns.net
+  - DOMAIN,ocsp2.apple.com
   - DOMAIN-SUFFIX,100beatscheap.com
   - DOMAIN-SUFFIX,1monsterbeatsbydreus.com
   - DOMAIN-SUFFIX,2013beatsbydrdreonline.com
