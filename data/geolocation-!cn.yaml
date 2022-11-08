@@ -14107,6 +14107,7 @@ payload:
   - DOMAIN-SUFFIX,git-scm.com
   - DOMAIN-SUFFIX,gnu.org
   - DOMAIN-SUFFIX,greenend.org.uk
+  - DOMAIN-SUFFIX,hex.pm
   - DOMAIN-SUFFIX,ius.io
   - DOMAIN-SUFFIX,jenkins.io
   - DOMAIN-SUFFIX,js.org
