@@ -3074,6 +3074,8 @@ payload:
   - DOMAIN-SUFFIX,aliexpress.com
   - DOMAIN-SUFFIX,aliexpress.ru
   - DOMAIN-SUFFIX,alipayplus.com
+  - DOMAIN-SUFFIX,alipay.hk
+  - DOMAIN-SUFFIX,alipaymo.com
   - DOMAIN-SUFFIX,alicloudccp.com
   - DOMAIN-SUFFIX,aliyundrive.com
   - DOMAIN-SUFFIX,cainiao.com
