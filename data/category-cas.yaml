@@ -45,6 +45,7 @@ payload:
   - DOMAIN-SUFFIX,comodoca4.com
   - DOMAIN-SUFFIX,cybertrust.co.jp
   - DOMAIN-SUFFIX,cybertrust.ne.jp
+  - DOMAIN-SUFFIX,dcocsp.cn
   - DOMAIN-SUFFIX,digicert-cn.com
   - DOMAIN-SUFFIX,digicert-validation.com
   - DOMAIN-SUFFIX,digicert.cn
