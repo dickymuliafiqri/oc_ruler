@@ -3357,8 +3357,12 @@ payload:
   - DOMAIN-SUFFIX,bytedanceapi.com
   - DOMAIN-SUFFIX,bytedns.net
   - DOMAIN-SUFFIX,bytednsdoc.com
+  - DOMAIN-SUFFIX,bytedns1.com
+  - DOMAIN-SUFFIX,bytefcdn.com
   - DOMAIN-SUFFIX,bytegoofy.com
+  - DOMAIN-SUFFIX,bytegslb.com
   - DOMAIN-SUFFIX,byteimg.com
+  - DOMAIN-SUFFIX,bytelb.net
   - DOMAIN-SUFFIX,byteoversea.com
   - DOMAIN-SUFFIX,bytescm.com
   - DOMAIN-SUFFIX,bytetcc.com
@@ -3388,7 +3392,10 @@ payload:
   - DOMAIN-SUFFIX,toutiaoimg.net
   - DOMAIN-SUFFIX,toutiaopage.com
   - DOMAIN-SUFFIX,toutiaostatic.com
+  - DOMAIN-SUFFIX,toutiaovod.com
   - DOMAIN-SUFFIX,douyin.com
+  - DOMAIN-SUFFIX,douyincdn.com
+  - DOMAIN-SUFFIX,douyinliving.com
   - DOMAIN-SUFFIX,douyinpic.com
   - DOMAIN-SUFFIX,douyinstatic.com
   - DOMAIN-SUFFIX,douyinvod.com
