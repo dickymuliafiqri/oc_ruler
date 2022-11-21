@@ -1690,6 +1690,8 @@ payload:
   - DOMAIN-SUFFIX,sxl.cn
   - DOMAIN-SUFFIX,sxlcdn.cn
   - DOMAIN-SUFFIX,tipdim.org
+  - DOMAIN-SUFFIX,openkylin.top
+  - DOMAIN-SUFFIX,ubuntukylin.com
   - DOMAIN-SUFFIX,xueyuanjun.com
   - DOMAIN-SUFFIX,51nod.com
   - DOMAIN-SUFFIX,acwing.com
@@ -4230,7 +4232,6 @@ payload:
   - DOMAIN-SUFFIX,tuwanjun.com
   - DOMAIN-SUFFIX,txrjy.com
   - DOMAIN-SUFFIX,u.tools
-  - DOMAIN-SUFFIX,ubuntukylin.com
   - DOMAIN-SUFFIX,ucbug.com
   - DOMAIN-SUFFIX,uggame.com
   - DOMAIN-SUFFIX,uoko.com
