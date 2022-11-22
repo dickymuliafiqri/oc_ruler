@@ -14109,6 +14109,7 @@ payload:
   - DOMAIN-SUFFIX,chocolatey.org
   - DOMAIN-SUFFIX,clojure.org
   - DOMAIN-SUFFIX,cnpmjs.org
+  - DOMAIN-SUFFIX,codeberg.org
   - DOMAIN-SUFFIX,cygwin.com
   - DOMAIN-SUFFIX,cython.org
   - DOMAIN-SUFFIX,deno.land
