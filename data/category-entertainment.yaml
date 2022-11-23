@@ -21,6 +21,7 @@ payload:
   - DOMAIN-SUFFIX,yande.re
   - DOMAIN-SUFFIX,abema.io
   - DOMAIN-SUFFIX,abema.tv
+  - DOMAIN-SUFFIX,abema-tv.com
   - DOMAIN-SUFFIX,adx.promo
   - DOMAIN-SUFFIX,ameba.jp
   - DOMAIN-SUFFIX,amebame.com
@@ -38,6 +39,7 @@ payload:
   - DOMAIN,ds-vod-abematv.akamaized.net
   - DOMAIN,linear-abematv.akamaized.net
   - DOMAIN,vod-abematv.akamaized.net
+  - DOMAIN,api.growthpush.com
   - DOMAIN-SUFFIX,9anime.cz
   - DOMAIN-SUFFIX,9anime.id
   - DOMAIN-SUFFIX,9anime.to
