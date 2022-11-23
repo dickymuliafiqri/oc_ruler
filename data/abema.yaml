@@ -19,4 +19,4 @@ payload:
   - DOMAIN,ds-vod-abematv.akamaized.net
   - DOMAIN,linear-abematv.akamaized.net
   - DOMAIN,vod-abematv.akamaized.net
-  - DOMAIN,api.growthpush.com
+  - DOMAIN-SUFFIX,api.growthpush.com
