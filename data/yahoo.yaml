@@ -151,6 +151,7 @@ payload:
   - DOMAIN-SUFFIX,yahoo.ws
   - DOMAIN-SUFFIX,maktoob.com
   - DOMAIN-SUFFIX,myguide.hk
+  - DOMAIN-SUFFIX,techcrunch.com
   - DOMAIN-SUFFIX,yahoo-news.com.hk
   - DOMAIN-SUFFIX,yahooapis.com
   - DOMAIN-SUFFIX,yahoodns.net
