@@ -14118,6 +14118,7 @@ payload:
   - DOMAIN-SUFFIX,vim.org
   - DOMAIN-SUFFIX,xda-developers.com
   - DOMAIN-SUFFIX,xda-cdn.com
+  - DOMAIN-SUFFIX,adventofcode.com
   - DOMAIN-SUFFIX,alpinelinux.org
   - DOMAIN-SUFFIX,apache.org
   - DOMAIN-SUFFIX,atom.io
