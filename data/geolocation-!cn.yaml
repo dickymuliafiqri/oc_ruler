@@ -14192,6 +14192,8 @@ payload:
   - DOMAIN-SUFFIX,unpkg.com
   - DOMAIN-SUFFIX,videojs.com
   - DOMAIN-SUFFIX,videolan.org
+  - DOMAIN-SUFFIX,wapm.io
+  - DOMAIN-SUFFIX,wasmer.io
   - DOMAIN-SUFFIX,wireshark.org
   - DOMAIN-SUFFIX,x.org
   - DOMAIN-SUFFIX,xposed.info
