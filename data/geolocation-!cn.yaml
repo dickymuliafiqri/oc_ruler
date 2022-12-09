@@ -3459,6 +3459,10 @@ payload:
   - DOMAIN-SUFFIX,modular.im
   - DOMAIN-SUFFIX,riot.im
   - DOMAIN-SUFFIX,vector.im
+  - DOMAIN-SUFFIX,fbmessenger.com
+  - DOMAIN-SUFFIX,m.me
+  - DOMAIN-SUFFIX,messenger.com
+  - DOMAIN-SUFFIX,nbabot.net
   - DOMAIN-SUFFIX,signal.art
   - DOMAIN-SUFFIX,signal.org
   - DOMAIN-SUFFIX,signalusers.org
@@ -3490,6 +3494,17 @@ payload:
   - DOMAIN-SUFFIX,tg.dev
   - DOMAIN-SUFFIX,tx.me
   - DOMAIN-SUFFIX,usercontent.dev
+  - DOMAIN-SUFFIX,wa.me
+  - DOMAIN-SUFFIX,whatsapp-plus.info
+  - DOMAIN-SUFFIX,whatsapp-plus.me
+  - DOMAIN-SUFFIX,whatsapp-plus.net
+  - DOMAIN-SUFFIX,whatsapp.cc
+  - DOMAIN-SUFFIX,whatsapp.com
+  - DOMAIN-SUFFIX,whatsapp.info
+  - DOMAIN-SUFFIX,whatsapp.net
+  - DOMAIN-SUFFIX,whatsapp.org
+  - DOMAIN-SUFFIX,whatsapp.tv
+  - DOMAIN-SUFFIX,whatsappbrand.com
   - DOMAIN-SUFFIX,asproex.com
   - DOMAIN-SUFFIX,asproexapi.com
   - DOMAIN-SUFFIX,binance.cc
