@@ -13389,6 +13389,12 @@ payload:
   - DOMAIN-SUFFIX,shenyun.com
   - DOMAIN-SUFFIX,shenyunperformingarts.org
   - DOMAIN-SUFFIX,wujieliulan.com
+  - DOMAIN-SUFFIX,apkcombo.com
+  - DOMAIN-SUFFIX,apkmirror.com
+  - DOMAIN-SUFFIX,apkpure.com
+  - DOMAIN-SUFFIX,cdnpure.com
+  - DOMAIN-SUFFIX,pureapk.com
+  - DOMAIN-SUFFIX,winudf.com
   - DOMAIN-SUFFIX,firefox.com
   - DOMAIN-SUFFIX,firefoxusercontent.com
   - DOMAIN-KEYWORD,chrome
@@ -13399,6 +13405,7 @@ payload:
   - DOMAIN-SUFFIX,opera.com
   - DOMAIN-SUFFIX,vivaldi.com
   - DOMAIN-SUFFIX,waterfox.net
+  - DOMAIN-SUFFIX,decrypt.day
   - DOMAIN-SUFFIX,accuweather.com
   - DOMAIN-SUFFIX,getadblock.com
   - DOMAIN-SUFFIX,adblockplus.org
@@ -13408,11 +13415,6 @@ payload:
   - DOMAIN-SUFFIX,addtoany.com
   - DOMAIN-SUFFIX,adguard-vpn.com
   - DOMAIN-SUFFIX,adguard.com
-  - DOMAIN-SUFFIX,apkmirror.com
-  - DOMAIN-SUFFIX,apkpure.com
-  - DOMAIN-SUFFIX,cdnpure.com
-  - DOMAIN-SUFFIX,pureapk.com
-  - DOMAIN-SUFFIX,winudf.com
   - DOMAIN-SUFFIX,aptoide.com
   - DOMAIN-SUFFIX,arphic.com
   - DOMAIN-SUFFIX,arphic.com.cn
