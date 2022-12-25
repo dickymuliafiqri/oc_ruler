@@ -7,6 +7,8 @@ payload:
   - DOMAIN-SUFFIX,douban.com
   - DOMAIN-SUFFIX,douban.fm
   - DOMAIN-SUFFIX,doubanio.com
+  - DOMAIN-SUFFIX,gracg.com
+  - DOMAIN-SUFFIX,procg.cn
   - DOMAIN-SUFFIX,97973.com
   - DOMAIN-SUFFIX,picself.cn
   - DOMAIN-SUFFIX,sina.cn
