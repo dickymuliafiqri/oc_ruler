@@ -1098,6 +1098,8 @@ payload:
   - DOMAIN-SUFFIX,worldcoinpay.com
   - DOMAIN-SUFFIX,yourmonsterbeats.com
   - DOMAIN,beatselectronicsllc.tt.omtrdc.net
+  - DOMAIN-SUFFIX,mask-h2.icloud.com
+  - DOMAIN-SUFFIX,mask.icloud.com
   - DOMAIN-SUFFIX,apple-icloud.cn
   - DOMAIN-SUFFIX,appleicloud.cn
   - DOMAIN-SUFFIX,applemx-icloud.com

@@ -48,4 +48,6 @@ payload:
   - DOMAIN-SUFFIX,myicloud.net
   - DOMAIN-SUFFIX,mylcloud.net
   - DOMAIN-SUFFIX,wwwicloud.com
+  - DOMAIN-SUFFIX,mask-h2.icloud.com
+  - DOMAIN-SUFFIX,mask.icloud.com
   - DOMAIN,www-cdn.icloud.com.akadns.net

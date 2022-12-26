@@ -488,6 +488,7 @@
     "ibm": "https://raw.githubusercontent.com/dickymuliafiqri/oc_ruler/master/data/ibm.yaml",
     "icbc": "https://raw.githubusercontent.com/dickymuliafiqri/oc_ruler/master/data/icbc.yaml",
     "icloud": "https://raw.githubusercontent.com/dickymuliafiqri/oc_ruler/master/data/icloud.yaml",
+    "icloudPrivateRelay": "https://raw.githubusercontent.com/dickymuliafiqri/oc_ruler/master/data/icloudPrivateRelay.yaml",
     "identrust": "https://raw.githubusercontent.com/dickymuliafiqri/oc_ruler/master/data/identrust.yaml",
     "ieee": "https://raw.githubusercontent.com/dickymuliafiqri/oc_ruler/master/data/ieee.yaml",
     "ifanr": "https://raw.githubusercontent.com/dickymuliafiqri/oc_ruler/master/data/ifanr.yaml",
