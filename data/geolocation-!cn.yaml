@@ -2939,6 +2939,7 @@ payload:
   - DOMAIN-SUFFIX,doclercdn.com
   - DOMAIN-SUFFIX,cdn77.com
   - DOMAIN-SUFFIX,cdn77.org
+  - DOMAIN-SUFFIX,argotunnel.com
   - DOMAIN-SUFFIX,cf-ipfs.com
   - DOMAIN-SUFFIX,cloudflare-dns.com
   - DOMAIN-SUFFIX,cloudflare-ipfs.com
@@ -2946,6 +2947,7 @@ payload:
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,cloudflare.net
   - DOMAIN-SUFFIX,cloudflare.tv
+  - DOMAIN-SUFFIX,cloudflareaccess.com
   - DOMAIN-SUFFIX,cloudflareapps.com
   - DOMAIN-SUFFIX,cloudflarebolt.com
   - DOMAIN-SUFFIX,cloudflareclient.com
@@ -6249,6 +6251,7 @@ payload:
   - DOMAIN-SUFFIX,ggpht.cn
   - DOMAIN-SUFFIX,ggpht.com
   - DOMAIN-SUFFIX,googlevideo.com
+  - DOMAIN-SUFFIX,wide-youtube.l.google.com
   - DOMAIN-SUFFIX,withyoutube.com
   - DOMAIN-SUFFIX,youtu.be
   - DOMAIN-SUFFIX,youtube-nocookie.com
@@ -17011,6 +17014,7 @@ payload:
   - DOMAIN-SUFFIX,ggpht.cn
   - DOMAIN-SUFFIX,ggpht.com
   - DOMAIN-SUFFIX,googlevideo.com
+  - DOMAIN-SUFFIX,wide-youtube.l.google.com
   - DOMAIN-SUFFIX,withyoutube.com
   - DOMAIN-SUFFIX,youtu.be
   - DOMAIN-SUFFIX,youtube-nocookie.com
