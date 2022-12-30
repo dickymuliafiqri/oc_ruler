@@ -1,4 +1,6 @@
 payload:
+  - DOMAIN-SUFFIX,cloudlatex.io
+  - DOMAIN-SUFFIX,overleaf.com
   - DOMAIN-SUFFIX,auroraoss.com
   - DOMAIN-SUFFIX,touhouwiki.net
   - DOMAIN-KEYWORD,gov
@@ -4772,6 +4774,7 @@ payload:
   - DOMAIN-SUFFIX,zlibcdn2.com
   - DOMAIN-SUFFIX,aacrjournals.org
   - DOMAIN-SUFFIX,academic.eb.com
+  - DOMAIN-SUFFIX,acaric.co.jp
   - DOMAIN-SUFFIX,aclweb.org
   - DOMAIN-SUFFIX,acm.org
   - DOMAIN-SUFFIX,acs.org
@@ -4921,7 +4924,6 @@ payload:
   - DOMAIN-SUFFIX,worldscientific.com
   - DOMAIN-SUFFIX,yale.edu
   - DOMAIN-SUFFIX,zenodo.org
-  - DOMAIN-SUFFIX,overleaf.com 
   - DOMAIN,angle.com.tw
   - DOMAIN,beck-online.beck.de
   - DOMAIN,dl.begellhouse.com

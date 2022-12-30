@@ -1,6 +1,7 @@
 payload:
   - DOMAIN-SUFFIX,aacrjournals.org
   - DOMAIN-SUFFIX,academic.eb.com
+  - DOMAIN-SUFFIX,acaric.co.jp
   - DOMAIN-SUFFIX,aclweb.org
   - DOMAIN-SUFFIX,acm.org
   - DOMAIN-SUFFIX,acs.org
@@ -149,7 +150,6 @@ payload:
   - DOMAIN-SUFFIX,worldscientific.com
   - DOMAIN-SUFFIX,yale.edu
   - DOMAIN-SUFFIX,zenodo.org
-  - DOMAIN-SUFFIX,overleaf.com 
   - DOMAIN-SUFFIX,apa.org
   - DOMAIN-SUFFIX,psyccareers.com
   - DOMAIN-SUFFIX,cambridge.org
