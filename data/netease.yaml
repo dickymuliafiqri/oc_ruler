@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,127.com
   - DOMAIN-SUFFIX,127.net
   - DOMAIN-SUFFIX,163.com
+  - DOMAIN-SUFFIX,163cn.tv
   - DOMAIN-SUFFIX,163industry.com
   - DOMAIN-SUFFIX,163mail.com
   - DOMAIN-SUFFIX,163qiyukf.com
