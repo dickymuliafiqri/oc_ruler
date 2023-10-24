@@ -39,6 +39,7 @@ payload:
   - DOMAIN-SUFFIX,google.cl
   - DOMAIN-SUFFIX,google.cm
   - DOMAIN-SUFFIX,google.cn
+  - DOMAIN-SUFFIX,google.co
   - DOMAIN-SUFFIX,google.co.ao
   - DOMAIN-SUFFIX,google.co.bw
   - DOMAIN-SUFFIX,google.co.ck
@@ -203,6 +204,10 @@ payload:
   - DOMAIN-SUFFIX,google.vg
   - DOMAIN-SUFFIX,google.vu
   - DOMAIN-SUFFIX,google.ws
+  - DOMAIN-SUFFIX,firebase.com
+  - DOMAIN-SUFFIX,firebase.io
+  - DOMAIN-SUFFIX,firebaseapp.com
+  - DOMAIN-SUFFIX,firebaseio.com
   - DOMAIN-SUFFIX,0emm.com
   - DOMAIN-SUFFIX,1e100.net
   - DOMAIN-SUFFIX,1ucrs.com
@@ -258,7 +263,6 @@ payload:
   - DOMAIN-SUFFIX,coova.net
   - DOMAIN-SUFFIX,coova.org
   - DOMAIN-SUFFIX,crossmediapanel.com
-  - DOMAIN-SUFFIX,crr.com
   - DOMAIN-SUFFIX,cs4hs.com
   - DOMAIN-SUFFIX,dartsearch.net
   - DOMAIN-SUFFIX,dataliberation.org
@@ -272,8 +276,6 @@ payload:
   - DOMAIN-SUFFIX,feedburner.com
   - DOMAIN-SUFFIX,fflick.com
   - DOMAIN-SUFFIX,financeleadsonline.com
-  - DOMAIN-SUFFIX,firebaseapp.com
-  - DOMAIN-SUFFIX,firebaseio.com
   - DOMAIN-SUFFIX,foofle.com
   - DOMAIN-SUFFIX,froogle.com
   - DOMAIN-SUFFIX,fuchsia.dev
@@ -299,6 +301,7 @@ payload:
   - DOMAIN-SUFFIX,googel.com
   - DOMAIN-SUFFIX,googil.com
   - DOMAIN-SUFFIX,googl.com
+  - DOMAIN-SUFFIX,google-access.net
   - DOMAIN-SUFFIX,google-syndication.com
   - DOMAIN-SUFFIX,google.berlin
   - DOMAIN-SUFFIX,google.dev
@@ -337,6 +340,7 @@ payload:
   - DOMAIN-SUFFIX,googlesverige.com
   - DOMAIN-SUFFIX,googleusercontent.com
   - DOMAIN-SUFFIX,googleventures.com
+  - DOMAIN-SUFFIX,googlezip.net
   - DOMAIN-SUFFIX,googlr.com
   - DOMAIN-SUFFIX,goolge.com
   - DOMAIN-SUFFIX,gooogle.com
@@ -362,6 +366,7 @@ payload:
   - DOMAIN-SUFFIX,html5rocks.com
   - DOMAIN-SUFFIX,hwgo.com
   - DOMAIN-SUFFIX,iamremarkable.org
+  - DOMAIN-SUFFIX,idx.dev
   - DOMAIN-SUFFIX,igoogle.com
   - DOMAIN-SUFFIX,impermium.com
   - DOMAIN-SUFFIX,itasoftware.com
@@ -599,14 +604,21 @@ payload:
   - DOMAIN-SUFFIX,googletagmanager.com
   - DOMAIN-SUFFIX,googletagservices.com
   - DOMAIN-SUFFIX,googletraveladservices.com
+  - DOMAIN-SUFFIX,marketingplatform.google.com
   - DOMAIN-SUFFIX,urchin.com
+  - DOMAIN,analytics.google.com
   - DOMAIN-SUFFIX,charlestonroadregistry.com
+  - DOMAIN-SUFFIX,crr.com
   - DOMAIN-SUFFIX,registry.google
   - DOMAIN-SUFFIX,get.app
   - DOMAIN-SUFFIX,get.dev
   - DOMAIN-SUFFIX,get.how
+  - DOMAIN-SUFFIX,get.new
   - DOMAIN-SUFFIX,get.page
+  - DOMAIN-SUFFIX,get.rsvp
+  - DOMAIN-SUFFIX,hey.boo
   - DOMAIN-SUFFIX,iam.soy
+  - DOMAIN-SUFFIX,new.day
   - DOMAIN-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c
   - DOMAIN,scholar.google.ae
   - DOMAIN,scholar.google.at
@@ -682,6 +694,7 @@ payload:
   - DOMAIN,scholar.google.se
   - DOMAIN,scholar.google.si
   - DOMAIN,scholar.google.sk
+  - DOMAIN,scholar.googleusercontent.com
   - DOMAIN,scholar.l.google.com
   - DOMAIN-SUFFIX,pki.goog
   - DOMAIN,clients1.google.com
@@ -700,6 +713,8 @@ payload:
   - DOMAIN,mtalk.google.com
   - DOMAIN-SUFFIX,kaggle.com
   - DOMAIN-SUFFIX,kaggle.io
+  - DOMAIN-SUFFIX,kaggle.net
+  - DOMAIN-SUFFIX,kaggleusercontent.com
   - DOMAIN-SUFFIX,deps.dev
   - DOMAIN-SUFFIX,deps.info
   - DOMAIN-SUFFIX,opensourceinsight.dev
@@ -884,6 +899,19 @@ payload:
   - DOMAIN-SUFFIX,youtubemobilesupport.com
   - DOMAIN-SUFFIX,yt.be
   - DOMAIN-SUFFIX,ytimg.com
+  - DOMAIN,firebase-settings.crashlytics.com
+  - DOMAIN,firebase.google.com
+  - DOMAIN,firebase.googleapis.com
+  - DOMAIN,firebaseappcheck.googleapis.com
+  - DOMAIN,firebasedynamiclinks-ipv4.googleapis.com
+  - DOMAIN,firebasedynamiclinks-ipv6.googleapis.com
+  - DOMAIN,firebasedynamiclinks.googleapis.com
+  - DOMAIN,firebaseinappmessaging.googleapis.com
+  - DOMAIN,firebaseinstallations.googleapis.com
+  - DOMAIN,firebaselogging-pa.googleapis.com
+  - DOMAIN,firebaselogging.googleapis.com
+  - DOMAIN,firebaseperusertopics-pa.googleapis.com
+  - DOMAIN,firebaseremoteconfig.googleapis.com
   - DOMAIN,www.recaptcha.net
   - DOMAIN,265.com
   - DOMAIN,2mdn-cn.net
@@ -898,6 +926,7 @@ payload:
   - DOMAIN,app-measurement.com
   - DOMAIN,apps5.oingo.com
   - DOMAIN,avail.googleflights.net
+  - DOMAIN,beacons-handoff.gcp.gvt2.com
   - DOMAIN,beacons.gcp.gvt2.com
   - DOMAIN,beacons.gvt2.com
   - DOMAIN,beacons2.gvt2.com
@@ -935,7 +964,6 @@ payload:
   - DOMAIN,download.qpdp1.net
   - DOMAIN,download.tensorflow.google.com
   - DOMAIN,emmapplecodevice.googleapis.com
-  - DOMAIN,firebase-settings.crashlytics.com
   - DOMAIN,fontfiles.googleadapis.com
   - DOMAIN,fontfiles.googleapis.com
   - DOMAIN,fonts.googleadapis.com

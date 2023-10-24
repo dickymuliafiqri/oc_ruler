@@ -1,8 +1,147 @@
 payload:
+  - DOMAIN-SUFFIX,auth0.com
   - DOMAIN-SUFFIX,porkbun.com
   - DOMAIN-SUFFIX,acer-group.com
   - DOMAIN-SUFFIX,acer.com
   - DOMAIN-SUFFIX,acer.com.cn
+  - DOMAIN,3dns-1.adobe.com
+  - DOMAIN,3dns-2.adobe.com
+  - DOMAIN,3dns-3.adobe.com
+  - DOMAIN,3dns-4.adobe.com
+  - DOMAIN,3dns-5.adobe.com
+  - DOMAIN,3dns.adobe.com
+  - DOMAIN,activate-sea.adobe.com
+  - DOMAIN,activate-sjc0.adobe.com
+  - DOMAIN,activate.adobe.com
+  - DOMAIN,activate.wip1.adobe.com
+  - DOMAIN,activate.wip2.adobe.com
+  - DOMAIN,activate.wip3.adobe.com
+  - DOMAIN,activate.wip4.adobe.com
+  - DOMAIN,adobe-dns-1.adobe.com
+  - DOMAIN,adobe-dns-2.adobe.com
+  - DOMAIN,adobe-dns-3.adobe.com
+  - DOMAIN,adobe-dns-4.adobe.com
+  - DOMAIN,adobe-dns.adobe.com
+  - DOMAIN,adobeereg.com
+  - DOMAIN,crl.versign.net
+  - DOMAIN,ereg.adobe.com
+  - DOMAIN,ereg.wip.adobe.com
+  - DOMAIN,ereg.wip1.adobe.com
+  - DOMAIN,ereg.wip2.adobe.com
+  - DOMAIN,ereg.wip3.adobe.com
+  - DOMAIN,ereg.wip4.adobe.com
+  - DOMAIN,hl2rcv.adobe.com
+  - DOMAIN,hlrcv.stage.adobe.com
+  - DOMAIN,lm.licenses.adobe.com
+  - DOMAIN,lmlicenses.wip4.adobe.com
+  - DOMAIN,na1r.services.adobe.com
+  - DOMAIN,ood.opsource.net
+  - DOMAIN,practivate.adobe
+  - DOMAIN,practivate.adobe.com
+  - DOMAIN,practivate.adobe.ipp
+  - DOMAIN,practivate.adobe.newoa
+  - DOMAIN,practivate.adobe.ntp
+  - DOMAIN,wip.adobe.com
+  - DOMAIN,wip1.adobe.com
+  - DOMAIN,wip2.adobe.com
+  - DOMAIN,wip3.adobe.com
+  - DOMAIN,wip4.adobe.com
+  - DOMAIN,wwis-dubc1-vip100.adobe.com
+  - DOMAIN,wwis-dubc1-vip101.adobe.com
+  - DOMAIN,wwis-dubc1-vip102.adobe.com
+  - DOMAIN,wwis-dubc1-vip103.adobe.com
+  - DOMAIN,wwis-dubc1-vip104.adobe.com
+  - DOMAIN,wwis-dubc1-vip105.adobe.com
+  - DOMAIN,wwis-dubc1-vip106.adobe.com
+  - DOMAIN,wwis-dubc1-vip107.adobe.com
+  - DOMAIN,wwis-dubc1-vip108.adobe.com
+  - DOMAIN,wwis-dubc1-vip109.adobe.com
+  - DOMAIN,wwis-dubc1-vip110.adobe.com
+  - DOMAIN,wwis-dubc1-vip111.adobe.com
+  - DOMAIN,wwis-dubc1-vip112.adobe.com
+  - DOMAIN,wwis-dubc1-vip113.adobe.com
+  - DOMAIN,wwis-dubc1-vip114.adobe.com
+  - DOMAIN,wwis-dubc1-vip115.adobe.com
+  - DOMAIN,wwis-dubc1-vip116.adobe.com
+  - DOMAIN,wwis-dubc1-vip117.adobe.com
+  - DOMAIN,wwis-dubc1-vip118.adobe.com
+  - DOMAIN,wwis-dubc1-vip119.adobe.com
+  - DOMAIN,wwis-dubc1-vip120.adobe.com
+  - DOMAIN,wwis-dubc1-vip121.adobe.com
+  - DOMAIN,wwis-dubc1-vip122.adobe.com
+  - DOMAIN,wwis-dubc1-vip123.adobe.com
+  - DOMAIN,wwis-dubc1-vip124.adobe.com
+  - DOMAIN,wwis-dubc1-vip125.adobe.com
+  - DOMAIN,wwis-dubc1-vip30.adobe.com
+  - DOMAIN,wwis-dubc1-vip31.adobe.com
+  - DOMAIN,wwis-dubc1-vip32.adobe.com
+  - DOMAIN,wwis-dubc1-vip33.adobe.com
+  - DOMAIN,wwis-dubc1-vip34.adobe.com
+  - DOMAIN,wwis-dubc1-vip35.adobe.com
+  - DOMAIN,wwis-dubc1-vip36.adobe.com
+  - DOMAIN,wwis-dubc1-vip37.adobe.com
+  - DOMAIN,wwis-dubc1-vip38.adobe.com
+  - DOMAIN,wwis-dubc1-vip39.adobe.com
+  - DOMAIN,wwis-dubc1-vip40.adobe.com
+  - DOMAIN,wwis-dubc1-vip41.adobe.com
+  - DOMAIN,wwis-dubc1-vip42.adobe.com
+  - DOMAIN,wwis-dubc1-vip43.adobe.com
+  - DOMAIN,wwis-dubc1-vip44.adobe.com
+  - DOMAIN,wwis-dubc1-vip45.adobe.com
+  - DOMAIN,wwis-dubc1-vip46.adobe.com
+  - DOMAIN,wwis-dubc1-vip47.adobe.com
+  - DOMAIN,wwis-dubc1-vip48.adobe.com
+  - DOMAIN,wwis-dubc1-vip49.adobe.com
+  - DOMAIN,wwis-dubc1-vip50.adobe.com
+  - DOMAIN,wwis-dubc1-vip51.adobe.com
+  - DOMAIN,wwis-dubc1-vip52.adobe.com
+  - DOMAIN,wwis-dubc1-vip53.adobe.com
+  - DOMAIN,wwis-dubc1-vip54.adobe.com
+  - DOMAIN,wwis-dubc1-vip55.adobe.com
+  - DOMAIN,wwis-dubc1-vip56.adobe.com
+  - DOMAIN,wwis-dubc1-vip57.adobe.com
+  - DOMAIN,wwis-dubc1-vip58.adobe.com
+  - DOMAIN,wwis-dubc1-vip59.adobe.com
+  - DOMAIN,wwis-dubc1-vip60.adobe.com
+  - DOMAIN,wwis-dubc1-vip61.adobe.com
+  - DOMAIN,wwis-dubc1-vip62.adobe.com
+  - DOMAIN,wwis-dubc1-vip63.adobe.com
+  - DOMAIN,wwis-dubc1-vip64.adobe.com
+  - DOMAIN,wwis-dubc1-vip65.adobe.com
+  - DOMAIN,wwis-dubc1-vip66.adobe.com
+  - DOMAIN,wwis-dubc1-vip67.adobe.com
+  - DOMAIN,wwis-dubc1-vip68.adobe.com
+  - DOMAIN,wwis-dubc1-vip69.adobe.com
+  - DOMAIN,wwis-dubc1-vip70.adobe.com
+  - DOMAIN,wwis-dubc1-vip71.adobe.com
+  - DOMAIN,wwis-dubc1-vip72.adobe.com
+  - DOMAIN,wwis-dubc1-vip73.adobe.com
+  - DOMAIN,wwis-dubc1-vip74.adobe.com
+  - DOMAIN,wwis-dubc1-vip75.adobe.com
+  - DOMAIN,wwis-dubc1-vip76.adobe.com
+  - DOMAIN,wwis-dubc1-vip77.adobe.com
+  - DOMAIN,wwis-dubc1-vip78.adobe.com
+  - DOMAIN,wwis-dubc1-vip79.adobe.com
+  - DOMAIN,wwis-dubc1-vip80.adobe.com
+  - DOMAIN,wwis-dubc1-vip81.adobe.com
+  - DOMAIN,wwis-dubc1-vip82.adobe.com
+  - DOMAIN,wwis-dubc1-vip83.adobe.com
+  - DOMAIN,wwis-dubc1-vip84.adobe.com
+  - DOMAIN,wwis-dubc1-vip85.adobe.com
+  - DOMAIN,wwis-dubc1-vip86.adobe.com
+  - DOMAIN,wwis-dubc1-vip87.adobe.com
+  - DOMAIN,wwis-dubc1-vip88.adobe.com
+  - DOMAIN,wwis-dubc1-vip89.adobe.com
+  - DOMAIN,wwis-dubc1-vip90.adobe.com
+  - DOMAIN,wwis-dubc1-vip91.adobe.com
+  - DOMAIN,wwis-dubc1-vip92.adobe.com
+  - DOMAIN,wwis-dubc1-vip93.adobe.com
+  - DOMAIN,wwis-dubc1-vip94.adobe.com
+  - DOMAIN,wwis-dubc1-vip95.adobe.com
+  - DOMAIN,wwis-dubc1-vip96.adobe.com
+  - DOMAIN,wwis-dubc1-vip97.adobe.com
+  - DOMAIN,wwis-dubc1-vip98.adobe.com
+  - DOMAIN,wwis-dubc1-vip99.adobe.com
   - DOMAIN-SUFFIX,advertising.adobe.com
   - DOMAIN-SUFFIX,tubemogul.com
   - DOMAIN-SUFFIX,typekit.com
@@ -191,6 +330,7 @@ payload:
   - DOMAIN-SUFFIX,awsthinkbox.com
   - DOMAIN-SUFFIX,awstrack.me
   - DOMAIN-SUFFIX,cdkworkshop.com
+  - DOMAIN-SUFFIX,cloudfront.com
   - DOMAIN-SUFFIX,cloudfront.net
   - DOMAIN-SUFFIX,containersonaws.com
   - DOMAIN-SUFFIX,elasticbeanstalk.com
@@ -275,6 +415,7 @@ payload:
   - DOMAIN-SUFFIX,amazon.com.mx
   - DOMAIN-SUFFIX,amazon.com.tr
   - DOMAIN-SUFFIX,amazon.de
+  - DOMAIN-SUFFIX,amazon.dev
   - DOMAIN-SUFFIX,amazon.es
   - DOMAIN-SUFFIX,amazon.fr
   - DOMAIN-SUFFIX,amazon.in
@@ -338,8 +479,10 @@ payload:
   - DOMAIN,images-cn.ssl-images-amazon.com
   - DOMAIN,images-cn-8.ssl-images-amazon.com
   - DOMAIN-SUFFIX,amd.com
+  - DOMAIN-SUFFIX,amd.com.cn
   - DOMAIN-SUFFIX,amdfanstore.com
   - DOMAIN-SUFFIX,radeon.com
+  - DOMAIN,www.amd.com
   - DOMAIN-SUFFIX,iadsdk.apple.com
   - DOMAIN-SUFFIX,iad.apple.com
   - DOMAIN-SUFFIX,qwapi.com
@@ -384,6 +527,25 @@ payload:
   - DOMAIN,ocsp.apple.com
   - DOMAIN,ocsp2-lb.apple.com.akadns.net
   - DOMAIN,ocsp2.apple.com
+  - DOMAIN-SUFFIX,appldnld.apple.com
+  - DOMAIN-SUFFIX,gg.apple.com
+  - DOMAIN-SUFFIX,gnf-mdn.apple.com
+  - DOMAIN-SUFFIX,gnf-mr.apple.com
+  - DOMAIN-SUFFIX,gs.apple.com
+  - DOMAIN-SUFFIX,ig.apple.com
+  - DOMAIN-SUFFIX,mesu.apple.com
+  - DOMAIN-SUFFIX,ns.itunes.apple.com
+  - DOMAIN-SUFFIX,oscdn.apple.com
+  - DOMAIN-SUFFIX,osrecovery.apple.com
+  - DOMAIN-SUFFIX,skl.apple.com
+  - DOMAIN-SUFFIX,swcdn.apple.com
+  - DOMAIN-SUFFIX,swdist.apple.com
+  - DOMAIN-SUFFIX,swdownload.apple.com
+  - DOMAIN-SUFFIX,swpost.apple.com
+  - DOMAIN-SUFFIX,swscan.apple.com
+  - DOMAIN-SUFFIX,updates-http.cdn-apple.com
+  - DOMAIN-SUFFIX,updates.cdn-apple.com
+  - DOMAIN-SUFFIX,xp.apple.com
   - DOMAIN-SUFFIX,100beatscheap.com
   - DOMAIN-SUFFIX,1monsterbeatsbydreus.com
   - DOMAIN-SUFFIX,2013beatsbydrdreonline.com
@@ -497,6 +659,8 @@ payload:
   - DOMAIN-SUFFIX,beatsbydre-store.com
   - DOMAIN-SUFFIX,beatsbydre-studio.com
   - DOMAIN-SUFFIX,beatsbydre-us.com
+  - DOMAIN-SUFFIX,beatsbydre.com
+  - DOMAIN-SUFFIX,beatsbydre.com.cn
   - DOMAIN-SUFFIX,beatsbydre.jp
   - DOMAIN-SUFFIX,beatsbydre2081.com
   - DOMAIN-SUFFIX,beatsbydre411.com
@@ -1638,6 +1802,7 @@ payload:
   - DOMAIN-SUFFIX,5lml.com
   - DOMAIN-SUFFIX,a0pple.net
   - DOMAIN-SUFFIX,aapl.tw
+  - DOMAIN-SUFFIX,aaplimg.com
   - DOMAIN-SUFFIX,airport.brussels
   - DOMAIN-SUFFIX,airport.com
   - DOMAIN-SUFFIX,airport.eu
@@ -2064,6 +2229,7 @@ payload:
   - DOMAIN-SUFFIX,asus.com
   - DOMAIN-SUFFIX,asus.com.cn
   - DOMAIN-SUFFIX,atlassian.com
+  - DOMAIN-SUFFIX,atlassian.net
   - DOMAIN-SUFFIX,bitbucket.io
   - DOMAIN-SUFFIX,bitbucket.org
   - DOMAIN-SUFFIX,statuspage.io
@@ -2206,7 +2372,10 @@ payload:
   - DOMAIN-SUFFIX,bandwagonhost.com
   - DOMAIN-SUFFIX,bwh1.net
   - DOMAIN-SUFFIX,bwh8.net
+  - DOMAIN-SUFFIX,bwh81.net
   - DOMAIN-SUFFIX,bwh88.net
+  - DOMAIN-SUFFIX,bwh89.net
+  - DOMAIN-SUFFIX,blurams.com
   - DOMAIN-KEYWORD,canon
   - DOMAIN-SUFFIX,c-ij.com
   - DOMAIN-SUFFIX,canon-cee.com
@@ -2278,6 +2447,8 @@ payload:
   - DOMAIN-SUFFIX,canon.uz
   - DOMAIN-SUFFIX,canonfoundation.org
   - DOMAIN-SUFFIX,canonproprinters.com
+  - DOMAIN-SUFFIX,chegg.com
+  - DOMAIN-SUFFIX,cheggcdn.com
   - DOMAIN-SUFFIX,webex.ca
   - DOMAIN-SUFFIX,webex.co.in
   - DOMAIN-SUFFIX,webex.co.it
@@ -2516,6 +2687,8 @@ payload:
   - DOMAIN-SUFFIX,digitaloceanspaces.com
   - DOMAIN-SUFFIX,do.co
   - DOMAIN-SUFFIX,nginxconfig.io
+  - DOMAIN-SUFFIX,duolingo.com
+  - DOMAIN-SUFFIX,duolingo.cn
   - DOMAIN-SUFFIX,clickedu.co.uk
   - DOMAIN-SUFFIX,deepfreeze.co.uk
   - DOMAIN-SUFFIX,deepfreeze.com
@@ -2534,6 +2707,8 @@ payload:
   - DOMAIN-SUFFIX,faronicswise.co.uk
   - DOMAIN-SUFFIX,faronicswise.com
   - DOMAIN,faronics.kayako.com
+  - DOMAIN-SUFFIX,giffgaff.com
+  - DOMAIN-SUFFIX,giffgaff.design
   - DOMAIN-SUFFIX,aorus.com
   - DOMAIN-SUFFIX,aoruszone.cn
   - DOMAIN-SUFFIX,gigabyte.cn
@@ -2661,14 +2836,21 @@ payload:
   - DOMAIN-SUFFIX,googletagmanager.com
   - DOMAIN-SUFFIX,googletagservices.com
   - DOMAIN-SUFFIX,googletraveladservices.com
+  - DOMAIN-SUFFIX,marketingplatform.google.com
   - DOMAIN-SUFFIX,urchin.com
+  - DOMAIN,analytics.google.com
   - DOMAIN-SUFFIX,charlestonroadregistry.com
+  - DOMAIN-SUFFIX,crr.com
   - DOMAIN-SUFFIX,registry.google
   - DOMAIN-SUFFIX,get.app
   - DOMAIN-SUFFIX,get.dev
   - DOMAIN-SUFFIX,get.how
+  - DOMAIN-SUFFIX,get.new
   - DOMAIN-SUFFIX,get.page
+  - DOMAIN-SUFFIX,get.rsvp
+  - DOMAIN-SUFFIX,hey.boo
   - DOMAIN-SUFFIX,iam.soy
+  - DOMAIN-SUFFIX,new.day
   - DOMAIN-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c
   - DOMAIN,scholar.google.ae
   - DOMAIN,scholar.google.at
@@ -2744,6 +2926,7 @@ payload:
   - DOMAIN,scholar.google.se
   - DOMAIN,scholar.google.si
   - DOMAIN,scholar.google.sk
+  - DOMAIN,scholar.googleusercontent.com
   - DOMAIN,scholar.l.google.com
   - DOMAIN-SUFFIX,pki.goog
   - DOMAIN,clients1.google.com
@@ -2762,6 +2945,8 @@ payload:
   - DOMAIN,mtalk.google.com
   - DOMAIN-SUFFIX,kaggle.com
   - DOMAIN-SUFFIX,kaggle.io
+  - DOMAIN-SUFFIX,kaggle.net
+  - DOMAIN-SUFFIX,kaggleusercontent.com
   - DOMAIN-SUFFIX,deps.dev
   - DOMAIN-SUFFIX,deps.info
   - DOMAIN-SUFFIX,opensourceinsight.dev
@@ -2986,6 +3171,7 @@ payload:
   - DOMAIN-SUFFIX,google.cl
   - DOMAIN-SUFFIX,google.cm
   - DOMAIN-SUFFIX,google.cn
+  - DOMAIN-SUFFIX,google.co
   - DOMAIN-SUFFIX,google.co.ao
   - DOMAIN-SUFFIX,google.co.bw
   - DOMAIN-SUFFIX,google.co.ck
@@ -3150,6 +3336,23 @@ payload:
   - DOMAIN-SUFFIX,google.vg
   - DOMAIN-SUFFIX,google.vu
   - DOMAIN-SUFFIX,google.ws
+  - DOMAIN-SUFFIX,firebase.com
+  - DOMAIN-SUFFIX,firebase.io
+  - DOMAIN-SUFFIX,firebaseapp.com
+  - DOMAIN-SUFFIX,firebaseio.com
+  - DOMAIN,firebase-settings.crashlytics.com
+  - DOMAIN,firebase.google.com
+  - DOMAIN,firebase.googleapis.com
+  - DOMAIN,firebaseappcheck.googleapis.com
+  - DOMAIN,firebasedynamiclinks-ipv4.googleapis.com
+  - DOMAIN,firebasedynamiclinks-ipv6.googleapis.com
+  - DOMAIN,firebasedynamiclinks.googleapis.com
+  - DOMAIN,firebaseinappmessaging.googleapis.com
+  - DOMAIN,firebaseinstallations.googleapis.com
+  - DOMAIN,firebaselogging-pa.googleapis.com
+  - DOMAIN,firebaselogging.googleapis.com
+  - DOMAIN,firebaseperusertopics-pa.googleapis.com
+  - DOMAIN,firebaseremoteconfig.googleapis.com
   - DOMAIN-SUFFIX,0emm.com
   - DOMAIN-SUFFIX,1e100.net
   - DOMAIN-SUFFIX,1ucrs.com
@@ -3205,7 +3408,6 @@ payload:
   - DOMAIN-SUFFIX,coova.net
   - DOMAIN-SUFFIX,coova.org
   - DOMAIN-SUFFIX,crossmediapanel.com
-  - DOMAIN-SUFFIX,crr.com
   - DOMAIN-SUFFIX,cs4hs.com
   - DOMAIN-SUFFIX,dartsearch.net
   - DOMAIN-SUFFIX,dataliberation.org
@@ -3219,8 +3421,6 @@ payload:
   - DOMAIN-SUFFIX,feedburner.com
   - DOMAIN-SUFFIX,fflick.com
   - DOMAIN-SUFFIX,financeleadsonline.com
-  - DOMAIN-SUFFIX,firebaseapp.com
-  - DOMAIN-SUFFIX,firebaseio.com
   - DOMAIN-SUFFIX,foofle.com
   - DOMAIN-SUFFIX,froogle.com
   - DOMAIN-SUFFIX,fuchsia.dev
@@ -3246,6 +3446,7 @@ payload:
   - DOMAIN-SUFFIX,googel.com
   - DOMAIN-SUFFIX,googil.com
   - DOMAIN-SUFFIX,googl.com
+  - DOMAIN-SUFFIX,google-access.net
   - DOMAIN-SUFFIX,google-syndication.com
   - DOMAIN-SUFFIX,google.berlin
   - DOMAIN-SUFFIX,google.dev
@@ -3284,6 +3485,7 @@ payload:
   - DOMAIN-SUFFIX,googlesverige.com
   - DOMAIN-SUFFIX,googleusercontent.com
   - DOMAIN-SUFFIX,googleventures.com
+  - DOMAIN-SUFFIX,googlezip.net
   - DOMAIN-SUFFIX,googlr.com
   - DOMAIN-SUFFIX,goolge.com
   - DOMAIN-SUFFIX,gooogle.com
@@ -3309,6 +3511,7 @@ payload:
   - DOMAIN-SUFFIX,html5rocks.com
   - DOMAIN-SUFFIX,hwgo.com
   - DOMAIN-SUFFIX,iamremarkable.org
+  - DOMAIN-SUFFIX,idx.dev
   - DOMAIN-SUFFIX,igoogle.com
   - DOMAIN-SUFFIX,impermium.com
   - DOMAIN-SUFFIX,itasoftware.com
@@ -3443,6 +3646,7 @@ payload:
   - DOMAIN,app-measurement.com
   - DOMAIN,apps5.oingo.com
   - DOMAIN,avail.googleflights.net
+  - DOMAIN,beacons-handoff.gcp.gvt2.com
   - DOMAIN,beacons.gcp.gvt2.com
   - DOMAIN,beacons.gvt2.com
   - DOMAIN,beacons2.gvt2.com
@@ -3480,7 +3684,6 @@ payload:
   - DOMAIN,download.qpdp1.net
   - DOMAIN,download.tensorflow.google.com
   - DOMAIN,emmapplecodevice.googleapis.com
-  - DOMAIN,firebase-settings.crashlytics.com
   - DOMAIN,fontfiles.googleadapis.com
   - DOMAIN,fontfiles.googleapis.com
   - DOMAIN,fonts.googleadapis.com
@@ -3763,6 +3966,8 @@ payload:
   - DOMAIN-SUFFIX,xn--6eup7j.com
   - DOMAIN-SUFFIX,xn--6eup7j.net
   - DOMAIN,hpstore.corpmerchandise.com
+  - DOMAIN-SUFFIX,hubblephone.com
+  - DOMAIN-SUFFIX,tsi.ai
   - DOMAIN-KEYWORD,ibm
   - DOMAIN-KEYWORD,weatherchannel
   - DOMAIN-KEYWORD,weather
@@ -3775,6 +3980,9 @@ payload:
   - DOMAIN-SUFFIX,ibm.us
   - DOMAIN-SUFFIX,s-bluemix.net
   - DOMAIN-SUFFIX,s81c.com
+  - DOMAIN-SUFFIX,inshot.cc
+  - DOMAIN-SUFFIX,inshot.com
+  - DOMAIN-SUFFIX,inshotapp.com
   - DOMAIN-SUFFIX,01.org
   - DOMAIN-SUFFIX,hyperscan.io
   - DOMAIN-SUFFIX,intellinuxgraphics.com
@@ -4035,6 +4243,10 @@ payload:
   - DOMAIN-SUFFIX,xn--ztsq84g.cn
   - DOMAIN-SUFFIX,xscale.com
   - DOMAIN-SUFFIX,barefootnetworks.com
+  - DOMAIN-SUFFIX,kakao.com
+  - DOMAIN-SUFFIX,kakaocdn.net
+  - DOMAIN-SUFFIX,kakaocorp.com
+  - DOMAIN-SUFFIX,kakaotalk.jp
   - DOMAIN-SUFFIX,lg.com
   - DOMAIN-SUFFIX,lgappstv.com
   - DOMAIN-SUFFIX,lge.co.kr
@@ -4050,9 +4262,13 @@ payload:
   - DOMAIN-SUFFIX,logicoolg.com
   - DOMAIN-SUFFIX,logitech.biz
   - DOMAIN-SUFFIX,logitech.com
+  - DOMAIN-SUFFIX,logitech.com.cn
   - DOMAIN-SUFFIX,logitech.fr
+  - DOMAIN-SUFFIX,logitech.io
   - DOMAIN-SUFFIX,logitechg.com
+  - DOMAIN-SUFFIX,logitechg.com.cn
   - DOMAIN-SUFFIX,logitechg.fr
+  - DOMAIN-SUFFIX,logitechio.com.cn
   - DOMAIN-SUFFIX,worldsfastestgamer.net
   - DOMAIN-SUFFIX,imgsmail.ru
   - DOMAIN-SUFFIX,mail.ru
@@ -4589,6 +4805,7 @@ payload:
   - DOMAIN-SUFFIX,oculusrift.com
   - DOMAIN-SUFFIX,oculusvr.com
   - DOMAIN-SUFFIX,powersunitedvr.com
+  - DOMAIN-SUFFIX,threads.net
   - DOMAIN-SUFFIX,wa.me
   - DOMAIN-SUFFIX,whatsapp-plus.info
   - DOMAIN-SUFFIX,whatsapp-plus.me
@@ -4647,6 +4864,7 @@ payload:
   - DOMAIN-SUFFIX,azuredns-prd.org
   - DOMAIN-SUFFIX,azureedge-test.net
   - DOMAIN-SUFFIX,azureedge.net
+  - DOMAIN-SUFFIX,azurefd.net
   - DOMAIN-SUFFIX,azurehdinsight.cn
   - DOMAIN-SUFFIX,azureiotcentral.com
   - DOMAIN-SUFFIX,azureiotsolutions.com
@@ -4682,6 +4900,7 @@ payload:
   - DOMAIN-SUFFIX,management-azure-devices.net
   - DOMAIN-SUFFIX,mcchcdn.com
   - DOMAIN-SUFFIX,mgmt-azure-api.cn
+  - DOMAIN-SUFFIX,microsoftazuresponsorships.com
   - DOMAIN-SUFFIX,microsoftazurestatus.cn
   - DOMAIN-SUFFIX,microsofteca.com
   - DOMAIN-SUFFIX,microsoftiotcentral.com
@@ -4715,6 +4934,7 @@ payload:
   - DOMAIN-SUFFIX,bing.net
   - DOMAIN-SUFFIX,bingads.com
   - DOMAIN-SUFFIX,bingagencyawards.com
+  - DOMAIN-SUFFIX,bingapis.com
   - DOMAIN-SUFFIX,bingapistatistics.com
   - DOMAIN-SUFFIX,bingsandbox.com
   - DOMAIN-SUFFIX,bingvisualsearch.com
@@ -4754,6 +4974,7 @@ payload:
   - DOMAIN-SUFFIX,githubapp.com
   - DOMAIN-SUFFIX,githubassets.com
   - DOMAIN-SUFFIX,githubhackathon.com
+  - DOMAIN-SUFFIX,githubnext.com
   - DOMAIN-SUFFIX,githubpreview.dev
   - DOMAIN-SUFFIX,githubstatus.com
   - DOMAIN-SUFFIX,githubuniverse.com
@@ -4850,6 +5071,7 @@ payload:
   - DOMAIN-SUFFIX,microsoftnewskids.com
   - DOMAIN-SUFFIX,microsoftnewskids.net
   - DOMAIN-SUFFIX,microsoftnewskids.org
+  - DOMAIN-SUFFIX,msn.cn
   - DOMAIN-SUFFIX,msn.com
   - DOMAIN-SUFFIX,msnewskids.com
   - DOMAIN-SUFFIX,msnewskids.net
@@ -4880,6 +5102,7 @@ payload:
   - DOMAIN-SUFFIX,forzamotorsport.net
   - DOMAIN-SUFFIX,forzaracingchampionship.com
   - DOMAIN-SUFFIX,forzarc.com
+  - DOMAIN-SUFFIX,gamepass.com
   - DOMAIN-SUFFIX,orithegame.com
   - DOMAIN-SUFFIX,renovacionxboxlive.com
   - DOMAIN-SUFFIX,tellmewhygame.com
@@ -4900,6 +5123,7 @@ payload:
   - DOMAIN-SUFFIX,xboxone.com
   - DOMAIN-SUFFIX,xboxone.eu
   - DOMAIN-SUFFIX,xboxplayanywhere.com
+  - DOMAIN-SUFFIX,xboxservices.com
   - DOMAIN-SUFFIX,xboxstudios.com
   - DOMAIN-SUFFIX,xbx.lv
   - DOMAIN-KEYWORD,microsoft
@@ -4972,10 +5196,12 @@ payload:
   - DOMAIN-SUFFIX,docs.com
   - DOMAIN-SUFFIX,dynamics.cn
   - DOMAIN-SUFFIX,dynamics.com
+  - DOMAIN-SUFFIX,edgesuite.net
   - DOMAIN-SUFFIX,efproject.net
   - DOMAIN-SUFFIX,engkoo.com
   - DOMAIN-SUFFIX,fasttrackreadysupport.com
   - DOMAIN-SUFFIX,fluidpreview.com
+  - DOMAIN-SUFFIX,footprintdns.com
   - DOMAIN-SUFFIX,gameuxmasterguide.com
   - DOMAIN-SUFFIX,gears5.com
   - DOMAIN-SUFFIX,gearspop.com
@@ -5013,6 +5239,7 @@ payload:
   - DOMAIN-SUFFIX,meetfasttrack.com
   - DOMAIN-SUFFIX,meetyourdevices.com
   - DOMAIN-SUFFIX,mepn.com
+  - DOMAIN-SUFFIX,microsoft-falcon.io
   - DOMAIN-SUFFIX,microsoft-int.com
   - DOMAIN-SUFFIX,microsoft-ppe.com
   - DOMAIN-SUFFIX,microsoft-sap-events.com
@@ -5024,6 +5251,7 @@ payload:
   - DOMAIN-SUFFIX,microsoftadvertising.com
   - DOMAIN-SUFFIX,microsoftadvertisingregionalawards.com
   - DOMAIN-SUFFIX,microsoftaffiliates.com
+  - DOMAIN-SUFFIX,microsoftapp.net
   - DOMAIN-SUFFIX,microsoftcloud.com
   - DOMAIN-SUFFIX,microsoftcloudworkshop.com
   - DOMAIN-SUFFIX,microsoftcommunitytraining.com
@@ -5161,6 +5389,9 @@ payload:
   - DOMAIN-SUFFIX,winhec.com
   - DOMAIN-SUFFIX,winhec.net
   - DOMAIN-SUFFIX,yammer.com
+  - DOMAIN-SUFFIX,edge-skype-com.s-0001.s-msedge.net
+  - DOMAIN-SUFFIX,skype-edf.akadns.net
+  - DOMAIN-SUFFIX,skypedata.akadns.net
   - DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
   - DOMAIN-SUFFIX,download.windowsupdate.com
   - DOMAIN,bg.v4.a.dl.ws.microsoft.com
@@ -5192,12 +5423,67 @@ payload:
   - DOMAIN,statics-marketingsites-eas-ms-com.akamaized.net
   - DOMAIN,statics-marketingsites-eus-ms-com.akamaized.net
   - DOMAIN,statics-marketingsites-wcus-ms-com.akamaized.net
+  - DOMAIN-SUFFIX,mikrotik.com
+  - DOMAIN-SUFFIX,mt.lv
+  - DOMAIN-SUFFIX,routerboard.com
+  - DOMAIN-SUFFIX,brazzer.com
+  - DOMAIN-SUFFIX,brazzers.com
+  - DOMAIN-SUFFIX,brazzers.xxx
+  - DOMAIN-SUFFIX,brazzersnetwork.com
+  - DOMAIN-SUFFIX,mofos.com
+  - DOMAIN-SUFFIX,digitalplayground.com
+  - DOMAIN-SUFFIX,digitalplaygroundnetwork.com
+  - DOMAIN-SUFFIX,mydirtyhobby.com
+  - DOMAIN-SUFFIX,mdhcdn.com
+  - DOMAIN-SUFFIX,nutaku.com
+  - DOMAIN-SUFFIX,nutaku.net
+  - DOMAIN-SUFFIX,gaytube.com
+  - DOMAIN-SUFFIX,phncdn.com
+  - DOMAIN-SUFFIX,phprcdn.com
+  - DOMAIN-SUFFIX,porngub.com
+  - DOMAIN-SUFFIX,pornhub-deutsch.net
+  - DOMAIN-SUFFIX,pornhubapparel.com
+  - DOMAIN-SUFFIX,pornhub.com
+  - DOMAIN-SUFFIX,pornhub.org
+  - DOMAIN-SUFFIX,pornhubpremium.com
+  - DOMAIN-SUFFIX,realitykings.com
+  - DOMAIN-SUFFIX,rk.com
+  - DOMAIN-SUFFIX,livehdcams.com
+  - DOMAIN-SUFFIX,redtube.com
+  - DOMAIN-SUFFIX,redtube.com.br
+  - DOMAIN-SUFFIX,redtubepremium.com
+  - DOMAIN-SUFFIX,rdtcdn.com
+  - DOMAIN-SUFFIX,tube8.com
+  - DOMAIN-SUFFIX,tube8.fr
+  - DOMAIN-SUFFIX,extremetube.com
+  - DOMAIN-SUFFIX,keezmovies.com
+  - DOMAIN-SUFFIX,youporn.com
+  - DOMAIN-SUFFIX,youporngay.com
+  - DOMAIN-SUFFIX,youpornpremium.com
+  - DOMAIN-SUFFIX,youpornru.com
+  - DOMAIN-SUFFIX,yopornshop.com
+  - DOMAIN-SUFFIX,ypncdn.com
+  - DOMAIN-SUFFIX,babes.com
+  - DOMAIN-SUFFIX,men.com
+  - DOMAIN-SUFFIX,porniq.com
+  - DOMAIN-SUFFIX,pornmd.com
+  - DOMAIN-SUFFIX,seancody.com
+  - DOMAIN-SUFFIX,thumbzilla.com
+  - DOMAIN-SUFFIX,twistys.com
+  - DOMAIN-SUFFIX,webcams.tv
+  - DOMAIN-SUFFIX,whynotbi.com
+  - DOMAIN-SUFFIX,mindgeek.com
   - DOMAIN-SUFFIX,firefox.com
   - DOMAIN-SUFFIX,firefoxusercontent.com
-  - DOMAIN,developer.mozilla.org
-  - DOMAIN,interactive-examples.mdn.mozilla.net
+  - DOMAIN-SUFFIX,developer.allizom.org
+  - DOMAIN-SUFFIX,developer.mozilla.org
+  - DOMAIN-SUFFIX,mdn.allizom.net
+  - DOMAIN-SUFFIX,mdn.dev
+  - DOMAIN-SUFFIX,mdn.mozilla.net
+  - DOMAIN-SUFFIX,mdn.mozit.cloud
+  - DOMAIN-SUFFIX,mdnplay.dev
+  - DOMAIN-SUFFIX,mdnyalp.dev
   - DOMAIN,mdn.mozillademos.org
-  - DOMAIN,media.prod.mdn.mozit.cloud
   - DOMAIN-SUFFIX,rust-lang.org
   - DOMAIN-SUFFIX,rustup.rs
   - DOMAIN-SUFFIX,crates.io
@@ -5221,6 +5507,7 @@ payload:
   - DOMAIN-SUFFIX,line-beta.me
   - DOMAIN-SUFFIX,line-cdn.net
   - DOMAIN-SUFFIX,line-scdn.net
+  - DOMAIN-SUFFIX,line.biz
   - DOMAIN-SUFFIX,line.me
   - DOMAIN-SUFFIX,line.naver.jp
   - DOMAIN-SUFFIX,linecorp.com
@@ -5294,6 +5581,7 @@ payload:
   - DOMAIN-SUFFIX,nvidia.se
   - DOMAIN-SUFFIX,nvidia.tw
   - DOMAIN-SUFFIX,nvidiaforhp.com
+  - DOMAIN-SUFFIX,nvidiagrid.net
   - DOMAIN-SUFFIX,shotwithgeforce.com
   - DOMAIN-SUFFIX,tegrazone.co
   - DOMAIN-SUFFIX,tegrazone.co.kr
@@ -5301,6 +5589,15 @@ payload:
   - DOMAIN-SUFFIX,tegrazone.jp
   - DOMAIN-SUFFIX,tegrazone.kr
   - DOMAIN,nvidia.tt.omtrdc.net
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN,chat.openai.com.cdn.cloudflare.net
+  - DOMAIN,openaiapi-site.azureedge.net
+  - DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+  - DOMAIN,openaicomproductionae4b.blob.core.windows.net
+  - DOMAIN,production-openaicom-storage.azureedge.net
+  - DOMAIN,o33249.ingest.sentry.io
+  - DOMAIN,openaicom.imgix.net
   - DOMAIN-SUFFIX,openweather.co.uk
   - DOMAIN-SUFFIX,openweathermap.org
   - DOMAIN-KEYWORD,oracle
@@ -5353,6 +5650,12 @@ payload:
   - DOMAIN-SUFFIX,pccwglobal.com
   - DOMAIN-SUFFIX,pccwsolutions.com
   - DOMAIN-SUFFIX,moov.hk
+  - DOMAIN-SUFFIX,myqnapcloud.com
+  - DOMAIN-SUFFIX,qlink.to
+  - DOMAIN-SUFFIX,qnap.com
+  - DOMAIN-SUFFIX,myqnapcloud.cn
+  - DOMAIN-SUFFIX,qlinkto.cn
+  - DOMAIN-SUFFIX,qnap.com.cn
   - DOMAIN-SUFFIX,airgonetworks.com
   - DOMAIN-SUFFIX,berkanawireless.com
   - DOMAIN-SUFFIX,cdmatech.com
@@ -5398,6 +5701,10 @@ payload:
   - DOMAIN-SUFFIX,xtracloud.cn
   - DOMAIN-SUFFIX,brewmp.com
   - DOMAIN,qualcomm.sc.omtrdc.net
+  - DOMAIN-SUFFIX,qwant.com
+  - DOMAIN-SUFFIX,qwant.de
+  - DOMAIN-SUFFIX,qwant.fr
+  - DOMAIN-SUFFIX,qwant.it
   - DOMAIN-SUFFIX,razer.com
   - DOMAIN-SUFFIX,razersupport.com
   - DOMAIN-SUFFIX,razerzone.com
@@ -5471,12 +5778,13 @@ payload:
   - DOMAIN-SUFFIX,smartonesolutions.hk
   - DOMAIN-SUFFIX,valuegb.com
   - DOMAIN-SUFFIX,wise-research.com
+  - DOMAIN-SUFFIX,snapads.com
   - DOMAIN-SUFFIX,sc-cdn.net
   - DOMAIN-SUFFIX,snap-dev.net
   - DOMAIN-SUFFIX,snap.com
-  - DOMAIN-SUFFIX,snapads.com
   - DOMAIN-SUFFIX,snapchat.com
   - DOMAIN-SUFFIX,snapkit.co
+  - DOMAIN,impala-media-production.s3.amazonaws.com
   - DOMAIN-KEYWORD,playstation
   - DOMAIN-SUFFIX,playstation.com
   - DOMAIN-SUFFIX,playstation.net
@@ -5588,7 +5896,6 @@ payload:
   - DOMAIN-SUFFIX,sovec.net
   - DOMAIN-SUFFIX,spacex.com
   - DOMAIN-SUFFIX,boringcompany.com
-  - DOMAIN-SUFFIX,x.com
   - DOMAIN-SUFFIX,internetdownloadmanager.com
   - DOMAIN-SUFFIX,registeridm.com
   - DOMAIN-SUFFIX,tonec.com
@@ -5768,6 +6075,7 @@ payload:
   - DOMAIN-SUFFIX,yimg.com
   - DOMAIN-SUFFIX,yimg.jp
   - DOMAIN-SUFFIX,ymail.com
+  - DOMAIN-SUFFIX,yusercontent.com
   - DOMAIN-SUFFIX,oath.cloud
   - DOMAIN-SUFFIX,oath.com
   - DOMAIN-SUFFIX,ouroath.com
@@ -5985,8 +6293,10 @@ payload:
   - DOMAIN-SUFFIX,yimg.com
   - DOMAIN-SUFFIX,yimg.jp
   - DOMAIN-SUFFIX,ymail.com
+  - DOMAIN-SUFFIX,yusercontent.com
   - DOMAIN-KEYWORD,yandex
   - DOMAIN-SUFFIX,xn--d1acpjx3f.xn--p1ai
+  - DOMAIN-SUFFIX,dzen.ru
   - DOMAIN-SUFFIX,ya.ru
   - DOMAIN-SUFFIX,yandex.aero
   - DOMAIN-SUFFIX,yandex.az
@@ -6021,3 +6331,11 @@ payload:
   - DOMAIN-SUFFIX,yandex.uz
   - DOMAIN-SUFFIX,yandexcloud.net
   - DOMAIN-SUFFIX,yastatic.net
+  - DOMAIN-SUFFIX,teamviewer.cn
+  - DOMAIN-SUFFIX,teamviewer.com
+  - DOMAIN-SUFFIX,teamviewer.us
+  - DOMAIN,client-teamviewer-com.trafficmanager.net
+  - DOMAIN,teamviewer.com.cdn.cloudflare.net
+  - DOMAIN-SUFFIX,anydesk.com
+  - DOMAIN-SUFFIX,nomachine.com
+  - DOMAIN-SUFFIX,rustdesk.com

@@ -702,6 +702,7 @@ payload:
   - DOMAIN-SUFFIX,nike.com.hk
   - DOMAIN-SUFFIX,nike.gy
   - DOMAIN-SUFFIX,nike.hk
+  - DOMAIN-SUFFIX,nike.host
   - DOMAIN-SUFFIX,nike.shop
   - DOMAIN-SUFFIX,nike.us
   - DOMAIN-SUFFIX,nike.xn--hxt814e
@@ -909,9 +910,11 @@ payload:
   - DOMAIN-SUFFIX,target.com
   - DOMAIN-SUFFIX,targetimg1.com
   - DOMAIN-KEYWORD,walmart
+  - DOMAIN-SUFFIX,w-mt.co
   - DOMAIN-SUFFIX,wal-mart.com
   - DOMAIN-SUFFIX,wal.co
   - DOMAIN-SUFFIX,walmart-content.com
+  - DOMAIN-SUFFIX,walmart.cn
   - DOMAIN-SUFFIX,walmart.com
   - DOMAIN-SUFFIX,walmart.pharmacy
   - DOMAIN-SUFFIX,walmartimages.com

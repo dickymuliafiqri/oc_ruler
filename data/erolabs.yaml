@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN-SUFFIX,ero-labs.cloud
   - DOMAIN-SUFFIX,ero-labs.com
   - DOMAIN-SUFFIX,ero-labs.net
   - DOMAIN-SUFFIX,ero-labs.online
@@ -7,3 +8,4 @@ payload:
   - DOMAIN-SUFFIX,erolabs.com
   - DOMAIN-SUFFIX,erolabs.game
   - DOMAIN-SUFFIX,erolabs.net
+  - DOMAIN-SUFFIX,erolabs.online

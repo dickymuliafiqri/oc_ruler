@@ -13,15 +13,16 @@ payload:
   - DOMAIN-SUFFIX,2kcoretech.online
   - DOMAIN-SUFFIX,2kgames.com
   - DOMAIN-SUFFIX,take2games.com
-  - DOMAIN-SUFFIX,blizzard.cn
+  - DOMAIN-SUFFIX,bilibiligame.cn
+  - DOMAIN-SUFFIX,bilibiligame.co
+  - DOMAIN-SUFFIX,bilibiligame.net
+  - DOMAIN-SUFFIX,biligame.co
+  - DOMAIN-SUFFIX,biligame.com
+  - DOMAIN-SUFFIX,biligame.net
   - DOMAIN-SUFFIX,blizzard.com
-  - DOMAIN-SUFFIX,blizzardgames.cn
   - DOMAIN-SUFFIX,blizzardgearstore.com
   - DOMAIN-SUFFIX,blz-contentstack.com
-  - DOMAIN-SUFFIX,blzstatic.cn
   - DOMAIN-SUFFIX,battle.net
-  - DOMAIN-SUFFIX,battlenet.com.cn
-  - DOMAIN-SUFFIX,bnet.163.com
   - DOMAIN,blizzard.nefficient.co.kr
   - DOMAIN,blzddist1-a.akamaihd.net
   - DOMAIN,blzddistkr1-a.akamaihd.net
@@ -30,28 +31,18 @@ payload:
   - DOMAIN,bnetshopus.akamaized.net
   - DOMAIN-SUFFIX,diablo3.com
   - DOMAIN-SUFFIX,diabloimmortal.com
-  - DOMAIN,di.res.netease.com
-  - DOMAIN,diablo3.nosdn.127.net
   - DOMAIN-SUFFIX,firesidegatherings.com
   - DOMAIN-SUFFIX,playhearthstone.com
-  - DOMAIN,hearthstone.nosdn.127.net
   - DOMAIN-SUFFIX,heroesofthestorm.com
-  - DOMAIN,hearthstone.nosdn.127.net
-  - DOMAIN,heroes.nos.netease.com
   - DOMAIN-SUFFIX,playoverwatch.com
-  - DOMAIN,overwatch.nosdn.127.net
   - DOMAIN-SUFFIX,starcraft.com
   - DOMAIN-SUFFIX,starcraft2.com
-  - DOMAIN,sc2.nosdn.127.net
   - DOMAIN-SUFFIX,playwarcraft3.com
   - DOMAIN-SUFFIX,worldofwarcraft.com
-  - DOMAIN-SUFFIX,wowchina.com
-  - DOMAIN,wow.nosdn.127.net
   - DOMAIN,blizzcon-a.akamaihd.net
-  - DOMAIN,blz.nosdn.127.net
   - DOMAIN,blzmedia-a.akamaihd.net
   - DOMAIN,blznav.akamaized.net
-  - DOMAIN,cn.actual.battle.net
+  - DOMAIN-SUFFIX,bluearchive-cn.com
   - DOMAIN-SUFFIX,curseforge.com
   - DOMAIN-SUFFIX,forgecdn.net
   - DOMAIN-SUFFIX,cygames.jp
@@ -235,6 +226,7 @@ payload:
   - DOMAIN-SUFFIX,easy.ac
   - DOMAIN-SUFFIX,easyanticheat.net
   - DOMAIN-SUFFIX,epicgames.com
+  - DOMAIN-SUFFIX,epicgames.dev
   - DOMAIN-SUFFIX,fortnite.com
   - DOMAIN-SUFFIX,paragon.com
   - DOMAIN-SUFFIX,playparagon.com
@@ -269,6 +261,7 @@ payload:
   - DOMAIN,www4-static.gog-statics.com
   - DOMAIN-SUFFIX,illusion.co.jp
   - DOMAIN-SUFFIX,illusion.jp
+  - DOMAIN-SUFFIX,lowiro.com
   - DOMAIN-SUFFIX,genshinimpact.com
   - DOMAIN-SUFFIX,honkaiimpact3.com
   - DOMAIN-SUFFIX,honkaistarrail.com
@@ -286,6 +279,7 @@ payload:
   - DOMAIN-SUFFIX,miyoushe.com
   - DOMAIN-SUFFIX,benghuai.com
   - DOMAIN-SUFFIX,bh3.com
+  - DOMAIN-SUFFIX,bhsr.com
   - DOMAIN-SUFFIX,themisweeps.com
   - DOMAIN-SUFFIX,yuanshen.com
   - DOMAIN-SUFFIX,100classicbooks.com
@@ -364,6 +358,7 @@ payload:
   - DOMAIN-SUFFIX,pokemon-moon.com
   - DOMAIN-SUFFIX,pokemon-sun.com
   - DOMAIN-SUFFIX,pokemon-sunmoon.com
+  - DOMAIN-SUFFIX,pokemon-unitepgame.com
   - DOMAIN-SUFFIX,pokemon.com
   - DOMAIN-SUFFIX,pokemonbank.com
   - DOMAIN-SUFFIX,pokemonblackwhite.com
@@ -411,10 +406,20 @@ payload:
   - DOMAIN-SUFFIX,wiiugamepad.com
   - DOMAIN-SUFFIX,wiivc.net
   - DOMAIN-SUFFIX,xenoblade.com
+  - DOMAIN-SUFFIX,nikke-de.com
+  - DOMAIN-SUFFIX,nikke-en.com
+  - DOMAIN-SUFFIX,nikke-fr.com
+  - DOMAIN-SUFFIX,nikke-jp.com
+  - DOMAIN-SUFFIX,nikke-kr.com
+  - DOMAIN-SUFFIX,nikke-sea.com
   - DOMAIN-SUFFIX,op.gg
   - DOMAIN,opgg-static.akamaized.net
+  - DOMAIN-SUFFIX,ppy.sh
+  - DOMAIN-SUFFIX,joyjoy.net
+  - DOMAIN-SUFFIX,pandanet-igs.com
   - DOMAIN-SUFFIX,pinkcore.com
   - DOMAIN-SUFFIX,pinkcore.net
+  - DOMAIN-SUFFIX,sekai.colorfulpalette.org
   - DOMAIN-KEYWORD,playstation
   - DOMAIN-SUFFIX,playstation.com
   - DOMAIN-SUFFIX,playstation.net
@@ -495,6 +500,27 @@ payload:
   - DOMAIN-SUFFIX,steamusercontent.com
   - DOMAIN-SUFFIX,underlords.com
   - DOMAIN-SUFFIX,valvesoftware.com
+  - DOMAIN-SUFFIX,edge.steam-dns.top.comcast.net
+  - DOMAIN-SUFFIX,steam.apac.qtlglb.com
+  - DOMAIN-SUFFIX,steam.eca.qtlglb.com
+  - DOMAIN-SUFFIX,steam.naeu.qtlglb.com
+  - DOMAIN-SUFFIX,steam.ru.qtlglb.com
+  - DOMAIN,f3b7q2p3.ssl.hwcdn.net
+  - DOMAIN-SUFFIX,steam.cdn.on.net
+  - DOMAIN-SUFFIX,steam.cdn.orcon.net.nz
+  - DOMAIN-SUFFIX,steam.cdn.slingshot.co.nz
+  - DOMAIN-SUFFIX,steam.cdn.webra.ru
+  - DOMAIN,steambroadcast.akamaized.net
+  - DOMAIN,steamcdn-a.akamaihd.net
+  - DOMAIN,steamcommunity-a.akamaihd.net
+  - DOMAIN,steammobile.akamaized.net
+  - DOMAIN,steampipe-kr.akamaized.net
+  - DOMAIN,steampipe-partner.akamaized.net
+  - DOMAIN,steampipe.akamaized.net
+  - DOMAIN,steamstore-a.akamaihd.net
+  - DOMAIN,steamusercontent-a.akamaihd.net
+  - DOMAIN,steamuserimages-a.akamaihd.net
+  - DOMAIN,steamvideo-a.akamaihd.net
   - DOMAIN-SUFFIX,csgo.wmsj.cn
   - DOMAIN-SUFFIX,dota2.wmsj.cn
   - DOMAIN-SUFFIX,wmsjsteam.com
@@ -507,13 +533,6 @@ payload:
   - DOMAIN-SUFFIX,steampowered.com.8686c.com
   - DOMAIN-SUFFIX,steamstatic.com.8686c.com
   - DOMAIN,xz.pphimalayanrt.com
-  - DOMAIN,steambroadcast.akamaized.net
-  - DOMAIN,steamcdn-a.akamaihd.net
-  - DOMAIN,steamcommunity-a.akamaihd.net
-  - DOMAIN,steamstore-a.akamaihd.net
-  - DOMAIN,steamusercontent-a.akamaihd.net
-  - DOMAIN,steamuserimages-a.akamaihd.net
-  - DOMAIN,steamvideo-a.akamaihd.net
   - DOMAIN-SUFFIX,steamchina.com
   - DOMAIN-SUFFIX,steamunlocked.net
   - DOMAIN-SUFFIX,battlecare.net
@@ -624,6 +643,7 @@ payload:
   - DOMAIN-SUFFIX,forzamotorsport.net
   - DOMAIN-SUFFIX,forzaracingchampionship.com
   - DOMAIN-SUFFIX,forzarc.com
+  - DOMAIN-SUFFIX,gamepass.com
   - DOMAIN-SUFFIX,orithegame.com
   - DOMAIN-SUFFIX,renovacionxboxlive.com
   - DOMAIN-SUFFIX,tellmewhygame.com
@@ -644,5 +664,7 @@ payload:
   - DOMAIN-SUFFIX,xboxone.com
   - DOMAIN-SUFFIX,xboxone.eu
   - DOMAIN-SUFFIX,xboxplayanywhere.com
+  - DOMAIN-SUFFIX,xboxservices.com
   - DOMAIN-SUFFIX,xboxstudios.com
   - DOMAIN-SUFFIX,xbx.lv
+  - DOMAIN-SUFFIX,ynoproject.net

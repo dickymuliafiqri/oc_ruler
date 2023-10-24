@@ -253,6 +253,7 @@ payload:
   - DOMAIN,scholar.google.se
   - DOMAIN,scholar.google.si
   - DOMAIN,scholar.google.sk
+  - DOMAIN,scholar.googleusercontent.com
   - DOMAIN,scholar.l.google.com
   - DOMAIN-SUFFIX,ieee.org
   - DOMAIN-SUFFIX,ieee.tv
@@ -366,6 +367,7 @@ payload:
   - DOMAIN-SUFFIX,taylorandfrancis.com
   - DOMAIN-SUFFIX,taylorfrancis.com
   - DOMAIN-SUFFIX,1lib.cloud
+  - DOMAIN-SUFFIX,1lib.cz
   - DOMAIN-SUFFIX,1lib.domains
   - DOMAIN-SUFFIX,1lib.education
   - DOMAIN-SUFFIX,1lib.eu
@@ -399,6 +401,7 @@ payload:
   - DOMAIN-SUFFIX,sg1lib.org
   - DOMAIN-SUFFIX,singlelogin.app
   - DOMAIN-SUFFIX,singlelogin.me
+  - DOMAIN-SUFFIX,singlelogin.site
   - DOMAIN-SUFFIX,z-lib.org
   - DOMAIN-SUFFIX,zlib.life
   - DOMAIN-SUFFIX,zlibcdn.com

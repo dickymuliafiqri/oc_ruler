@@ -29,7 +29,7 @@ payload:
   - DOMAIN-SUFFIX,factwire.org
   - DOMAIN-SUFFIX,fortuneinsight.com
   - DOMAIN-SUFFIX,freebeacon.com
-  - DOMAIN-SUFFIX,ganjingworld.com
+  - DOMAIN-SUFFIX,gbnews.uk
   - DOMAIN-SUFFIX,hk01.com
   - DOMAIN-SUFFIX,hkcitizenmedia.com
   - DOMAIN-SUFFIX,hkcnews.com
@@ -51,6 +51,7 @@ payload:
   - DOMAIN-SUFFIX,my-formosa.com
   - DOMAIN-SUFFIX,newtalk.tw
   - DOMAIN-SUFFIX,newyorker.com
+  - DOMAIN-SUFFIX,nextapple.com
   - DOMAIN-SUFFIX,nownews.com
   - DOMAIN-SUFFIX,npr.org
   - DOMAIN-SUFFIX,on.cc
@@ -173,25 +174,32 @@ payload:
   - DOMAIN-SUFFIX,nikkansports.com
   - DOMAIN,asahishimbun.sc.omtrdc.net
   - DOMAIN-KEYWORD,bbc
+  - DOMAIN-SUFFIX,bbc-reporting-api.app
   - DOMAIN-SUFFIX,bbc.co.uk
   - DOMAIN-SUFFIX,bbc.com
   - DOMAIN-SUFFIX,bbc.in
   - DOMAIN-SUFFIX,bbc.net.uk
-  - DOMAIN-SUFFIX,bbci.co.uk
   - DOMAIN-SUFFIX,bbcfmt.s.llnwi.net
+  - DOMAIN-SUFFIX,bbci.co.uk
   - DOMAIN-SUFFIX,bbcmedia.co.uk
   - DOMAIN-SUFFIX,bbcpersian.com
   - DOMAIN-SUFFIX,bbcverticals.com
   - DOMAIN-SUFFIX,bidi.net.uk
+  - DOMAIN,aod-pod-uk-live.akamaized.net
   - DOMAIN,as-dash-uk-live.akamaized.net
   - DOMAIN,as-hls-uk-live.akamaized.net
-  - DOMAIN,vod-dash-ww-live.akamaized.net
-  - DOMAIN,vod-thumb-ww-live.akamaized.net
+  - DOMAIN,ve-dash-uk-live.akamaized.net
+  - DOMAIN,ve-uhd-push-uk-live.akamaized.net
   - DOMAIN,vod-dash-uk-live.akamaized.net
-  - DOMAIN,vod-thumb-uk-live.akamaized.net
+  - DOMAIN,vod-dash-ww-live.akamaized.net
   - DOMAIN,vod-hls-uk-live.akamaized.net
   - DOMAIN,vod-sub-uk-live.akamaized.net
+  - DOMAIN,vod-thumb-uk-live.akamaized.net
+  - DOMAIN,vod-thumb-ww-live.akamaized.net
   - DOMAIN,vs-cmaf-push-uk-live.akamaized.net
+  - DOMAIN,vs-cmaf-pushb-ww-live.akamaized.net
+  - DOMAIN,vs-hls-push-uk-live.akamaized.net
+  - DOMAIN,vs-hls-pushb-uk-live.akamaized.net
   - DOMAIN-KEYWORD,bloomberg
   - DOMAIN-SUFFIX,bbgevent.com
   - DOMAIN-SUFFIX,bbhub.io
@@ -341,6 +349,7 @@ payload:
   - DOMAIN-SUFFIX,epochtime.com
   - DOMAIN-SUFFIX,epochtimes-bg.com
   - DOMAIN-SUFFIX,epochtimes-romania.com
+  - DOMAIN-SUFFIX,epochtimes.bg
   - DOMAIN-SUFFIX,epochtimes.co.il
   - DOMAIN-SUFFIX,epochtimes.co.kr
   - DOMAIN-SUFFIX,epochtimes.co.uk
@@ -388,6 +397,68 @@ payload:
   - DOMAIN-SUFFIX,theepochtimes.com
   - DOMAIN-SUFFIX,theepochtimessubscribe.com
   - DOMAIN-SUFFIX,velkaepocha.cz
+  - DOMAIN-SUFFIX,es-visiontimes.com
+  - DOMAIN-SUFFIX,kannewyork.com
+  - DOMAIN-SUFFIX,kanzhongguo.com
+  - DOMAIN-SUFFIX,kanzhongguo.eu
+  - DOMAIN-SUFFIX,secretchina.com
+  - DOMAIN-SUFFIX,trithucvn.net
+  - DOMAIN-SUFFIX,trithucvn.org
+  - DOMAIN-SUFFIX,vct.news
+  - DOMAIN-SUFFIX,visiontimes.com
+  - DOMAIN-SUFFIX,visiontimes.de
+  - DOMAIN-SUFFIX,visiontimes.fr
+  - DOMAIN-SUFFIX,visiontimes.it
+  - DOMAIN-SUFFIX,visiontimes.net
+  - DOMAIN-SUFFIX,visiontimesjp.com
+  - DOMAIN-SUFFIX,vtvan.com
+  - DOMAIN-SUFFIX,watchinese.com
+  - DOMAIN-SUFFIX,bayvoice.net
+  - DOMAIN-SUFFIX,ozvoice.org
+  - DOMAIN-SUFFIX,sohcradio.com
+  - DOMAIN-SUFFIX,sohfrance.org
+  - DOMAIN-SUFFIX,soundofhope.eu
+  - DOMAIN-SUFFIX,soundofhope.kr
+  - DOMAIN-SUFFIX,soundofhope.org
+  - DOMAIN-SUFFIX,wanokokorosoh.com
+  - DOMAIN-SUFFIX,aboluowang.com
+  - DOMAIN-SUFFIX,bannedbook.net
+  - DOMAIN-SUFFIX,bannedbook.org
+  - DOMAIN-SUFFIX,broadpressinc.com
+  - DOMAIN-SUFFIX,chinaaffairs.org
+  - DOMAIN-SUFFIX,dafahao.com
+  - DOMAIN-SUFFIX,donatecarsoh.org
+  - DOMAIN-SUFFIX,dongtaiwang.com
+  - DOMAIN-SUFFIX,falundafa.org
+  - DOMAIN-SUFFIX,falundafa.org.tw
+  - DOMAIN-SUFFIX,falundafamuseum.org
+  - DOMAIN-SUFFIX,falungong.club
+  - DOMAIN-SUFFIX,faluninfo.net
+  - DOMAIN-SUFFIX,fawanghuihui.org
+  - DOMAIN-SUFFIX,fayuanbooks.com
+  - DOMAIN-SUFFIX,fgmtv.org
+  - DOMAIN-SUFFIX,ganjing.com
+  - DOMAIN-SUFFIX,ganjingworld.com
+  - DOMAIN-SUFFIX,guangming.org
+  - DOMAIN-SUFFIX,mhradio.org
+  - DOMAIN-SUFFIX,ninecommentaries.com
+  - DOMAIN-SUFFIX,starp2p.com
+  - DOMAIN-SUFFIX,tiandixing.org
+  - DOMAIN-SUFFIX,tiantibooks.org
+  - DOMAIN-SUFFIX,tuidang.org
+  - DOMAIN-SUFFIX,upholdjustice.org
+  - DOMAIN-SUFFIX,wujieliulan.com
+  - DOMAIN-SUFFIX,xinsheng.net
+  - DOMAIN-SUFFIX,yuanming.net
+  - DOMAIN-SUFFIX,yuming.qxbbs.org
+  - DOMAIN-SUFFIX,zhengjian.org
+  - DOMAIN-SUFFIX,zhengwunet.org
+  - DOMAIN-SUFFIX,zhenxiang.biz
+  - DOMAIN-SUFFIX,zhuichaguoji.org
+  - DOMAIN-SUFFIX,shenyun.com
+  - DOMAIN-SUFFIX,shenyun.org
+  - DOMAIN-SUFFIX,shenyuncreations.com
+  - DOMAIN-SUFFIX,shenyunperformingarts.org
   - DOMAIN-SUFFIX,forbes.com
   - DOMAIN-SUFFIX,forbesimg.com
   - DOMAIN-KEYWORD,fox
@@ -738,22 +809,6 @@ payload:
   - DOMAIN-SUFFIX,insider-intelligence.com
   - DOMAIN-SUFFIX,insider.com
   - DOMAIN-SUFFIX,insiderintelligence.com
-  - DOMAIN-SUFFIX,es-visiontimes.com
-  - DOMAIN-SUFFIX,kannewyork.com
-  - DOMAIN-SUFFIX,kanzhongguo.com
-  - DOMAIN-SUFFIX,kanzhongguo.eu
-  - DOMAIN-SUFFIX,secretchina.com
-  - DOMAIN-SUFFIX,trithucvn.net
-  - DOMAIN-SUFFIX,trithucvn.org
-  - DOMAIN-SUFFIX,vct.news
-  - DOMAIN-SUFFIX,visiontimes.com
-  - DOMAIN-SUFFIX,visiontimes.de
-  - DOMAIN-SUFFIX,visiontimes.fr
-  - DOMAIN-SUFFIX,visiontimes.it
-  - DOMAIN-SUFFIX,visiontimes.net
-  - DOMAIN-SUFFIX,visiontimesjp.com
-  - DOMAIN-SUFFIX,vtvan.com
-  - DOMAIN-SUFFIX,watchinese.com
   - DOMAIN-SUFFIX,47gyosei.jp
   - DOMAIN-SUFFIX,47news.jp
   - DOMAIN-SUFFIX,kyodo-d.info
@@ -793,6 +848,8 @@ payload:
   - DOMAIN-SUFFIX,manototv.com
   - DOMAIN-SUFFIX,matters.news
   - DOMAIN-SUFFIX,matters.one
+  - DOMAIN-SUFFIX,matters.town
+  - DOMAIN-SUFFIX,mattersprotocol.io
   - DOMAIN-SUFFIX,mediachinese.com
   - DOMAIN-SUFFIX,mysinchew.com
   - DOMAIN-SUFFIX,sinchew.com.my
@@ -1132,13 +1189,6 @@ payload:
   - DOMAIN-SUFFIX,skysports.ie
   - DOMAIN-SUFFIX,skysportsonline.com
   - DOMAIN-SUFFIX,skysportsracing.com
-  - DOMAIN-SUFFIX,bayvoice.net
-  - DOMAIN-SUFFIX,ozvoice.org
-  - DOMAIN-SUFFIX,sohcradio.com
-  - DOMAIN-SUFFIX,sohfrance.org
-  - DOMAIN-SUFFIX,soundofhope.kr
-  - DOMAIN-SUFFIX,soundofhope.org
-  - DOMAIN-SUFFIX,wanokokorosoh.com
   - DOMAIN-KEYWORD,theguardian
   - DOMAIN-SUFFIX,dev-guardianapis.com
   - DOMAIN-SUFFIX,dev-theguardian.com
@@ -1146,6 +1196,7 @@ payload:
   - DOMAIN-SUFFIX,guardianapis.com
   - DOMAIN-SUFFIX,guardianapps.co.uk
   - DOMAIN-SUFFIX,guim.co.uk
+  - DOMAIN-SUFFIX,guimcode.co.uk
   - DOMAIN-SUFFIX,theguardian.com
   - DOMAIN-SUFFIX,theguardiandns.com
   - DOMAIN-SUFFIX,theinitium.com

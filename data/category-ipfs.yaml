@@ -1,8 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,4everland.io
   - DOMAIN-SUFFIX,c4rex.co
-  - DOMAIN-SUFFIX,cf-ipfs.com
-  - DOMAIN-SUFFIX,cloudflare-ipfs.com
   - DOMAIN-SUFFIX,crustwebsites.net
   - DOMAIN-SUFFIX,dweb.link
   - DOMAIN-SUFFIX,gateway.pinata.cloud
@@ -19,3 +17,5 @@ payload:
   - DOMAIN-SUFFIX,jorropo.net
   - DOMAIN-SUFFIX,nftstorage.link
   - DOMAIN-SUFFIX,via0.com
+  - DOMAIN-SUFFIX,cf-ipfs.com
+  - DOMAIN-SUFFIX,cloudflare-ipfs.com

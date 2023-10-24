@@ -1,4 +1,7 @@
 payload:
+  - DOMAIN-SUFFIX,volcvod.com
+  - DOMAIN-SUFFIX,volces.com
+  - DOMAIN-SUFFIX,volceapplog.com
   - DOMAIN-SUFFIX,amemv.com
   - DOMAIN-SUFFIX,bytecdn.cn
   - DOMAIN-SUFFIX,byted-static.com
@@ -6,13 +9,17 @@ payload:
   - DOMAIN-SUFFIX,bytedance.com
   - DOMAIN-SUFFIX,bytedance.net
   - DOMAIN-SUFFIX,bytedanceapi.com
+  - DOMAIN-SUFFIX,bytedapm.com
   - DOMAIN-SUFFIX,bytedns.net
   - DOMAIN-SUFFIX,bytednsdoc.com
   - DOMAIN-SUFFIX,bytedns1.com
   - DOMAIN-SUFFIX,bytefcdn.com
+  - DOMAIN-SUFFIX,bytegecko.com
   - DOMAIN-SUFFIX,bytegoofy.com
   - DOMAIN-SUFFIX,bytegslb.com
+  - DOMAIN-SUFFIX,bytehwm.com
   - DOMAIN-SUFFIX,byteimg.com
+  - DOMAIN-SUFFIX,byteintl.net
   - DOMAIN-SUFFIX,bytelb.net
   - DOMAIN-SUFFIX,byteoversea.com
   - DOMAIN-SUFFIX,bytescm.com
@@ -61,7 +68,9 @@ payload:
   - DOMAIN-SUFFIX,bdxiguastatic.com
   - DOMAIN-SUFFIX,baike.com
   - DOMAIN-SUFFIX,feishu.cn
+  - DOMAIN-SUFFIX,feishu.net
   - DOMAIN-SUFFIX,feishucdn.com
+  - DOMAIN-SUFFIX,feishupkg.com
   - DOMAIN-SUFFIX,wukong.com
   - DOMAIN-SUFFIX,wukongwenda.cn
   - DOMAIN-SUFFIX,wukongwenda.com
@@ -77,13 +86,23 @@ payload:
   - DOMAIN-SUFFIX,gogokid.com.cn
   - DOMAIN-SUFFIX,gogokid.com
   - DOMAIN-SUFFIX,pipix.com
-  - DOMAIN-SUFFIX,muyewx.com
-  - DOMAIN-SUFFIX,changdunovel.com
   - DOMAIN-SUFFIX,faceu.com
   - DOMAIN-SUFFIX,ulikecam.com
   - DOMAIN-SUFFIX,bcy.net
   - DOMAIN-SUFFIX,bcyimg.com
   - DOMAIN-SUFFIX,lf-rc1.yhgfb-cn-static.com
+  - DOMAIN-SUFFIX,changdunovel.com
+  - DOMAIN-SUFFIX,fanqienovel.com
+  - DOMAIN-SUFFIX,fqnovel.com
+  - DOMAIN-SUFFIX,fqnovelpic.com
+  - DOMAIN-SUFFIX,fqnovelvod.com
+  - DOMAIN-SUFFIX,muyewx.com
+  - DOMAIN,p3-novel.byteimg.com
+  - DOMAIN,p6-novel.byteimg.com
+  - DOMAIN,ads3-normal-hl.zijieapi.com
+  - DOMAIN,ads5-normal-hl.zijieapi.com
+  - DOMAIN,log5-applog-hl.fqnovel.com
+  - DOMAIN,rtlog5-applog-hl.fqnovel.com
   - DOMAIN-SUFFIX,juejin.cn
   - DOMAIN-SUFFIX,juejin.im
   - DOMAIN-SUFFIX,xitu.io
@@ -103,6 +122,19 @@ payload:
   - DOMAIN-SUFFIX,musical.ly
   - DOMAIN-SUFFIX,tik-tokapi.com
   - DOMAIN-SUFFIX,tiktok.com
+  - DOMAIN-SUFFIX,tiktokd.net
+  - DOMAIN-SUFFIX,tiktokd.org
   - DOMAIN-SUFFIX,tiktokcdn.com
   - DOMAIN-SUFFIX,tiktokv.com
   - DOMAIN,p16-tiktokcdn-com.akamaized.net
+  - DOMAIN-SUFFIX,bds.snssdk.com
+  - DOMAIN-SUFFIX,ctobsnssdk.com
+  - DOMAIN-SUFFIX,dig.bdurl.net
+  - DOMAIN-SUFFIX,extlog.snssdk.com
+  - DOMAIN-SUFFIX,i.snssdk.com
+  - DOMAIN-SUFFIX,is.snssdk.com
+  - DOMAIN-SUFFIX,mcs.snssdk.com
+  - DOMAIN-SUFFIX,pangolin.snssdk.com
+  - DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
+  - DOMAIN-SUFFIX,pglstatp-toutiao.com
+  - DOMAIN-SUFFIX,sf3-ttcdn-tos.pstatp.com

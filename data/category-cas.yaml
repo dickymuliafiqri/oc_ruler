@@ -81,7 +81,9 @@ payload:
   - DOMAIN-SUFFIX,globalsign.fr
   - DOMAIN-SUFFIX,globalsign.net
   - DOMAIN-SUFFIX,globalsign.nl
+  - DOMAIN,crl.alphassl.com
   - DOMAIN,crl2.alphassl.com
+  - DOMAIN,global.prd.cdn.globalsign.com
   - DOMAIN,ocsp.globalsign.com
   - DOMAIN,ocsp2.globalsign.com
   - DOMAIN,secure.globalsign.com
@@ -120,6 +122,7 @@ payload:
   - DOMAIN-SUFFIX,hackerguardian.com
   - DOMAIN-SUFFIX,instantssl.com
   - DOMAIN-SUFFIX,oemssl.cn
+  - DOMAIN-SUFFIX,oemssl.cn.cdn.cloudflare.net
   - DOMAIN-SUFFIX,optimumssl.com
   - DOMAIN-SUFFIX,positivessl.com
   - DOMAIN-SUFFIX,sectigo.com
@@ -380,6 +383,7 @@ payload:
   - DOMAIN-SUFFIX,yimg.com
   - DOMAIN-SUFFIX,yimg.jp
   - DOMAIN-SUFFIX,ymail.com
+  - DOMAIN-SUFFIX,yusercontent.com
   - DOMAIN-SUFFIX,oath.cloud
   - DOMAIN-SUFFIX,oath.com
   - DOMAIN-SUFFIX,ouroath.com

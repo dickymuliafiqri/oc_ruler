@@ -3,5 +3,7 @@ payload:
   - DOMAIN-SUFFIX,ksapisrv.com
   - DOMAIN-SUFFIX,kuaishou.com
   - DOMAIN-SUFFIX,yximgs.com
+  - DOMAIN-SUFFIX,kwaizt.com
+  - DOMAIN-SUFFIX,kuaishouzt.com
   - DOMAIN,log-sdk.gifshow.com
   - DOMAIN,wlog.kuaishou.com

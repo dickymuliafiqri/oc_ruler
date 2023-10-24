@@ -1,5 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,1lib.cloud
+  - DOMAIN-SUFFIX,1lib.cz
   - DOMAIN-SUFFIX,1lib.domains
   - DOMAIN-SUFFIX,1lib.education
   - DOMAIN-SUFFIX,1lib.eu
@@ -33,6 +34,7 @@ payload:
   - DOMAIN-SUFFIX,sg1lib.org
   - DOMAIN-SUFFIX,singlelogin.app
   - DOMAIN-SUFFIX,singlelogin.me
+  - DOMAIN-SUFFIX,singlelogin.site
   - DOMAIN-SUFFIX,z-lib.org
   - DOMAIN-SUFFIX,zlib.life
   - DOMAIN-SUFFIX,zlibcdn.com

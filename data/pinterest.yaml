@@ -36,6 +36,7 @@ payload:
   - DOMAIN-SUFFIX,pinterest.jp
   - DOMAIN-SUFFIX,pinterest.kr
   - DOMAIN-SUFFIX,pinterest.mx
+  - DOMAIN-SUFFIX,pinterest.net
   - DOMAIN-SUFFIX,pinterest.nl
   - DOMAIN-SUFFIX,pinterest.nz
   - DOMAIN-SUFFIX,pinterest.pe
@@ -48,3 +49,5 @@ payload:
   - DOMAIN-SUFFIX,pinterest.uk
   - DOMAIN-SUFFIX,pinterest.vn
   - DOMAIN-SUFFIX,pinterestmail.com
+  - DOMAIN-SUFFIX,pinimg.com.cdn.cloudflare.net
+  - DOMAIN-SUFFIX,pinterest.map.fastly.net 

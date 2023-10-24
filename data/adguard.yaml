@@ -1,3 +1,5 @@
 payload:
+  - DOMAIN-SUFFIX,adguard-dns.com
+  - DOMAIN-SUFFIX,adguard-dns.io
   - DOMAIN-SUFFIX,adguard-vpn.com
   - DOMAIN-SUFFIX,adguard.com

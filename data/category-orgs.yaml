@@ -2,7 +2,6 @@ payload:
   - DOMAIN-SUFFIX,aomedia.org
   - DOMAIN-SUFFIX,atypi.org
   - DOMAIN-SUFFIX,change.org
-  - DOMAIN-SUFFIX,f-droid.org
   - DOMAIN-SUFFIX,globalsecurity.org
   - DOMAIN-SUFFIX,iana.org
   - DOMAIN-SUFFIX,ietf.org
@@ -13,7 +12,11 @@ payload:
   - DOMAIN-SUFFIX,w3.org
   - DOMAIN-SUFFIX,who.int
   - DOMAIN-SUFFIX,wto.org
+  - DOMAIN-SUFFIX,archive-it.org
   - DOMAIN-SUFFIX,archive.org
+  - DOMAIN-SUFFIX,archive.ph
+  - DOMAIN-SUFFIX,archive.today
+  - DOMAIN-SUFFIX,openlibrary.org
   - DOMAIN-SUFFIX,ccstatic.org
   - DOMAIN-SUFFIX,creativecommons.org
   - DOMAIN-SUFFIX,creativecommons.engineering
@@ -24,6 +27,10 @@ payload:
   - DOMAIN-SUFFIX,worldemojiawards.com
   - DOMAIN-SUFFIX,worldemojiday.com
   - DOMAIN-SUFFIX,xn--yt8h.la
+  - DOMAIN-SUFFIX,f-dro1d.org
+  - DOMAIN-SUFFIX,f-droid.com
+  - DOMAIN-SUFFIX,f-droid.org
+  - DOMAIN-SUFFIX,fdroid.org
   - DOMAIN-SUFFIX,ieee.org
   - DOMAIN-SUFFIX,ieee.tv
   - DOMAIN-SUFFIX,tryengineering.org
@@ -89,5 +96,6 @@ payload:
   - DOMAIN-SUFFIX,osmfoundation.org
   - DOMAIN-SUFFIX,stateofthemap.com
   - DOMAIN-SUFFIX,stateofthemap.org
+  - DOMAIN-SUFFIX,paskoocheh.com
   - DOMAIN-SUFFIX,rolfoundation.org
   - DOMAIN-SUFFIX,rolsociety.org

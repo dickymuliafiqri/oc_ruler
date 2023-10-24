@@ -1,6 +1,9 @@
 payload:
   - DOMAIN-SUFFIX,aixcoder.com
   - DOMAIN-SUFFIX,nnthink.com
+  - DOMAIN-SUFFIX,apifox.cn
+  - DOMAIN-SUFFIX,apifox.com
+  - DOMAIN-SUFFIX,baltamatica.com
   - DOMAIN-SUFFIX,blogjava.net
   - DOMAIN-SUFFIX,cnblogs.com
   - DOMAIN-SUFFIX,cnitblog.com
@@ -33,6 +36,8 @@ payload:
   - DOMAIN-SUFFIX,uniontech.com
   - DOMAIN-SUFFIX,gitee.com
   - DOMAIN-SUFFIX,gitee.io
+  - DOMAIN-SUFFIX,goproxy.cn
+  - DOMAIN-SUFFIX,goproxy.io
   - DOMAIN-SUFFIX,jinrishici.com
   - DOMAIN-SUFFIX,juejin.cn
   - DOMAIN-SUFFIX,juejin.im
